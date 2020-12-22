@@ -1,0 +1,9 @@
+int f(int a, int b){
+    return 1;
+}
+
+int main(){
+    int f;
+    f(1,2);
+    return 0;
+}

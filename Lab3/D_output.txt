@@ -1,0 +1,2397 @@
+./tests/Dt/D-1.0.cmm
+Error type 15 at Line 37: Initialized field "S5055_m2_i".
+Error type 15 at Line 39: Redefined field "S5055_m0_a2_S5052".
+Error type 17 at Line 45: Undefined structure "S5059".
+Error type 2 at Line 52: Undefined function "i_func_3598".
+Error type 10 at Line 54: Illegal use of of "[]" operator.
+Error type 11 at Line 60: Illegal use of operator "()".
+Error type 13 at Line 61: Illegal use of operator ".".
+Error type 1 at Line 66: Undefined variable "l2443".
+Error type 4 at Line 68: Redefined function "i_func_3596".
+Error type 16 at Line 89: Duplicated name "dup39".
+Error type 9 at Line 114: Arguments mismatch in function "i_func_3677".
+Error type 6 at Line 122: Assign a value to a right-hand-only expression.
+Error type 8 at Line 123: Return type mismatch.
+Error type 3 at Line 128: Redefined variable "redef_L1346".
+Error type 5 at Line 148: Type mismatched for assignment.
+
+
+./tests/Dt/D-1.1.cmm
+Error type 15 at Line 96: Redefined field "S5162_m0_a1_a1_a1_S5158".
+Error type 15 at Line 97: Initialized field "S5162_m2_a1_a1_a1_a1_a1_S5153".
+Error type 11 at Line 106: Illegal use of operator "()".
+Error type 14 at Line 116: Non-existent field "S5152_i23".
+Error type 6 at Line 123: Assign a value to a right-hand-only expression.
+Error type 13 at Line 145: Illegal use of operator ".".
+Error type 4 at Line 149: Redefined function "i_func_3678".
+Error type 16 at Line 233: Duplicated name "dup40".
+Error type 5 at Line 282: Type mismatched for assignment.
+Error type 17 at Line 486: Undefined structure "S5264".
+Error type 9 at Line 551: Arguments mismatch in function "i_func_3760".
+Error type 3 at Line 1317: Redefined variable "redef_L1417".
+Error type 8 at Line 1321: Return type mismatch.
+
+
+./tests/Dt/D-1.2.cmm
+Error type 15 at Line 88: Initialized field "S5333_m1_a1_a2_f".
+Error type 15 at Line 89: Redefined field "S5333_m0_i".
+Error type 13 at Line 117: Illegal use of operator ".".
+Error type 7 at Line 125: Operand type mismatch.
+Error type 10 at Line 126: Illegal use of of "[]" operator.
+Error type 11 at Line 131: Illegal use of operator "()".
+Error type 4 at Line 138: Redefined function "i_func_3763".
+Error type 6 at Line 239: Assign a value to a right-hand-only expression.
+Error type 14 at Line 243: Non-existent field "S5330_i13".
+Error type 1 at Line 245: Undefined variable "l2639".
+Error type 16 at Line 264: Duplicated name "dup41".
+Error type 3 at Line 301: Redefined variable "redef_L1454".
+Error type 5 at Line 766: Type mismatched for assignment.
+Error type 9 at Line 779: Arguments mismatch in function "i_func_3844".
+Error type 8 at Line 821: Return type mismatch.
+Error type 17 at Line 825: Undefined structure "S5453".
+
+
+./tests/Dt/D-1.3.cmm
+Error type 15 at Line 25: Initialized field "S5477_m0_a1_a1_a1_a2_i".
+Error type 15 at Line 29: Redefined field "S5477_m2_a1_f".
+Error type 1 at Line 45: Undefined variable "l2673".
+Error type 11 at Line 47: Illegal use of operator "()".
+Error type 13 at Line 50: Illegal use of operator ".".
+Error type 4 at Line 52: Redefined function "i_func_3849".
+Error type 6 at Line 98: Assign a value to a right-hand-only expression.
+Error type 8 at Line 104: Return type mismatch.
+Error type 16 at Line 107: Duplicated name "dup42".
+Error type 9 at Line 159: Arguments mismatch in function "i_func_3931".
+Error type 5 at Line 169: Type mismatched for assignment.
+Error type 7 at Line 206: Operand type mismatch.
+Error type 17 at Line 390: Undefined structure "S5616".
+Error type 3 at Line 448: Redefined variable "redef_L1551".
+
+
+./tests/Dt/D-1.4.cmm
+Error type 15 at Line 21: Redefined field "S5627_m0_i".
+Error type 15 at Line 24: Initialized field "S5627_m7_i".
+Error type 11 at Line 49: Illegal use of operator "()".
+Error type 14 at Line 66: Non-existent field "S5626_i33".
+Error type 10 at Line 69: Illegal use of of "[]" operator.
+Error type 4 at Line 72: Redefined function "i_func_3935".
+Error type 16 at Line 105: Duplicated name "dup43".
+Error type 5 at Line 182: Type mismatched for assignment.
+Error type 6 at Line 203: Assign a value to a right-hand-only expression.
+Error type 9 at Line 230: Arguments mismatch in function "i_func_4017".
+Error type 3 at Line 362: Redefined variable "redef_L1621".
+Error type 17 at Line 373: Undefined structure "S5777".
+Error type 8 at Line 395: Return type mismatch.
+
+
+./tests/Dt/D-2.0.cmm
+Error type 15 at Line 9: Initialized field "S5785_m0_i".
+Error type 15 at Line 10: Initialized field "S5785_m1_a1_f".
+Error type 15 at Line 11: Redefined field "S5785_m0_i".
+Error type 10 at Line 18: Illegal use of of "[]" operator.
+Error type 4 at Line 25: Redefined function "i_func_4020".
+Error type 14 at Line 31: Non-existent field "S5784_i71".
+Error type 2 at Line 33: Undefined function "i_func_4053".
+Error type 13 at Line 37: Illegal use of operator ".".
+Error type 12 at Line 39: Array index is not an integer.
+Error type 16 at Line 43: Duplicated name "dup44".
+Error type 16 at Line 47: Duplicated name "dup45".
+Error type 7 at Line 68: Operand type mismatch.
+Error type 17 at Line 70: Undefined structure "S5878".
+Error type 8 at Line 76: Return type mismatch.
+Error type 3 at Line 81: Redefined variable "redef_L1650".
+Error type 6 at Line 100: Assign a value to a right-hand-only expression.
+Error type 5 at Line 123: Type mismatched for assignment.
+Error type 8 at Line 125: Return type mismatch.
+Error type 3 at Line 130: Redefined variable "redef_L1657".
+Error type 17 at Line 154: Undefined structure "S5897".
+Error type 7 at Line 163: Operand type mismatch.
+Error type 5 at Line 174: Type mismatched for assignment.
+Error type 6 at Line 214: Assign a value to a right-hand-only expression.
+
+
+./tests/Dt/D-2.1.cmm
+Error type 15 at Line 46: Initialized field "S5920_m1_a1_a1_a1_S5914".
+Error type 15 at Line 47: Initialized field "S5920_m2_a1_a2_f".
+Error type 15 at Line 48: Redefined field "S5920_m0_a1_a2_f".
+Error type 15 at Line 50: Redefined field "S5920_m4_a1_a2_f".
+Error type 5 at Line 59: Type mismatched for assignment.
+Error type 6 at Line 71: Assign a value to a right-hand-only expression.
+Error type 2 at Line 72: Undefined function "i_func_4143".
+Error type 1 at Line 73: Undefined variable "l2924".
+Error type 10 at Line 76: Illegal use of of "[]" operator.
+Error type 17 at Line 91: Undefined structure "S6017".
+Error type 4 at Line 113: Redefined function "i_func_4106".
+Error type 6 at Line 154: Assign a value to a right-hand-only expression.
+Error type 5 at Line 155: Type mismatched for assignment.
+Error type 4 at Line 162: Redefined function "i_func_4187".
+Error type 7 at Line 192: Operand type mismatch.
+Error type 8 at Line 210: Return type mismatch.
+Error type 16 at Line 213: Duplicated name "dup46".
+Error type 16 at Line 217: Duplicated name "dup47".
+Error type 8 at Line 247: Return type mismatch.
+Error type 17 at Line 310: Undefined structure "S6061".
+Error type 3 at Line 312: Redefined variable "redef_L1743".
+Error type 3 at Line 438: Redefined variable "redef_L1758".
+Error type 9 at Line 776: Arguments mismatch in function "i_func_4192".
+
+
+./tests/Dt/D-2.2.cmm
+Error type 15 at Line 30: Redefined field "S6084_m0_a1_a2_i".
+Error type 15 at Line 31: Redefined field "S6084_m0_a1_a2_i".
+Error type 15 at Line 32: Initialized field "S6084_m3_i".
+Error type 15 at Line 33: Initialized field "S6084_m4_a1_S6081".
+Error type 3 at Line 40: Redefined variable "redef_L1761".
+Error type 14 at Line 43: Non-existent field "S6083_i54".
+Error type 11 at Line 44: Illegal use of operator "()".
+Error type 1 at Line 45: Undefined variable "l2964".
+Error type 12 at Line 48: Array index is not an integer.
+Error type 13 at Line 50: Illegal use of operator ".".
+Error type 4 at Line 54: Redefined function "i_func_4196".
+Error type 11 at Line 72: Illegal use of operator "()".
+Error type 10 at Line 75: Illegal use of of "[]" operator.
+Error type 13 at Line 76: Illegal use of operator ".".
+Error type 1 at Line 79: Undefined variable "l3035".
+Error type 6 at Line 83: Assign a value to a right-hand-only expression.
+Error type 8 at Line 106: Return type mismatch.
+Error type 16 at Line 109: Duplicated name "dup48".
+Error type 8 at Line 150: Return type mismatch.
+Error type 9 at Line 180: Arguments mismatch in function "i_func_4277".
+Error type 17 at Line 182: Undefined structure "S6186".
+Error type 3 at Line 184: Redefined variable "redef_L1782".
+Error type 9 at Line 194: Arguments mismatch in function "top_caller".
+Error type 17 at Line 197: Undefined structure "S6190".
+Error type 6 at Line 201: Assign a value to a right-hand-only expression.
+Error type 5 at Line 215: Type mismatched for assignment.
+
+
+./tests/Dt/D-2.3.cmm
+Error type 15 at Line 28: Initialized field "S6203_m0_i".
+Error type 15 at Line 29: Redefined field "S6203_m0_i".
+Error type 14 at Line 56: Non-existent field "S6201_i21".
+Error type 6 at Line 59: Assign a value to a right-hand-only expression.
+Error type 10 at Line 61: Illegal use of of "[]" operator.
+Error type 1 at Line 62: Undefined variable "l3088".
+Error type 2 at Line 63: Undefined function "i_func_4335".
+Error type 13 at Line 65: Illegal use of operator ".".
+Error type 14 at Line 67: Non-existent field "S6201_i74".
+Error type 8 at Line 73: Return type mismatch.
+Error type 4 at Line 75: Redefined function "i_func_4278".
+Error type 17 at Line 76: Undefined structure "S6296".
+Error type 16 at Line 99: Duplicated name "dup49".
+Error type 3 at Line 105: Redefined variable "redef_L1814".
+Error type 9 at Line 136: Arguments mismatch in function "i_func_4359".
+Error type 9 at Line 143: Arguments mismatch in function "i_func_4359".
+Error type 3 at Line 151: Redefined variable "redef_L1816".
+Error type 5 at Line 175: Type mismatched for assignment.
+Error type 8 at Line 187: Return type mismatch.
+Error type 6 at Line 188: Assign a value to a right-hand-only expression.
+Error type 17 at Line 229: Undefined structure "S6319".
+Error type 7 at Line 251: Operand type mismatch.
+Error type 5 at Line 252: Type mismatched for assignment.
+
+
+./tests/Dt/D-2.4.cmm
+Error type 15 at Line 104: Initialized field "S6329_m0_i".
+Error type 15 at Line 105: Redefined field "S6329_m0_i".
+Error type 17 at Line 109: Undefined structure "S6332".
+Error type 2 at Line 116: Undefined function "i_func_4378".
+Error type 13 at Line 117: Illegal use of operator ".".
+Error type 11 at Line 118: Illegal use of operator "()".
+Error type 2 at Line 128: Undefined function "i_func_4436".
+Error type 12 at Line 146: Array index is not an integer.
+Error type 8 at Line 148: Return type mismatch.
+Error type 4 at Line 150: Redefined function "i_func_4362".
+Error type 6 at Line 194: Assign a value to a right-hand-only expression.
+Error type 5 at Line 208: Type mismatched for assignment.
+Error type 5 at Line 216: Type mismatched for assignment.
+Error type 6 at Line 225: Assign a value to a right-hand-only expression.
+Error type 16 at Line 274: Duplicated name "dup50".
+Error type 16 at Line 278: Duplicated name "dup51".
+Error type 8 at Line 324: Return type mismatch.
+Error type 3 at Line 413: Redefined variable "redef_L1864".
+Error type 9 at Line 502: Arguments mismatch in function "i_func_4444".
+Error type 9 at Line 560: Arguments mismatch in function "i_func_4445".
+Error type 17 at Line 568: Undefined structure "S6457".
+Error type 3 at Line 735: Redefined variable "redef_L1891".
+
+
+./tests/Dt/D-3.0.cmm
+Error type 15 at Line 73: Initialized field "S6498_m0_i".
+Error type 15 at Line 74: Redefined field "S6498_m0_i".
+Error type 15 at Line 75: Initialized field "S6498_m2_a1_a2_i".
+Error type 15 at Line 76: Redefined field "S6498_m0_i".
+Error type 3 at Line 81: Redefined variable "redef_L1914".
+Error type 14 at Line 98: Non-existent field "S6491_i6".
+Error type 13 at Line 106: Illegal use of operator ".".
+Error type 11 at Line 108: Illegal use of operator "()".
+Error type 2 at Line 109: Undefined function "i_func_4480".
+Error type 1 at Line 111: Undefined variable "l3234".
+Error type 13 at Line 113: Illegal use of operator ".".
+Error type 10 at Line 114: Illegal use of of "[]" operator.
+Error type 14 at Line 117: Non-existent field "S6491_i46".
+Error type 11 at Line 119: Illegal use of operator "()".
+Error type 1 at Line 121: Undefined variable "l3252".
+Error type 13 at Line 122: Illegal use of operator ".".
+Error type 11 at Line 124: Illegal use of operator "()".
+Error type 1 at Line 125: Undefined variable "l3259".
+Error type 2 at Line 127: Undefined function "i_func_4516".
+Error type 10 at Line 128: Illegal use of of "[]" operator.
+Error type 14 at Line 131: Non-existent field "S6491_i71".
+Error type 5 at Line 147: Type mismatched for assignment.
+Error type 7 at Line 149: Operand type mismatch.
+Error type 6 at Line 167: Assign a value to a right-hand-only expression.
+Error type 5 at Line 169: Type mismatched for assignment.
+Error type 5 at Line 177: Type mismatched for assignment.
+Error type 17 at Line 182: Undefined structure "S6588".
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+Error type 17 at Line 198: Undefined structure "S6597".
+Error type 6 at Line 219: Assign a value to a right-hand-only expression.
+Error type 4 at Line 224: Redefined function "i_func_4449".
+Error type 8 at Line 353: Return type mismatch.
+Error type 4 at Line 355: Redefined function "i_func_4530".
+Error type 3 at Line 357: Redefined variable "redef_L1954".
+Error type 4 at Line 502: Redefined function "i_func_4531".
+Error type 17 at Line 503: Undefined structure "S6631".
+Error type 16 at Line 560: Duplicated name "dup52".
+Error type 16 at Line 564: Duplicated name "dup53".
+Error type 16 at Line 568: Duplicated name "dup54".
+Error type 3 at Line 574: Redefined variable "redef_L1969".
+Error type 9 at Line 632: Arguments mismatch in function "i_func_4532".
+Error type 9 at Line 699: Arguments mismatch in function "i_func_4533".
+Error type 9 at Line 815: Arguments mismatch in function "i_func_4534".
+Error type 8 at Line 1234: Return type mismatch.
+Error type 8 at Line 1625: Return type mismatch.
+
+
+./tests/Dt/D-3.1.cmm
+Error type 15 at Line 44: Initialized field "S6664_m0_i".
+Error type 15 at Line 47: Initialized field "S6664_m3_a2_S6660".
+Error type 15 at Line 48: Redefined field "S6664_m1_a1_a1_a1_a2_a1_i".
+Error type 15 at Line 49: Redefined field "S6664_m2_a1_a1_a1_a2_a1_i".
+Error type 15 at Line 50: Initialized field "S6664_m6_a2_a1_i".
+Error type 15 at Line 51: Redefined field "S6664_m0_i".
+Error type 6 at Line 59: Assign a value to a right-hand-only expression.
+Error type 4 at Line 61: Redefined function "i_func_4539".
+Error type 3 at Line 63: Redefined variable "redef_L1996".
+Error type 11 at Line 68: Illegal use of operator "()".
+Error type 2 at Line 72: Undefined function "i_func_4561".
+Error type 14 at Line 73: Non-existent field "S6661_i11".
+Error type 1 at Line 83: Undefined variable "l3354".
+Error type 6 at Line 84: Assign a value to a right-hand-only expression.
+Error type 11 at Line 100: Illegal use of operator "()".
+Error type 13 at Line 102: Illegal use of operator ".".
+Error type 2 at Line 103: Undefined function "i_func_4614".
+Error type 4 at Line 105: Redefined function "i_func_4592".
+Error type 3 at Line 107: Redefined variable "redef_L2005".
+Error type 17 at Line 108: Undefined structure "S6760".
+Error type 6 at Line 138: Assign a value to a right-hand-only expression.
+Error type 5 at Line 145: Type mismatched for assignment.
+Error type 4 at Line 154: Redefined function "i_func_4621".
+Error type 5 at Line 173: Type mismatched for assignment.
+Error type 5 at Line 180: Type mismatched for assignment.
+Error type 16 at Line 191: Duplicated name "dup55".
+Error type 17 at Line 196: Undefined structure "S6781".
+Error type 7 at Line 224: Operand type mismatch.
+Error type 8 at Line 283: Return type mismatch.
+Error type 17 at Line 287: Undefined structure "S6798".
+Error type 3 at Line 312: Redefined variable "redef_L2048".
+Error type 9 at Line 382: Arguments mismatch in function "i_func_4623".
+Error type 8 at Line 388: Return type mismatch.
+Error type 9 at Line 411: Arguments mismatch in function "i_func_4625".
+Error type 9 at Line 422: Arguments mismatch in function "top_caller".
+Error type 8 at Line 469: Return type mismatch.
+
+
+./tests/Dt/D-3.2.cmm
+Error type 15 at Line 43: Initialized field "S6813_m0_a1_a2_i".
+Error type 15 at Line 44: Redefined field "S6813_m0_a1_a2_i".
+Error type 15 at Line 45: Redefined field "S6813_m0_a1_a2_i".
+Error type 15 at Line 46: Initialized field "S6813_m3_a1_a1_f".
+Error type 15 at Line 47: Redefined field "S6813_m3_a1_a1_f".
+Error type 15 at Line 48: Initialized field "S6813_m5_a1_a1_S6810".
+Error type 14 at Line 69: Non-existent field "S6809_i1".
+Error type 11 at Line 71: Illegal use of operator "()".
+Error type 2 at Line 72: Undefined function "i_func_4640".
+Error type 14 at Line 73: Non-existent field "S6809_i15".
+Error type 11 at Line 74: Illegal use of operator "()".
+Error type 1 at Line 75: Undefined variable "l3378".
+Error type 13 at Line 77: Illegal use of operator ".".
+Error type 2 at Line 80: Undefined function "i_func_4659".
+Error type 2 at Line 94: Undefined function "i_func_4668".
+Error type 11 at Line 95: Illegal use of operator "()".
+Error type 1 at Line 96: Undefined variable "l3413".
+Error type 6 at Line 98: Assign a value to a right-hand-only expression.
+Error type 14 at Line 101: Non-existent field "S6809_i47".
+Error type 1 at Line 102: Undefined variable "l3436".
+Error type 4 at Line 104: Redefined function "i_func_4627".
+Error type 17 at Line 112: Undefined structure "S6904".
+Error type 5 at Line 132: Type mismatched for assignment.
+Error type 8 at Line 140: Return type mismatch.
+Error type 7 at Line 143: Operand type mismatch.
+Error type 5 at Line 145: Type mismatched for assignment.
+Error type 7 at Line 147: Operand type mismatch.
+Error type 5 at Line 151: Type mismatched for assignment.
+Error type 16 at Line 154: Duplicated name "dup56".
+Error type 16 at Line 158: Duplicated name "dup57".
+Error type 16 at Line 162: Duplicated name "dup58".
+Error type 3 at Line 168: Redefined variable "redef_L2070".
+Error type 17 at Line 169: Undefined structure "S6909".
+Error type 6 at Line 224: Assign a value to a right-hand-only expression.
+Error type 9 at Line 242: Arguments mismatch in function "i_func_4708".
+Error type 8 at Line 248: Return type mismatch.
+Error type 3 at Line 253: Redefined variable "redef_L2077".
+Error type 9 at Line 264: Arguments mismatch in function "i_func_4709".
+Error type 9 at Line 284: Arguments mismatch in function "i_func_4709".
+Error type 6 at Line 295: Assign a value to a right-hand-only expression.
+Error type 8 at Line 296: Return type mismatch.
+Error type 17 at Line 300: Undefined structure "S6918".
+Error type 3 at Line 302: Redefined variable "redef_L2081".
+
+
+./tests/Dt/D-3.3.cmm
+Error type 15 at Line 88: Initialized field "S6931_m0_a1_a1_f".
+Error type 15 at Line 89: Redefined field "S6931_m0_a1_a1_f".
+Error type 17 at Line 93: Undefined structure "S6934".
+Error type 14 at Line 98: Non-existent field "S6927_i0".
+Error type 1 at Line 99: Undefined variable "l3443".
+Error type 7 at Line 102: Operand type mismatch.
+Error type 12 at Line 104: Array index is not an integer.
+Error type 13 at Line 106: Illegal use of operator ".".
+Error type 10 at Line 110: Illegal use of of "[]" operator.
+Error type 7 at Line 111: Operand type mismatch.
+Error type 3 at Line 131: Redefined variable "redef_L2088".
+Error type 6 at Line 134: Assign a value to a right-hand-only expression.
+Error type 6 at Line 152: Assign a value to a right-hand-only expression.
+Error type 5 at Line 160: Type mismatched for assignment.
+Error type 5 at Line 164: Type mismatched for assignment.
+Error type 6 at Line 169: Assign a value to a right-hand-only expression.
+Error type 5 at Line 171: Type mismatched for assignment.
+Error type 4 at Line 173: Redefined function "i_func_4710".
+Error type 8 at Line 240: Return type mismatch.
+Error type 3 at Line 281: Redefined variable "redef_L2121".
+Error type 4 at Line 347: Redefined function "i_func_4791".
+Error type 4 at Line 472: Redefined function "i_func_4792".
+Error type 17 at Line 473: Undefined structure "S7075".
+Error type 17 at Line 485: Undefined structure "S7077".
+Error type 16 at Line 504: Duplicated name "dup59".
+Error type 16 at Line 508: Duplicated name "dup60".
+Error type 16 at Line 512: Duplicated name "dup61".
+Error type 3 at Line 518: Redefined variable "redef_L2157".
+Error type 9 at Line 537: Arguments mismatch in function "i_func_4793".
+Error type 9 at Line 570: Arguments mismatch in function "i_func_4793".
+Error type 8 at Line 818: Return type mismatch.
+Error type 8 at Line 857: Return type mismatch.
+
+
+./tests/Dt/D-3.4.cmm
+Error type 15 at Line 24: Redefined field "S7095_m0_i".
+Error type 15 at Line 25: Initialized field "S7095_m2_i".
+Error type 15 at Line 26: Redefined field "S7095_m2_i".
+Error type 15 at Line 27: Initialized field "S7095_m4_i".
+Error type 15 at Line 28: Initialized field "S7095_m5_a1_S7094".
+Error type 15 at Line 29: Redefined field "S7095_m0_i".
+Error type 7 at Line 49: Operand type mismatch.
+Error type 17 at Line 52: Undefined structure "S7139".
+Error type 14 at Line 60: Non-existent field "S7092_i66".
+Error type 11 at Line 62: Illegal use of operator "()".
+Error type 14 at Line 63: Non-existent field "S7092_i78".
+Error type 5 at Line 69: Type mismatched for assignment.
+Error type 17 at Line 74: Undefined structure "S7195".
+Error type 3 at Line 84: Redefined variable "redef_L2186".
+Error type 6 at Line 92: Assign a value to a right-hand-only expression.
+Error type 7 at Line 98: Operand type mismatch.
+Error type 4 at Line 103: Redefined function "i_func_4802".
+Error type 5 at Line 114: Type mismatched for assignment.
+Error type 6 at Line 116: Assign a value to a right-hand-only expression.
+Error type 6 at Line 119: Assign a value to a right-hand-only expression.
+Error type 5 at Line 129: Type mismatched for assignment.
+Error type 7 at Line 131: Operand type mismatch.
+Error type 8 at Line 143: Return type mismatch.
+Error type 4 at Line 145: Redefined function "i_func_4883".
+Error type 3 at Line 170: Redefined variable "redef_L2219".
+Error type 8 at Line 183: Return type mismatch.
+Error type 17 at Line 216: Undefined structure "S7241".
+Error type 3 at Line 229: Redefined variable "redef_L2237".
+Error type 4 at Line 240: Redefined function "i_func_4884".
+Error type 16 at Line 285: Duplicated name "dup62".
+Error type 16 at Line 289: Duplicated name "dup63".
+Error type 16 at Line 293: Duplicated name "dup64".
+Error type 9 at Line 311: Arguments mismatch in function "i_func_4885".
+Error type 9 at Line 318: Arguments mismatch in function "i_func_4885".
+Error type 8 at Line 431: Return type mismatch.
+
+
+./tests/Dt/D-4.0.cmm
+Error type 15 at Line 97: Initialized field "S7264_m0_a1_a2_i".
+Error type 15 at Line 98: Redefined field "S7264_m0_a1_a2_i".
+Error type 15 at Line 100: Initialized field "S7264_m3_a1_a1_S7260".
+Error type 15 at Line 101: Redefined field "S7264_m0_a1_a2_i".
+Error type 15 at Line 102: Redefined field "S7264_m2_i".
+Error type 15 at Line 103: Redefined field "S7264_m3_a1_a1_S7260".
+Error type 15 at Line 104: Initialized field "S7264_m7_i".
+Error type 15 at Line 105: Initialized field "S7264_m8_a1_a1_a1_S7258".
+Error type 17 at Line 109: Undefined structure "S7267".
+Error type 10 at Line 118: Illegal use of of "[]" operator.
+Error type 7 at Line 122: Operand type mismatch.
+Error type 13 at Line 123: Illegal use of operator ".".
+Error type 10 at Line 124: Illegal use of of "[]" operator.
+Error type 13 at Line 128: Illegal use of operator ".".
+Error type 2 at Line 131: Undefined function "i_func_4914".
+Error type 1 at Line 136: Undefined variable "l3634".
+Error type 1 at Line 138: Undefined variable "l3639".
+Error type 10 at Line 145: Illegal use of of "[]" operator.
+Error type 1 at Line 147: Undefined variable "l3653".
+Error type 2 at Line 149: Undefined function "i_func_4945".
+Error type 13 at Line 151: Illegal use of operator ".".
+Error type 11 at Line 154: Illegal use of operator "()".
+Error type 13 at Line 155: Illegal use of operator ".".
+Error type 2 at Line 157: Undefined function "i_func_4967".
+Error type 7 at Line 199: Operand type mismatch.
+Error type 6 at Line 214: Assign a value to a right-hand-only expression.
+Error type 14 at Line 226: Non-existent field "S7263_i23".
+Error type 4 at Line 233: Redefined function "i_func_4888".
+Error type 5 at Line 240: Type mismatched for assignment.
+Error type 6 at Line 241: Assign a value to a right-hand-only expression.
+Error type 5 at Line 242: Type mismatched for assignment.
+Error type 6 at Line 253: Assign a value to a right-hand-only expression.
+Error type 5 at Line 263: Type mismatched for assignment.
+Error type 5 at Line 268: Type mismatched for assignment.
+Error type 8 at Line 272: Return type mismatch.
+Error type 17 at Line 275: Undefined structure "S7353".
+Error type 17 at Line 276: Undefined structure "S7354".
+Error type 3 at Line 278: Redefined variable "redef_L2254".
+Error type 3 at Line 410: Redefined variable "redef_L2263".
+Error type 6 at Line 421: Assign a value to a right-hand-only expression.
+Error type 3 at Line 429: Redefined variable "redef_L2268".
+Error type 3 at Line 449: Redefined variable "redef_L2278".
+Error type 4 at Line 513: Redefined function "i_func_4969".
+Error type 17 at Line 528: Undefined structure "S7389".
+Error type 8 at Line 553: Return type mismatch.
+Error type 4 at Line 583: Redefined function "i_func_4970".
+Error type 4 at Line 628: Redefined function "i_func_4971".
+Error type 8 at Line 783: Return type mismatch.
+Error type 16 at Line 786: Duplicated name "dup65".
+Error type 16 at Line 790: Duplicated name "dup66".
+Error type 16 at Line 794: Duplicated name "dup67".
+Error type 16 at Line 798: Duplicated name "dup68".
+Error type 9 at Line 1304: Arguments mismatch in function "i_func_4972".
+Error type 9 at Line 1412: Arguments mismatch in function "i_func_4976".
+Error type 8 at Line 1414: Return type mismatch.
+Error type 9 at Line 1939: Arguments mismatch in function "i_func_4978".
+Error type 9 at Line 2015: Arguments mismatch in function "i_func_4974".
+
+
+./tests/Dt/D-4.1.cmm
+Error type 15 at Line 57: Initialized field "S7431_m0_a1_S7425".
+Error type 15 at Line 58: Redefined field "S7431_m0_a1_S7425".
+Error type 15 at Line 59: Redefined field "S7431_m0_a1_S7425".
+Error type 15 at Line 60: Initialized field "S7431_m3_a1_a2_a1_a1_f".
+Error type 14 at Line 70: Non-existent field "S7427_i7".
+Error type 1 at Line 71: Undefined variable "l3701".
+Error type 14 at Line 73: Non-existent field "S7426_i13".
+Error type 6 at Line 74: Assign a value to a right-hand-only expression.
+Error type 4 at Line 76: Redefined function "i_func_4979".
+Error type 2 at Line 82: Undefined function "i_func_5028".
+Error type 14 at Line 84: Non-existent field "S7425_i27".
+Error type 5 at Line 89: Type mismatched for assignment.
+Error type 11 at Line 95: Illegal use of operator "()".
+Error type 14 at Line 96: Non-existent field "S7425_i10".
+Error type 13 at Line 97: Illegal use of operator ".".
+Error type 1 at Line 98: Undefined variable "l3754".
+Error type 10 at Line 99: Illegal use of of "[]" operator.
+Error type 6 at Line 107: Assign a value to a right-hand-only expression.
+Error type 4 at Line 123: Redefined function "i_func_5060".
+Error type 5 at Line 127: Type mismatched for assignment.
+Error type 5 at Line 134: Type mismatched for assignment.
+Error type 5 at Line 136: Type mismatched for assignment.
+Error type 6 at Line 151: Assign a value to a right-hand-only expression.
+Error type 3 at Line 167: Redefined variable "redef_L2346".
+Error type 4 at Line 204: Redefined function "i_func_5061".
+Error type 17 at Line 232: Undefined structure "S7543".
+Error type 4 at Line 266: Redefined function "i_func_5062".
+Error type 17 at Line 279: Undefined structure "S7549".
+Error type 3 at Line 281: Redefined variable "redef_L2363".
+Error type 16 at Line 293: Duplicated name "dup69".
+Error type 16 at Line 297: Duplicated name "dup70".
+Error type 3 at Line 303: Redefined variable "redef_L2365".
+Error type 17 at Line 304: Undefined structure "S7554".
+Error type 8 at Line 392: Return type mismatch.
+Error type 17 at Line 490: Undefined structure "S7562".
+Error type 9 at Line 522: Arguments mismatch in function "i_func_5063".
+Error type 8 at Line 528: Return type mismatch.
+Error type 8 at Line 636: Return type mismatch.
+Error type 9 at Line 710: Arguments mismatch in function "i_func_5064".
+Error type 8 at Line 718: Return type mismatch.
+Error type 3 at Line 723: Redefined variable "redef_L2391".
+Error type 9 at Line 879: Arguments mismatch in function "i_func_5065".
+Error type 9 at Line 883: Arguments mismatch in function "i_func_5063".
+
+
+./tests/Dt/D-4.2.cmm
+Error type 15 at Line 40: Initialized field "S7593_m1_a1_S7588".
+Error type 15 at Line 41: Initialized field "S7593_m2_a1_a1_S7588".
+Error type 15 at Line 42: Initialized field "S7593_m3_i".
+Error type 15 at Line 43: Redefined field "S7593_m0_a1_a1_a2_i".
+Error type 15 at Line 44: Initialized field "S7593_m5_a1_a2_i".
+Error type 15 at Line 45: Redefined field "S7593_m1_a1_S7588".
+Error type 15 at Line 46: Redefined field "S7593_m0_a1_a1_a2_i".
+Error type 13 at Line 64: Illegal use of operator ".".
+Error type 13 at Line 66: Illegal use of operator ".".
+Error type 14 at Line 67: Non-existent field "S7591_i69".
+Error type 6 at Line 68: Assign a value to a right-hand-only expression.
+Error type 13 at Line 73: Illegal use of operator ".".
+Error type 11 at Line 75: Illegal use of operator "()".
+Error type 14 at Line 76: Non-existent field "S7591_i43".
+Error type 8 at Line 77: Return type mismatch.
+Error type 4 at Line 79: Redefined function "i_func_5069".
+Error type 3 at Line 81: Redefined variable "redef_L2404".
+Error type 5 at Line 86: Type mismatched for assignment.
+Error type 6 at Line 94: Assign a value to a right-hand-only expression.
+Error type 5 at Line 100: Type mismatched for assignment.
+Error type 5 at Line 127: Type mismatched for assignment.
+Error type 4 at Line 132: Redefined function "i_func_5150".
+Error type 17 at Line 133: Undefined structure "S7686".
+Error type 5 at Line 155: Type mismatched for assignment.
+Error type 6 at Line 175: Assign a value to a right-hand-only expression.
+Error type 4 at Line 178: Redefined function "i_func_5151".
+Error type 3 at Line 180: Redefined variable "redef_L2421".
+Error type 6 at Line 188: Assign a value to a right-hand-only expression.
+Error type 16 at Line 205: Duplicated name "dup71".
+Error type 16 at Line 209: Duplicated name "dup72".
+Error type 17 at Line 214: Undefined structure "S7703".
+Error type 9 at Line 249: Arguments mismatch in function "i_func_5152".
+Error type 9 at Line 257: Arguments mismatch in function "i_func_5152".
+Error type 3 at Line 306: Redefined variable "redef_L2436".
+Error type 17 at Line 373: Undefined structure "S7724".
+Error type 8 at Line 400: Return type mismatch.
+Error type 9 at Line 420: Arguments mismatch in function "i_func_5154".
+Error type 3 at Line 427: Redefined variable "redef_L2464".
+Error type 8 at Line 448: Return type mismatch.
+Error type 17 at Line 513: Undefined structure "S7750".
+Error type 9 at Line 564: Arguments mismatch in function "i_func_5153".
+Error type 8 at Line 570: Return type mismatch.
+
+
+./tests/Dt/D-4.3.cmm
+Error type 15 at Line 11: Initialized field "S7755_m0_a1_S7754".
+Error type 15 at Line 12: Initialized field "S7755_m1_a1_a1_a1_f".
+Error type 15 at Line 13: Redefined field "S7755_m0_a1_S7754".
+Error type 13 at Line 26: Illegal use of operator ".".
+Error type 11 at Line 27: Illegal use of operator "()".
+Error type 10 at Line 29: Illegal use of of "[]" operator.
+Error type 6 at Line 32: Assign a value to a right-hand-only expression.
+Error type 5 at Line 35: Type mismatched for assignment.
+Error type 1 at Line 41: Undefined variable "l3863".
+Error type 2 at Line 42: Undefined function "i_func_5187".
+Error type 13 at Line 43: Illegal use of operator ".".
+Error type 3 at Line 50: Redefined variable "redef_L2488".
+Error type 5 at Line 52: Type mismatched for assignment.
+Error type 13 at Line 62: Illegal use of operator ".".
+Error type 6 at Line 64: Assign a value to a right-hand-only expression.
+Error type 4 at Line 80: Redefined function "i_func_5159".
+Error type 3 at Line 82: Redefined variable "redef_L2499".
+Error type 6 at Line 96: Assign a value to a right-hand-only expression.
+Error type 8 at Line 99: Return type mismatch.
+Error type 7 at Line 123: Operand type mismatch.
+Error type 5 at Line 127: Type mismatched for assignment.
+Error type 6 at Line 130: Assign a value to a right-hand-only expression.
+Error type 4 at Line 133: Redefined function "i_func_5240".
+Error type 17 at Line 155: Undefined structure "S7867".
+Error type 17 at Line 159: Undefined structure "S7869".
+Error type 17 at Line 164: Undefined structure "S7872".
+Error type 3 at Line 172: Redefined variable "redef_L2522".
+Error type 8 at Line 184: Return type mismatch.
+Error type 4 at Line 204: Redefined function "i_func_5241".
+Error type 16 at Line 223: Duplicated name "dup73".
+Error type 16 at Line 227: Duplicated name "dup74".
+Error type 16 at Line 231: Duplicated name "dup75".
+Error type 17 at Line 236: Undefined structure "S7898".
+Error type 3 at Line 274: Redefined variable "redef_L2550".
+Error type 9 at Line 288: Arguments mismatch in function "i_func_5243".
+Error type 8 at Line 289: Return type mismatch.
+Error type 8 at Line 318: Return type mismatch.
+Error type 9 at Line 344: Arguments mismatch in function "i_func_5244".
+Error type 9 at Line 346: Arguments mismatch in function "top_caller".
+
+
+./tests/Dt/D-4.4.cmm
+Error type 15 at Line 26: Initialized field "S7918_m0_i".
+Error type 15 at Line 27: Redefined field "S7918_m0_i".
+Error type 15 at Line 28: Initialized field "S7918_m2_a1_a1_a2_f".
+Error type 15 at Line 29: Initialized field "S7918_m3_i".
+Error type 15 at Line 30: Initialized field "S7918_m4_a1_a2_i".
+Error type 14 at Line 38: Non-existent field "S7916_i28".
+Error type 11 at Line 40: Illegal use of operator "()".
+Error type 14 at Line 41: Non-existent field "S7916_i6".
+Error type 13 at Line 45: Illegal use of operator ".".
+Error type 4 at Line 47: Redefined function "i_func_5245".
+Error type 3 at Line 49: Redefined variable "redef_L2565".
+Error type 6 at Line 81: Assign a value to a right-hand-only expression.
+Error type 10 at Line 82: Illegal use of of "[]" operator.
+Error type 13 at Line 85: Illegal use of operator ".".
+Error type 8 at Line 86: Return type mismatch.
+Error type 7 at Line 87: Operand type mismatch.
+Error type 17 at Line 89: Undefined structure "S8012".
+Error type 5 at Line 90: Type mismatched for assignment.
+Error type 6 at Line 92: Assign a value to a right-hand-only expression.
+Error type 6 at Line 93: Assign a value to a right-hand-only expression.
+Error type 7 at Line 94: Operand type mismatch.
+Error type 7 at Line 102: Operand type mismatch.
+Error type 7 at Line 118: Operand type mismatch.
+Error type 5 at Line 143: Type mismatched for assignment.
+Error type 4 at Line 147: Redefined function "i_func_5326".
+Error type 17 at Line 157: Undefined structure "S8034".
+Error type 3 at Line 165: Redefined variable "redef_L2599".
+Error type 5 at Line 182: Type mismatched for assignment.
+Error type 6 at Line 186: Assign a value to a right-hand-only expression.
+Error type 5 at Line 189: Type mismatched for assignment.
+Error type 3 at Line 198: Redefined variable "redef_L2610".
+Error type 4 at Line 273: Redefined function "i_func_5327".
+Error type 17 at Line 274: Undefined structure "S8060".
+Error type 17 at Line 309: Undefined structure "S8064".
+Error type 8 at Line 319: Return type mismatch.
+Error type 4 at Line 321: Redefined function "i_func_5328".
+Error type 3 at Line 323: Redefined variable "redef_L2628".
+Error type 16 at Line 380: Duplicated name "dup76".
+Error type 16 at Line 384: Duplicated name "dup77".
+Error type 9 at Line 416: Arguments mismatch in function "i_func_5329".
+Error type 9 at Line 506: Arguments mismatch in function "i_func_5329".
+Error type 8 at Line 507: Return type mismatch.
+Error type 8 at Line 737: Return type mismatch.
+Error type 9 at Line 905: Arguments mismatch in function "i_func_5332".
+Error type 9 at Line 1063: Arguments mismatch in function "i_func_5334".
+
+
+./tests/Dt/D-5.0.cmm
+Error type 15 at Line 50: Initialized field "S8086_m0_a1_a2_i".
+Error type 15 at Line 51: Initialized field "S8086_m1_i".
+Error type 15 at Line 52: Redefined field "S8086_m1_i".
+Error type 15 at Line 53: Initialized field "S8086_m3_i".
+Error type 15 at Line 54: Initialized field "S8086_m4_a1_a2_i".
+Error type 15 at Line 55: Redefined field "S8086_m0_a1_a2_i".
+Error type 15 at Line 56: Redefined field "S8086_m4_a1_a2_i".
+Error type 15 at Line 57: Redefined field "S8086_m0_a1_a2_i".
+Error type 15 at Line 58: Initialized field "S8086_m8_i".
+Error type 17 at Line 62: Undefined structure "S8087".
+Error type 3 at Line 64: Redefined variable "redef_L2643".
+Error type 11 at Line 69: Illegal use of operator "()".
+Error type 4 at Line 90: Redefined function "i_func_5337".
+Error type 13 at Line 113: Illegal use of operator ".".
+Error type 12 at Line 117: Array index is not an integer.
+Error type 2 at Line 118: Undefined function "i_func_5401".
+Error type 14 at Line 121: Non-existent field "S8082_i68".
+Error type 14 at Line 122: Non-existent field "S8082_i77".
+Error type 6 at Line 126: Assign a value to a right-hand-only expression.
+Error type 5 at Line 131: Type mismatched for assignment.
+Error type 5 at Line 138: Type mismatched for assignment.
+Error type 5 at Line 140: Type mismatched for assignment.
+Error type 5 at Line 141: Type mismatched for assignment.
+Error type 7 at Line 149: Operand type mismatch.
+Error type 5 at Line 151: Type mismatched for assignment.
+Error type 8 at Line 152: Return type mismatch.
+Error type 11 at Line 153: Illegal use of operator "()".
+Error type 6 at Line 168: Assign a value to a right-hand-only expression.
+Error type 6 at Line 174: Assign a value to a right-hand-only expression.
+Error type 17 at Line 180: Undefined structure "S8194".
+Error type 6 at Line 185: Assign a value to a right-hand-only expression.
+Error type 7 at Line 198: Operand type mismatch.
+Error type 6 at Line 202: Assign a value to a right-hand-only expression.
+Error type 3 at Line 206: Redefined variable "redef_L2675".
+Error type 3 at Line 230: Redefined variable "redef_L2678".
+Error type 8 at Line 249: Return type mismatch.
+Error type 4 at Line 251: Redefined function "i_func_5418".
+Error type 3 at Line 261: Redefined variable "redef_L2691".
+Error type 8 at Line 291: Return type mismatch.
+Error type 16 at Line 294: Duplicated name "dup78".
+Error type 16 at Line 298: Duplicated name "dup79".
+Error type 16 at Line 302: Duplicated name "dup80".
+Error type 16 at Line 306: Duplicated name "dup81".
+Error type 16 at Line 310: Duplicated name "dup82".
+Error type 9 at Line 386: Arguments mismatch in function "i_func_5419".
+Error type 9 at Line 387: Arguments mismatch in function "i_func_5419".
+Error type 8 at Line 399: Return type mismatch.
+Error type 17 at Line 403: Undefined structure "S8228".
+Error type 17 at Line 404: Undefined structure "S8230".
+Error type 9 at Line 473: Arguments mismatch in function "i_func_5420".
+Error type 3 at Line 479: Redefined variable "redef_L2704".
+Error type 17 at Line 480: Undefined structure "S8233".
+Error type 9 at Line 554: Arguments mismatch in function "i_func_5420".
+Error type 9 at Line 651: Arguments mismatch in function "i_func_5419".
+Error type 8 at Line 653: Return type mismatch.
+
+
+./tests/Dt/D-5.1.cmm
+Error type 15 at Line 76: Initialized field "S8248_m0_a1_S8239".
+Error type 15 at Line 77: Redefined field "S8248_m0_a1_S8239".
+Error type 15 at Line 78: Initialized field "S8248_m2_i".
+Error type 15 at Line 79: Initialized field "S8248_m3_i".
+Error type 15 at Line 80: Initialized field "S8248_m4_a1_S8242".
+Error type 15 at Line 81: Redefined field "S8248_m4_a1_S8242".
+Error type 6 at Line 93: Assign a value to a right-hand-only expression.
+Error type 6 at Line 95: Assign a value to a right-hand-only expression.
+Error type 11 at Line 96: Illegal use of operator "()".
+Error type 1 at Line 97: Undefined variable "l4128".
+Error type 2 at Line 102: Undefined function "i_func_5490".
+Error type 5 at Line 119: Type mismatched for assignment.
+Error type 5 at Line 124: Type mismatched for assignment.
+Error type 7 at Line 126: Operand type mismatch.
+Error type 5 at Line 128: Type mismatched for assignment.
+Error type 5 at Line 130: Type mismatched for assignment.
+Error type 7 at Line 138: Operand type mismatch.
+Error type 2 at Line 141: Undefined function "i_func_5427".
+Error type 6 at Line 155: Assign a value to a right-hand-only expression.
+Error type 4 at Line 157: Redefined function "i_func_5422".
+Error type 7 at Line 218: Operand type mismatch.
+Error type 5 at Line 231: Type mismatched for assignment.
+Error type 6 at Line 237: Assign a value to a right-hand-only expression.
+Error type 6 at Line 239: Assign a value to a right-hand-only expression.
+Error type 8 at Line 243: Return type mismatch.
+Error type 17 at Line 246: Undefined structure "S8345".
+Error type 8 at Line 296: Return type mismatch.
+Error type 4 at Line 298: Redefined function "i_func_5503".
+Error type 8 at Line 353: Return type mismatch.
+Error type 8 at Line 363: Return type mismatch.
+Error type 3 at Line 367: Redefined variable "redef_L2739".
+Error type 4 at Line 377: Redefined function "i_func_5504".
+Error type 4 at Line 451: Redefined function "i_func_5505".
+Error type 3 at Line 497: Redefined variable "redef_L2761".
+Error type 8 at Line 503: Return type mismatch.
+Error type 4 at Line 543: Redefined function "i_func_5506".
+Error type 17 at Line 544: Undefined structure "S8386".
+Error type 3 at Line 546: Redefined variable "redef_L2771".
+Error type 3 at Line 566: Redefined variable "redef_L2774".
+Error type 17 at Line 583: Undefined structure "S8393".
+Error type 3 at Line 613: Redefined variable "redef_L2784".
+Error type 17 at Line 623: Undefined structure "S8406".
+Error type 17 at Line 624: Undefined structure "S8408".
+Error type 16 at Line 649: Duplicated name "dup83".
+Error type 16 at Line 653: Duplicated name "dup84".
+Error type 16 at Line 657: Duplicated name "dup85".
+Error type 16 at Line 661: Duplicated name "dup86".
+Error type 9 at Line 817: Arguments mismatch in function "i_func_5508".
+Error type 9 at Line 827: Arguments mismatch in function "i_func_5507".
+Error type 9 at Line 963: Arguments mismatch in function "i_func_5508".
+Error type 9 at Line 966: Arguments mismatch in function "i_func_5509".
+Error type 9 at Line 1162: Arguments mismatch in function "i_func_5509".
+
+
+./tests/Dt/D-5.2.cmm
+Error type 15 at Line 22: Initialized field "S8412_m0_a1_f".
+Error type 15 at Line 23: Redefined field "S8412_m0_a1_f".
+Error type 15 at Line 24: Initialized field "S8412_m2_i".
+Error type 15 at Line 25: Initialized field "S8412_m3_a2_f".
+Error type 17 at Line 29: Undefined structure "S8414".
+Error type 2 at Line 46: Undefined function "i_func_5558".
+Error type 14 at Line 61: Non-existent field "S8411_i0".
+Error type 1 at Line 66: Undefined variable "l4168".
+Error type 5 at Line 68: Type mismatched for assignment.
+Error type 13 at Line 69: Illegal use of operator ".".
+Error type 14 at Line 70: Non-existent field "S8411_i35".
+Error type 2 at Line 75: Undefined function "i_func_5572".
+Error type 8 at Line 78: Return type mismatch.
+Error type 4 at Line 80: Redefined function "i_func_5517".
+Error type 3 at Line 82: Redefined variable "redef_L2802".
+Error type 17 at Line 83: Undefined structure "S8490".
+Error type 7 at Line 87: Operand type mismatch.
+Error type 5 at Line 92: Type mismatched for assignment.
+Error type 14 at Line 96: Non-existent field "S8411_i69".
+Error type 10 at Line 97: Illegal use of of "[]" operator.
+Error type 6 at Line 99: Assign a value to a right-hand-only expression.
+Error type 5 at Line 110: Type mismatched for assignment.
+Error type 6 at Line 115: Assign a value to a right-hand-only expression.
+Error type 4 at Line 121: Redefined function "i_func_5598".
+Error type 3 at Line 123: Redefined variable "redef_L2810".
+Error type 5 at Line 135: Type mismatched for assignment.
+Error type 17 at Line 139: Undefined structure "S8514".
+Error type 5 at Line 156: Type mismatched for assignment.
+Error type 8 at Line 163: Return type mismatch.
+Error type 4 at Line 165: Redefined function "i_func_5599".
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+Error type 7 at Line 187: Operand type mismatch.
+Error type 6 at Line 194: Assign a value to a right-hand-only expression.
+Error type 6 at Line 204: Assign a value to a right-hand-only expression.
+Error type 8 at Line 212: Return type mismatch.
+Error type 4 at Line 242: Redefined function "i_func_5600".
+Error type 17 at Line 271: Undefined structure "S8544".
+Error type 4 at Line 313: Redefined function "i_func_5601".
+Error type 3 at Line 315: Redefined variable "redef_L2844".
+Error type 8 at Line 330: Return type mismatch.
+Error type 16 at Line 333: Duplicated name "dup87".
+Error type 16 at Line 337: Duplicated name "dup88".
+Error type 16 at Line 341: Duplicated name "dup89".
+Error type 3 at Line 347: Redefined variable "redef_L2848".
+Error type 9 at Line 374: Arguments mismatch in function "i_func_5602".
+Error type 9 at Line 377: Arguments mismatch in function "i_func_5602".
+Error type 8 at Line 379: Return type mismatch.
+Error type 3 at Line 384: Redefined variable "redef_L2852".
+Error type 17 at Line 385: Undefined structure "S8556".
+Error type 9 at Line 403: Arguments mismatch in function "i_func_5602".
+Error type 9 at Line 406: Arguments mismatch in function "top_caller".
+
+
+./tests/Dt/D-5.3.cmm
+Error type 15 at Line 59: Initialized field "S8563_m0_i".
+Error type 15 at Line 61: Initialized field "S8563_m2_i".
+Error type 15 at Line 62: Redefined field "S8563_m0_i".
+Error type 15 at Line 63: Initialized field "S8563_m4_i".
+Error type 15 at Line 64: Initialized field "S8563_m5_i".
+Error type 15 at Line 65: Redefined field "S8563_m1_a1_a1_a2_a1_i".
+Error type 15 at Line 66: Redefined field "S8563_m0_i".
+Error type 15 at Line 67: Initialized field "S8563_m8_i".
+Error type 17 at Line 72: Undefined structure "S8564".
+Error type 13 at Line 91: Illegal use of operator ".".
+Error type 13 at Line 94: Illegal use of operator ".".
+Error type 4 at Line 96: Redefined function "i_func_5603".
+Error type 1 at Line 97: Undefined variable "l4258".
+Error type 13 at Line 99: Illegal use of operator ".".
+Error type 14 at Line 157: Non-existent field "S8561_i4".
+Error type 1 at Line 158: Undefined variable "l4300".
+Error type 4 at Line 161: Redefined function "i_func_5657".
+Error type 6 at Line 166: Assign a value to a right-hand-only expression.
+Error type 5 at Line 168: Type mismatched for assignment.
+Error type 5 at Line 172: Type mismatched for assignment.
+Error type 6 at Line 175: Assign a value to a right-hand-only expression.
+Error type 5 at Line 176: Type mismatched for assignment.
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+Error type 6 at Line 185: Assign a value to a right-hand-only expression.
+Error type 7 at Line 188: Operand type mismatch.
+Error type 7 at Line 193: Operand type mismatch.
+Error type 5 at Line 201: Type mismatched for assignment.
+Error type 6 at Line 202: Assign a value to a right-hand-only expression.
+Error type 5 at Line 204: Type mismatched for assignment.
+Error type 13 at Line 257: Illegal use of operator ".".
+Error type 3 at Line 327: Redefined variable "redef_L2880".
+Error type 8 at Line 336: Return type mismatch.
+Error type 4 at Line 345: Redefined function "i_func_5685".
+Error type 17 at Line 450: Undefined structure "S8689".
+Error type 3 at Line 457: Redefined variable "redef_L2905".
+Error type 3 at Line 459: Redefined variable "redef_L2907".
+Error type 17 at Line 476: Undefined structure "S8697".
+Error type 17 at Line 480: Undefined structure "S8701".
+Error type 4 at Line 488: Redefined function "i_func_5686".
+Error type 8 at Line 520: Return type mismatch.
+Error type 16 at Line 523: Duplicated name "dup90".
+Error type 16 at Line 527: Duplicated name "dup91".
+Error type 16 at Line 531: Duplicated name "dup92".
+Error type 16 at Line 535: Duplicated name "dup93".
+Error type 16 at Line 539: Duplicated name "dup94".
+Error type 3 at Line 545: Redefined variable "redef_L2920".
+Error type 8 at Line 589: Return type mismatch.
+Error type 17 at Line 593: Undefined structure "S8714".
+Error type 3 at Line 649: Redefined variable "redef_L2931".
+Error type 8 at Line 740: Return type mismatch.
+Error type 9 at Line 839: Arguments mismatch in function "i_func_5687".
+Error type 9 at Line 866: Arguments mismatch in function "i_func_5687".
+Error type 9 at Line 904: Arguments mismatch in function "i_func_5689".
+Error type 9 at Line 911: Arguments mismatch in function "i_func_5688".
+Error type 8 at Line 1290: Return type mismatch.
+
+
+./tests/Dt/D-5.4.cmm
+Error type 15 at Line 35: Initialized field "S8728_m0_i".
+Error type 17 at Line 39: Undefined structure "S8732".
+Error type 1 at Line 62: Undefined variable "l4320".
+Error type 14 at Line 63: Non-existent field "S8724_i1".
+Error type 13 at Line 64: Illegal use of operator ".".
+Error type 14 at Line 65: Non-existent field "S8724_i3".
+Error type 1 at Line 66: Undefined variable "l4324".
+Error type 13 at Line 67: Illegal use of operator ".".
+Error type 10 at Line 68: Illegal use of of "[]" operator.
+Error type 11 at Line 69: Illegal use of operator "()".
+Error type 2 at Line 70: Undefined function "i_func_5705".
+Error type 13 at Line 71: Illegal use of operator ".".
+Error type 14 at Line 72: Non-existent field "S8724_i10".
+Error type 13 at Line 73: Illegal use of operator ".".
+Error type 1 at Line 75: Undefined variable "l4332".
+Error type 5 at Line 76: Type mismatched for assignment.
+Error type 10 at Line 80: Illegal use of of "[]" operator.
+Error type 2 at Line 82: Undefined function "i_func_5722".
+Error type 2 at Line 85: Undefined function "i_func_5727".
+Error type 11 at Line 86: Illegal use of operator "()".
+Error type 13 at Line 89: Illegal use of operator ".".
+Error type 10 at Line 90: Illegal use of of "[]" operator.
+Error type 4 at Line 93: Redefined function "i_func_5696".
+Error type 2 at Line 124: Undefined function "i_func_5768".
+Error type 3 at Line 128: Redefined variable "redef_L2950".
+Error type 6 at Line 138: Assign a value to a right-hand-only expression.
+Error type 8 at Line 142: Return type mismatch.
+Error type 6 at Line 145: Assign a value to a right-hand-only expression.
+Error type 7 at Line 151: Operand type mismatch.
+Error type 6 at Line 156: Assign a value to a right-hand-only expression.
+Error type 5 at Line 160: Type mismatched for assignment.
+Error type 17 at Line 164: Undefined structure "S8830".
+Error type 5 at Line 194: Type mismatched for assignment.
+Error type 6 at Line 197: Assign a value to a right-hand-only expression.
+Error type 4 at Line 204: Redefined function "i_func_5777".
+Error type 5 at Line 214: Type mismatched for assignment.
+Error type 3 at Line 232: Redefined variable "redef_L2966".
+Error type 7 at Line 238: Operand type mismatch.
+Error type 5 at Line 240: Type mismatched for assignment.
+Error type 7 at Line 250: Operand type mismatch.
+Error type 6 at Line 251: Assign a value to a right-hand-only expression.
+Error type 4 at Line 284: Redefined function "i_func_5778".
+Error type 3 at Line 286: Redefined variable "redef_L2972".
+Error type 17 at Line 287: Undefined structure "S8847".
+Error type 3 at Line 484: Redefined variable "redef_L3006".
+Error type 17 at Line 497: Undefined structure "S8881".
+Error type 17 at Line 502: Undefined structure "S8886".
+Error type 3 at Line 504: Redefined variable "redef_L3014".
+Error type 4 at Line 531: Redefined function "i_func_5779".
+Error type 4 at Line 663: Redefined function "i_func_5780".
+Error type 16 at Line 714: Duplicated name "dup95".
+Error type 16 at Line 718: Duplicated name "dup96".
+Error type 16 at Line 722: Duplicated name "dup97".
+Error type 9 at Line 767: Arguments mismatch in function "i_func_5781".
+Error type 8 at Line 779: Return type mismatch.
+Error type 8 at Line 925: Return type mismatch.
+Error type 9 at Line 1068: Arguments mismatch in function "i_func_5783".
+Error type 8 at Line 1176: Return type mismatch.
+Error type 9 at Line 1246: Arguments mismatch in function "i_func_5784".
+Error type 9 at Line 1342: Arguments mismatch in function "i_func_5783".
+Error type 8 at Line 1346: Return type mismatch.
+
+
+./tests/Dt/D-6.0.cmm
+Error type 15 at Line 73: Initialized field "S8897_m0_i".
+Error type 15 at Line 74: Redefined field "S8897_m0_i".
+Error type 15 at Line 75: Initialized field "S8897_m2_a1_a1_a1_a1_a2_i".
+Error type 15 at Line 76: Initialized field "S8897_m3_a1_a1_a2_i".
+Error type 15 at Line 77: Initialized field "S8897_m4_i".
+Error type 15 at Line 78: Redefined field "S8897_m4_i".
+Error type 1 at Line 109: Undefined variable "l4423".
+Error type 10 at Line 113: Illegal use of of "[]" operator.
+Error type 10 at Line 117: Illegal use of of "[]" operator.
+Error type 5 at Line 118: Type mismatched for assignment.
+Error type 17 at Line 124: Undefined structure "S8905".
+Error type 11 at Line 150: Illegal use of operator "()".
+Error type 11 at Line 152: Illegal use of operator "()".
+Error type 6 at Line 157: Assign a value to a right-hand-only expression.
+Error type 4 at Line 159: Redefined function "i_func_5788".
+Error type 3 at Line 161: Redefined variable "redef_L3025".
+Error type 6 at Line 171: Assign a value to a right-hand-only expression.
+Error type 5 at Line 186: Type mismatched for assignment.
+Error type 6 at Line 190: Assign a value to a right-hand-only expression.
+Error type 6 at Line 197: Assign a value to a right-hand-only expression.
+Error type 5 at Line 199: Type mismatched for assignment.
+Error type 5 at Line 202: Type mismatched for assignment.
+Error type 6 at Line 210: Assign a value to a right-hand-only expression.
+Error type 7 at Line 216: Operand type mismatch.
+Error type 8 at Line 217: Return type mismatch.
+Error type 4 at Line 219: Redefined function "i_func_5869".
+Error type 3 at Line 221: Redefined variable "redef_L3034".
+Error type 6 at Line 286: Assign a value to a right-hand-only expression.
+Error type 17 at Line 289: Undefined structure "S8998".
+Error type 5 at Line 294: Type mismatched for assignment.
+Error type 17 at Line 299: Undefined structure "S9003".
+Error type 7 at Line 300: Operand type mismatch.
+Error type 17 at Line 321: Undefined structure "S9010".
+Error type 3 at Line 323: Redefined variable "redef_L3049".
+Error type 4 at Line 338: Redefined function "i_func_5870".
+Error type 8 at Line 445: Return type mismatch.
+Error type 4 at Line 468: Redefined function "i_func_5871".
+Error type 17 at Line 469: Undefined structure "S9027".
+Error type 3 at Line 471: Redefined variable "redef_L3066".
+Error type 17 at Line 560: Undefined structure "S9042".
+Error type 4 at Line 571: Redefined function "i_func_5872".
+Error type 3 at Line 573: Redefined variable "redef_L3085".
+Error type 8 at Line 603: Return type mismatch.
+Error type 3 at Line 607: Redefined variable "redef_L3091".
+Error type 4 at Line 611: Redefined function "i_func_5873".
+Error type 8 at Line 657: Return type mismatch.
+Error type 16 at Line 660: Duplicated name "dup98".
+Error type 16 at Line 664: Duplicated name "dup99".
+Error type 16 at Line 668: Duplicated name "dup100".
+Error type 16 at Line 672: Duplicated name "dup101".
+Error type 9 at Line 723: Arguments mismatch in function "i_func_5874".
+Error type 8 at Line 776: Return type mismatch.
+Error type 9 at Line 1262: Arguments mismatch in function "i_func_5879".
+Error type 9 at Line 1263: Arguments mismatch in function "i_func_5879".
+Error type 9 at Line 1404: Arguments mismatch in function "i_func_5875".
+Error type 8 at Line 1531: Return type mismatch.
+
+
+./tests/Dt/D-6.1.cmm
+Error type 15 at Line 77: Initialized field "S9066_m0_i".
+Error type 15 at Line 78: Initialized field "S9066_m1_i".
+Error type 15 at Line 79: Initialized field "S9066_m2_i".
+Error type 15 at Line 80: Initialized field "S9066_m3_a1_S9061".
+Error type 3 at Line 85: Redefined variable "redef_L3098".
+Error type 7 at Line 87: Operand type mismatch.
+Error type 14 at Line 89: Non-existent field "S9065_i8".
+Error type 10 at Line 92: Illegal use of of "[]" operator.
+Error type 2 at Line 93: Undefined function "i_func_5913".
+Error type 4 at Line 95: Redefined function "i_func_5881".
+Error type 5 at Line 131: Type mismatched for assignment.
+Error type 2 at Line 135: Undefined function "i_func_5924".
+Error type 13 at Line 136: Illegal use of operator ".".
+Error type 6 at Line 139: Assign a value to a right-hand-only expression.
+Error type 6 at Line 140: Assign a value to a right-hand-only expression.
+Error type 5 at Line 142: Type mismatched for assignment.
+Error type 6 at Line 176: Assign a value to a right-hand-only expression.
+Error type 17 at Line 177: Undefined structure "S9159".
+Error type 8 at Line 180: Return type mismatch.
+Error type 3 at Line 184: Redefined variable "redef_L3115".
+Error type 8 at Line 189: Return type mismatch.
+Error type 7 at Line 190: Operand type mismatch.
+Error type 8 at Line 194: Return type mismatch.
+Error type 4 at Line 196: Redefined function "i_func_5962".
+Error type 17 at Line 197: Undefined structure "S9167".
+Error type 17 at Line 198: Undefined structure "S9168".
+Error type 17 at Line 230: Undefined structure "S9174".
+Error type 6 at Line 239: Assign a value to a right-hand-only expression.
+Error type 6 at Line 240: Assign a value to a right-hand-only expression.
+Error type 16 at Line 252: Duplicated name "dup102".
+Error type 16 at Line 256: Duplicated name "dup103".
+Error type 16 at Line 260: Duplicated name "dup104".
+Error type 16 at Line 264: Duplicated name "dup105".
+Error type 16 at Line 268: Duplicated name "dup106".
+Error type 16 at Line 272: Duplicated name "dup107".
+Error type 3 at Line 278: Redefined variable "redef_L3131".
+Error type 9 at Line 307: Arguments mismatch in function "i_func_5963".
+Error type 9 at Line 343: Arguments mismatch in function "i_func_5963".
+Error type 7 at Line 344: Operand type mismatch.
+Error type 9 at Line 358: Arguments mismatch in function "i_func_5963".
+Error type 5 at Line 365: Type mismatched for assignment.
+Error type 8 at Line 367: Return type mismatch.
+Error type 9 at Line 429: Arguments mismatch in function "i_func_5964".
+Error type 5 at Line 460: Type mismatched for assignment.
+Error type 5 at Line 462: Type mismatched for assignment.
+Error type 3 at Line 467: Redefined variable "redef_L3137".
+Error type 9 at Line 560: Arguments mismatch in function "i_func_5963".
+Error type 9 at Line 565: Arguments mismatch in function "i_func_5963".
+Error type 6 at Line 570: Assign a value to a right-hand-only expression.
+Error type 5 at Line 573: Type mismatched for assignment.
+Error type 8 at Line 592: Return type mismatch.
+Error type 17 at Line 596: Undefined structure "S9193".
+Error type 8 at Line 679: Return type mismatch.
+Error type 3 at Line 684: Redefined variable "redef_L3145".
+Error type 3 at Line 812: Redefined variable "redef_L3149".
+Error type 17 at Line 911: Undefined structure "S9203".
+
+
+./tests/Dt/D-6.2.cmm
+Error type 15 at Line 27: Initialized field "S9210_m0_i".
+Error type 15 at Line 28: Initialized field "S9210_m1_i".
+Error type 15 at Line 29: Redefined field "S9210_m0_i".
+Error type 15 at Line 30: Redefined field "S9210_m1_i".
+Error type 15 at Line 31: Redefined field "S9210_m0_i".
+Error type 15 at Line 32: Initialized field "S9210_m5_i".
+Error type 15 at Line 33: Initialized field "S9210_m6_a1_a1_a1_S9207".
+Error type 3 at Line 38: Redefined variable "redef_L3156".
+Error type 14 at Line 40: Non-existent field "S9209_i5".
+Error type 13 at Line 42: Illegal use of operator ".".
+Error type 4 at Line 44: Redefined function "i_func_5967".
+Error type 10 at Line 51: Illegal use of of "[]" operator.
+Error type 10 at Line 52: Illegal use of of "[]" operator.
+Error type 17 at Line 53: Undefined structure "S9260".
+Error type 3 at Line 55: Redefined variable "redef_L3170".
+Error type 10 at Line 56: Illegal use of of "[]" operator.
+Error type 11 at Line 58: Illegal use of operator "()".
+Error type 17 at Line 61: Undefined structure "S9281".
+Error type 12 at Line 63: Array index is not an integer.
+Error type 5 at Line 65: Type mismatched for assignment.
+Error type 17 at Line 74: Undefined structure "S9311".
+Error type 6 at Line 78: Assign a value to a right-hand-only expression.
+Error type 7 at Line 79: Operand type mismatch.
+Error type 6 at Line 80: Assign a value to a right-hand-only expression.
+Error type 5 at Line 83: Type mismatched for assignment.
+Error type 6 at Line 88: Assign a value to a right-hand-only expression.
+Error type 6 at Line 90: Assign a value to a right-hand-only expression.
+Error type 5 at Line 101: Type mismatched for assignment.
+Error type 7 at Line 106: Operand type mismatch.
+Error type 5 at Line 107: Type mismatched for assignment.
+Error type 4 at Line 109: Redefined function "i_func_6048".
+Error type 7 at Line 136: Operand type mismatch.
+Error type 6 at Line 137: Assign a value to a right-hand-only expression.
+Error type 5 at Line 144: Type mismatched for assignment.
+Error type 8 at Line 154: Return type mismatch.
+Error type 6 at Line 170: Assign a value to a right-hand-only expression.
+Error type 5 at Line 171: Type mismatched for assignment.
+Error type 4 at Line 181: Redefined function "i_func_6049".
+Error type 3 at Line 183: Redefined variable "redef_L3196".
+Error type 3 at Line 185: Redefined variable "redef_L3198".
+Error type 3 at Line 250: Redefined variable "redef_L3206".
+Error type 4 at Line 277: Redefined function "i_func_6050".
+Error type 8 at Line 303: Return type mismatch.
+Error type 4 at Line 346: Redefined function "i_func_6051".
+Error type 3 at Line 348: Redefined variable "redef_L3219".
+Error type 8 at Line 381: Return type mismatch.
+Error type 17 at Line 384: Undefined structure "S9364".
+Error type 17 at Line 385: Undefined structure "S9365".
+Error type 17 at Line 414: Undefined structure "S9370".
+Error type 4 at Line 438: Redefined function "i_func_6052".
+Error type 16 at Line 466: Duplicated name "dup108".
+Error type 9 at Line 518: Arguments mismatch in function "i_func_6053".
+Error type 9 at Line 520: Arguments mismatch in function "i_func_6053".
+Error type 8 at Line 533: Return type mismatch.
+Error type 9 at Line 654: Arguments mismatch in function "i_func_6055".
+Error type 9 at Line 734: Arguments mismatch in function "i_func_6053".
+Error type 9 at Line 746: Arguments mismatch in function "i_func_6055".
+Error type 8 at Line 748: Return type mismatch.
+Error type 8 at Line 914: Return type mismatch.
+Error type 9 at Line 971: Arguments mismatch in function "i_func_6054".
+Error type 7 at Line 1670: Operand type mismatch.
+
+
+./tests/Dt/D-6.3.cmm
+Error type 15 at Line 38: Initialized field "S9375_m0_i".
+Error type 15 at Line 39: Initialized field "S9375_m1_a2_i".
+Error type 15 at Line 40: Redefined field "S9375_m1_a2_i".
+Error type 15 at Line 41: Redefined field "S9375_m1_a2_i".
+Error type 15 at Line 42: Initialized field "S9375_m4_a1_a2_f".
+Error type 15 at Line 43: Redefined field "S9375_m0_i".
+Error type 15 at Line 44: Initialized field "S9375_m6_a1_a1_i".
+Error type 15 at Line 45: Initialized field "S9375_m7_i".
+Error type 15 at Line 46: Redefined field "S9375_m0_i".
+Error type 17 at Line 50: Undefined structure "S9377".
+Error type 2 at Line 67: Undefined function "i_func_6066".
+Error type 2 at Line 70: Undefined function "i_func_6074".
+Error type 11 at Line 73: Illegal use of operator "()".
+Error type 1 at Line 74: Undefined variable "l4677".
+Error type 11 at Line 75: Illegal use of operator "()".
+Error type 1 at Line 76: Undefined variable "l4689".
+Error type 2 at Line 82: Undefined function "i_func_6142".
+Error type 13 at Line 83: Illegal use of operator ".".
+Error type 5 at Line 85: Type mismatched for assignment.
+Error type 7 at Line 89: Operand type mismatch.
+Error type 13 at Line 93: Illegal use of operator ".".
+Error type 4 at Line 95: Redefined function "i_func_6063".
+Error type 17 at Line 96: Undefined structure "S9461".
+Error type 3 at Line 104: Redefined variable "redef_L3244".
+Error type 3 at Line 106: Redefined variable "redef_L3246".
+Error type 5 at Line 119: Type mismatched for assignment.
+Error type 8 at Line 122: Return type mismatch.
+Error type 7 at Line 136: Operand type mismatch.
+Error type 5 at Line 152: Type mismatched for assignment.
+Error type 4 at Line 154: Redefined function "i_func_6144".
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+Error type 6 at Line 185: Assign a value to a right-hand-only expression.
+Error type 7 at Line 191: Operand type mismatch.
+Error type 6 at Line 192: Assign a value to a right-hand-only expression.
+Error type 6 at Line 197: Assign a value to a right-hand-only expression.
+Error type 3 at Line 206: Redefined variable "redef_L3267".
+Error type 5 at Line 216: Type mismatched for assignment.
+Error type 5 at Line 217: Type mismatched for assignment.
+Error type 5 at Line 219: Type mismatched for assignment.
+Error type 6 at Line 231: Assign a value to a right-hand-only expression.
+Error type 8 at Line 236: Return type mismatch.
+Error type 4 at Line 238: Redefined function "i_func_6145".
+Error type 8 at Line 258: Return type mismatch.
+Error type 3 at Line 262: Redefined variable "redef_L3272".
+Error type 8 at Line 290: Return type mismatch.
+Error type 4 at Line 292: Redefined function "i_func_6146".
+Error type 17 at Line 311: Undefined structure "S9500".
+Error type 17 at Line 312: Undefined structure "S9502".
+Error type 17 at Line 313: Undefined structure "S9503".
+Error type 8 at Line 329: Return type mismatch.
+Error type 4 at Line 331: Redefined function "i_func_6147".
+Error type 16 at Line 367: Duplicated name "dup109".
+Error type 16 at Line 371: Duplicated name "dup110".
+Error type 16 at Line 375: Duplicated name "dup111".
+Error type 16 at Line 379: Duplicated name "dup112".
+Error type 16 at Line 383: Duplicated name "dup113".
+Error type 3 at Line 389: Redefined variable "redef_L3291".
+Error type 9 at Line 413: Arguments mismatch in function "i_func_6148".
+Error type 9 at Line 414: Arguments mismatch in function "i_func_6148".
+Error type 17 at Line 422: Undefined structure "S9513".
+Error type 3 at Line 424: Redefined variable "redef_L3295".
+Error type 8 at Line 472: Return type mismatch.
+
+
+./tests/Dt/D-6.4.cmm
+Error type 15 at Line 26: Initialized field "S9518_m0_a2_a1_a1_i".
+Error type 15 at Line 27: Redefined field "S9518_m0_a2_a1_a1_i".
+Error type 15 at Line 28: Initialized field "S9518_m2_a2_a1_f".
+Error type 15 at Line 29: Redefined field "S9518_m2_a2_a1_f".
+Error type 15 at Line 30: Initialized field "S9518_m4_i".
+Error type 15 at Line 32: Initialized field "S9518_m6_i".
+Error type 15 at Line 33: Redefined field "S9518_m2_a2_a1_f".
+Error type 15 at Line 34: Initialized field "S9518_m8_i".
+Error type 15 at Line 35: Initialized field "S9518_m9_a1_S9517".
+Error type 1 at Line 57: Undefined variable "l4731".
+Error type 7 at Line 60: Operand type mismatch.
+Error type 1 at Line 63: Undefined variable "l4755".
+Error type 1 at Line 66: Undefined variable "l4769".
+Error type 2 at Line 67: Undefined function "i_func_6204".
+Error type 10 at Line 69: Illegal use of of "[]" operator.
+Error type 10 at Line 71: Illegal use of of "[]" operator.
+Error type 3 at Line 77: Redefined variable "redef_L3309".
+Error type 5 at Line 81: Type mismatched for assignment.
+Error type 6 at Line 84: Assign a value to a right-hand-only expression.
+Error type 5 at Line 85: Type mismatched for assignment.
+Error type 4 at Line 100: Redefined function "i_func_6149".
+Error type 3 at Line 102: Redefined variable "redef_L3321".
+Error type 5 at Line 124: Type mismatched for assignment.
+Error type 6 at Line 160: Assign a value to a right-hand-only expression.
+Error type 5 at Line 163: Type mismatched for assignment.
+Error type 6 at Line 164: Assign a value to a right-hand-only expression.
+Error type 4 at Line 167: Redefined function "i_func_6230".
+Error type 17 at Line 168: Undefined structure "S9633".
+Error type 5 at Line 178: Type mismatched for assignment.
+Error type 17 at Line 181: Undefined structure "S9636".
+Error type 6 at Line 182: Assign a value to a right-hand-only expression.
+Error type 7 at Line 186: Operand type mismatch.
+Error type 7 at Line 188: Operand type mismatch.
+Error type 6 at Line 196: Assign a value to a right-hand-only expression.
+Error type 3 at Line 204: Redefined variable "redef_L3344".
+Error type 5 at Line 208: Type mismatched for assignment.
+Error type 6 at Line 209: Assign a value to a right-hand-only expression.
+Error type 17 at Line 213: Undefined structure "S9653".
+Error type 3 at Line 215: Redefined variable "redef_L3351".
+Error type 17 at Line 229: Undefined structure "S9659".
+Error type 17 at Line 230: Undefined structure "S9662".
+Error type 3 at Line 249: Redefined variable "redef_L3360".
+Error type 3 at Line 258: Redefined variable "redef_L3366".
+Error type 8 at Line 268: Return type mismatch.
+Error type 4 at Line 288: Redefined function "i_func_6231".
+Error type 17 at Line 289: Undefined structure "S9675".
+Error type 8 at Line 352: Return type mismatch.
+Error type 4 at Line 354: Redefined function "i_func_6232".
+Error type 8 at Line 454: Return type mismatch.
+Error type 16 at Line 462: Duplicated name "dup114".
+Error type 9 at Line 526: Arguments mismatch in function "i_func_6233".
+Error type 9 at Line 584: Arguments mismatch in function "i_func_6233".
+Error type 9 at Line 634: Arguments mismatch in function "i_func_6234".
+Error type 8 at Line 642: Return type mismatch.
+Error type 8 at Line 695: Return type mismatch.
+Error type 9 at Line 745: Arguments mismatch in function "i_func_6234".
+Error type 9 at Line 747: Arguments mismatch in function "i_func_6235".
+Error type 9 at Line 761: Arguments mismatch in function "i_func_6233".
+Error type 8 at Line 837: Return type mismatch.
+
+
+./tests/Dt/D-7.0.cmm
+Error type 15 at Line 8: Initialized field "S9680_m0_a2_i".
+Error type 15 at Line 9: Initialized field "S9680_m1_a1_i".
+Error type 15 at Line 10: Redefined field "S9680_m0_a2_i".
+Error type 15 at Line 11: Redefined field "S9680_m0_a2_i".
+Error type 15 at Line 12: Initialized field "S9680_m4_a2_i".
+Error type 15 at Line 13: Redefined field "S9680_m4_a2_i".
+Error type 17 at Line 17: Undefined structure "S9683".
+Error type 3 at Line 19: Redefined variable "redef_L3379".
+Error type 1 at Line 29: Undefined variable "l4858".
+Error type 10 at Line 32: Illegal use of of "[]" operator.
+Error type 1 at Line 33: Undefined variable "l4823".
+Error type 5 at Line 34: Type mismatched for assignment.
+Error type 1 at Line 37: Undefined variable "l4844".
+Error type 4 at Line 40: Redefined function "i_func_6239".
+Error type 11 at Line 48: Illegal use of operator "()".
+Error type 7 at Line 53: Operand type mismatch.
+Error type 11 at Line 54: Illegal use of operator "()".
+Error type 1 at Line 55: Undefined variable "l4874".
+Error type 11 at Line 56: Illegal use of operator "()".
+Error type 6 at Line 59: Assign a value to a right-hand-only expression.
+Error type 3 at Line 63: Redefined variable "redef_L3384".
+Error type 7 at Line 75: Operand type mismatch.
+Error type 6 at Line 76: Assign a value to a right-hand-only expression.
+Error type 10 at Line 77: Illegal use of of "[]" operator.
+Error type 10 at Line 78: Illegal use of of "[]" operator.
+Error type 5 at Line 79: Type mismatched for assignment.
+Error type 10 at Line 80: Illegal use of of "[]" operator.
+Error type 17 at Line 83: Undefined structure "S9774".
+Error type 17 at Line 84: Undefined structure "S9775".
+Error type 3 at Line 89: Redefined variable "redef_L3393".
+Error type 5 at Line 90: Type mismatched for assignment.
+Error type 6 at Line 91: Assign a value to a right-hand-only expression.
+Error type 17 at Line 95: Undefined structure "S9784".
+Error type 7 at Line 97: Operand type mismatch.
+Error type 5 at Line 98: Type mismatched for assignment.
+Error type 5 at Line 100: Type mismatched for assignment.
+Error type 6 at Line 104: Assign a value to a right-hand-only expression.
+Error type 4 at Line 106: Redefined function "i_func_6320".
+Error type 5 at Line 115: Type mismatched for assignment.
+Error type 7 at Line 116: Operand type mismatch.
+Error type 8 at Line 118: Return type mismatch.
+Error type 3 at Line 122: Redefined variable "redef_L3404".
+Error type 5 at Line 137: Type mismatched for assignment.
+Error type 6 at Line 138: Assign a value to a right-hand-only expression.
+Error type 8 at Line 140: Return type mismatch.
+Error type 7 at Line 143: Operand type mismatch.
+Error type 4 at Line 149: Redefined function "i_func_6321".
+Error type 6 at Line 164: Assign a value to a right-hand-only expression.
+Error type 3 at Line 166: Redefined variable "redef_L3414".
+Error type 6 at Line 173: Assign a value to a right-hand-only expression.
+Error type 8 at Line 174: Return type mismatch.
+Error type 17 at Line 179: Undefined structure "S9801".
+Error type 17 at Line 180: Undefined structure "S9802".
+Error type 3 at Line 182: Redefined variable "redef_L3419".
+Error type 8 at Line 188: Return type mismatch.
+Error type 16 at Line 191: Duplicated name "dup115".
+Error type 16 at Line 195: Duplicated name "dup116".
+Error type 16 at Line 199: Duplicated name "dup117".
+Error type 16 at Line 203: Duplicated name "dup118".
+Error type 16 at Line 207: Duplicated name "dup119".
+Error type 9 at Line 236: Arguments mismatch in function "i_func_6322".
+Error type 8 at Line 237: Return type mismatch.
+Error type 9 at Line 270: Arguments mismatch in function "i_func_6322".
+Error type 9 at Line 271: Arguments mismatch in function "i_func_6322".
+Error type 8 at Line 278: Return type mismatch.
+Error type 3 at Line 283: Redefined variable "redef_L3428".
+Error type 17 at Line 284: Undefined structure "S9814".
+Error type 9 at Line 313: Arguments mismatch in function "i_func_6322".
+Error type 9 at Line 319: Arguments mismatch in function "i_func_6323".
+Error type 8 at Line 322: Return type mismatch.
+
+
+./tests/Dt/D-7.1.cmm
+Error type 15 at Line 14: Initialized field "S9819_m0_a1_i".
+Error type 15 at Line 15: Redefined field "S9819_m0_a1_i".
+Error type 15 at Line 16: Initialized field "S9819_m2_a2_a1_i".
+Error type 15 at Line 17: Initialized field "S9819_m3_a1_i".
+Error type 15 at Line 18: Redefined field "S9819_m2_a2_a1_i".
+Error type 15 at Line 19: Initialized field "S9819_m5_a2_a1_i".
+Error type 15 at Line 20: Redefined field "S9819_m2_a2_a1_i".
+Error type 15 at Line 21: Redefined field "S9819_m3_a1_i".
+Error type 1 at Line 29: Undefined variable "l4880".
+Error type 5 at Line 33: Type mismatched for assignment.
+Error type 11 at Line 34: Illegal use of operator "()".
+Error type 4 at Line 44: Redefined function "i_func_6324".
+Error type 17 at Line 45: Undefined structure "S9881".
+Error type 14 at Line 50: Non-existent field "S9817_i0".
+Error type 1 at Line 58: Undefined variable "l4949".
+Error type 14 at Line 60: Non-existent field "S9818_i54".
+Error type 2 at Line 62: Undefined function "i_func_6400".
+Error type 3 at Line 67: Redefined variable "redef_L3447".
+Error type 6 at Line 74: Assign a value to a right-hand-only expression.
+Error type 5 at Line 76: Type mismatched for assignment.
+Error type 8 at Line 79: Return type mismatch.
+Error type 4 at Line 81: Redefined function "i_func_6405".
+Error type 17 at Line 82: Undefined structure "S9916".
+Error type 5 at Line 97: Type mismatched for assignment.
+Error type 6 at Line 100: Assign a value to a right-hand-only expression.
+Error type 3 at Line 104: Redefined variable "redef_L3454".
+Error type 3 at Line 106: Redefined variable "redef_L3455".
+Error type 7 at Line 109: Operand type mismatch.
+Error type 5 at Line 110: Type mismatched for assignment.
+Error type 5 at Line 113: Type mismatched for assignment.
+Error type 5 at Line 116: Type mismatched for assignment.
+Error type 6 at Line 125: Assign a value to a right-hand-only expression.
+Error type 17 at Line 135: Undefined structure "S9933".
+Error type 3 at Line 141: Redefined variable "redef_L3469".
+Error type 6 at Line 156: Assign a value to a right-hand-only expression.
+Error type 8 at Line 157: Return type mismatch.
+Error type 6 at Line 162: Assign a value to a right-hand-only expression.
+Error type 4 at Line 164: Redefined function "i_func_6406".
+Error type 6 at Line 174: Assign a value to a right-hand-only expression.
+Error type 17 at Line 200: Undefined structure "S9950".
+Error type 3 at Line 209: Redefined variable "redef_L3485".
+Error type 17 at Line 210: Undefined structure "S9954".
+Error type 3 at Line 212: Redefined variable "redef_L3487".
+Error type 8 at Line 220: Return type mismatch.
+Error type 4 at Line 222: Redefined function "i_func_6407".
+Error type 17 at Line 223: Undefined structure "S9956".
+Error type 16 at Line 241: Duplicated name "dup120".
+Error type 16 at Line 245: Duplicated name "dup121".
+Error type 16 at Line 249: Duplicated name "dup122".
+Error type 16 at Line 253: Duplicated name "dup123".
+Error type 16 at Line 257: Duplicated name "dup124".
+Error type 16 at Line 261: Duplicated name "dup125".
+Error type 16 at Line 265: Duplicated name "dup126".
+Error type 9 at Line 283: Arguments mismatch in function "i_func_6408".
+Error type 8 at Line 287: Return type mismatch.
+Error type 9 at Line 317: Arguments mismatch in function "i_func_6409".
+Error type 17 at Line 321: Undefined structure "S9969".
+Error type 9 at Line 338: Arguments mismatch in function "i_func_6410".
+Error type 9 at Line 340: Arguments mismatch in function "i_func_6408".
+Error type 8 at Line 349: Return type mismatch.
+Error type 3 at Line 354: Redefined variable "redef_L3504".
+Error type 9 at Line 380: Arguments mismatch in function "i_func_6411".
+Error type 9 at Line 389: Arguments mismatch in function "i_func_6411".
+Error type 9 at Line 405: Arguments mismatch in function "i_func_6408".
+Error type 8 at Line 410: Return type mismatch.
+Error type 8 at Line 458: Return type mismatch.
+
+
+./tests/Dt/D-7.2.cmm
+Error type 15 at Line 20: Initialized field "S9982_m0_a1_a2_f".
+Error type 15 at Line 21: Initialized field "S9982_m1_a1_i".
+Error type 15 at Line 22: Initialized field "S9982_m2_i".
+Error type 15 at Line 23: Redefined field "S9982_m1_a1_i".
+Error type 15 at Line 24: Initialized field "S9982_m4_a1_S9981".
+Error type 17 at Line 28: Undefined structure "S9983".
+Error type 6 at Line 38: Assign a value to a right-hand-only expression.
+Error type 5 at Line 40: Type mismatched for assignment.
+Error type 5 at Line 47: Type mismatched for assignment.
+Error type 5 at Line 48: Type mismatched for assignment.
+Error type 11 at Line 56: Illegal use of operator "()".
+Error type 11 at Line 60: Illegal use of operator "()".
+Error type 3 at Line 66: Redefined variable "redef_L3521".
+Error type 10 at Line 70: Illegal use of of "[]" operator.
+Error type 10 at Line 76: Illegal use of of "[]" operator.
+Error type 6 at Line 77: Assign a value to a right-hand-only expression.
+Error type 3 at Line 81: Redefined variable "redef_L3531".
+Error type 11 at Line 82: Illegal use of operator "()".
+Error type 13 at Line 83: Illegal use of operator ".".
+Error type 7 at Line 87: Operand type mismatch.
+Error type 5 at Line 89: Type mismatched for assignment.
+Error type 3 at Line 93: Redefined variable "redef_L3534".
+Error type 3 at Line 95: Redefined variable "redef_L3535".
+Error type 3 at Line 112: Redefined variable "redef_L3542".
+Error type 7 at Line 115: Operand type mismatch.
+Error type 8 at Line 121: Return type mismatch.
+Error type 4 at Line 123: Redefined function "i_func_6412".
+Error type 3 at Line 125: Redefined variable "redef_L3544".
+Error type 6 at Line 154: Assign a value to a right-hand-only expression.
+Error type 6 at Line 156: Assign a value to a right-hand-only expression.
+Error type 5 at Line 157: Type mismatched for assignment.
+Error type 5 at Line 158: Type mismatched for assignment.
+Error type 6 at Line 161: Assign a value to a right-hand-only expression.
+Error type 17 at Line 164: Undefined structure "S10100".
+Error type 6 at Line 177: Assign a value to a right-hand-only expression.
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+Error type 5 at Line 185: Type mismatched for assignment.
+Error type 4 at Line 188: Redefined function "i_func_6493".
+Error type 17 at Line 189: Undefined structure "S10105".
+Error type 4 at Line 265: Redefined function "i_func_6494".
+Error type 17 at Line 266: Undefined structure "S10113".
+Error type 17 at Line 309: Undefined structure "S10117".
+Error type 8 at Line 339: Return type mismatch.
+Error type 4 at Line 341: Redefined function "i_func_6495".
+Error type 8 at Line 380: Return type mismatch.
+Error type 17 at Line 384: Undefined structure "S10126".
+Error type 4 at Line 428: Redefined function "i_func_6496".
+Error type 3 at Line 430: Redefined variable "redef_L3578".
+Error type 17 at Line 479: Undefined structure "S10141".
+Error type 8 at Line 510: Return type mismatch.
+Error type 4 at Line 540: Redefined function "i_func_6497".
+Error type 8 at Line 675: Return type mismatch.
+Error type 4 at Line 677: Redefined function "i_func_6498".
+Error type 8 at Line 701: Return type mismatch.
+Error type 16 at Line 729: Duplicated name "dup127".
+Error type 16 at Line 733: Duplicated name "dup128".
+Error type 16 at Line 737: Duplicated name "dup129".
+Error type 16 at Line 741: Duplicated name "dup130".
+Error type 16 at Line 745: Duplicated name "dup131".
+Error type 16 at Line 749: Duplicated name "dup132".
+Error type 16 at Line 753: Duplicated name "dup133".
+Error type 9 at Line 806: Arguments mismatch in function "i_func_6499".
+Error type 9 at Line 808: Arguments mismatch in function "i_func_6499".
+Error type 9 at Line 830: Arguments mismatch in function "i_func_6500".
+Error type 9 at Line 831: Arguments mismatch in function "i_func_6500".
+Error type 9 at Line 833: Arguments mismatch in function "i_func_6499".
+Error type 9 at Line 836: Arguments mismatch in function "i_func_6500".
+Error type 8 at Line 847: Return type mismatch.
+
+
+./tests/Dt/D-7.3.cmm
+Error type 15 at Line 31: Initialized field "S10146_m0_i".
+Error type 15 at Line 32: Redefined field "S10146_m0_i".
+Error type 15 at Line 33: Initialized field "S10146_m2_a1_a2_f".
+Error type 15 at Line 34: Initialized field "S10146_m3_a1_S10145".
+Error type 3 at Line 39: Redefined variable "redef_L3592".
+Error type 5 at Line 47: Type mismatched for assignment.
+Error type 11 at Line 49: Illegal use of operator "()".
+Error type 6 at Line 51: Assign a value to a right-hand-only expression.
+Error type 6 at Line 53: Assign a value to a right-hand-only expression.
+Error type 11 at Line 59: Illegal use of operator "()".
+Error type 2 at Line 60: Undefined function "i_func_6538".
+Error type 4 at Line 68: Redefined function "i_func_6501".
+Error type 3 at Line 70: Redefined variable "redef_L3600".
+Error type 8 at Line 83: Return type mismatch.
+Error type 5 at Line 87: Type mismatched for assignment.
+Error type 6 at Line 88: Assign a value to a right-hand-only expression.
+Error type 16 at Line 92: Duplicated name "dup134".
+Error type 16 at Line 96: Duplicated name "dup135".
+Error type 16 at Line 100: Duplicated name "dup136".
+Error type 16 at Line 104: Duplicated name "dup137".
+Error type 16 at Line 108: Duplicated name "dup138".
+Error type 17 at Line 113: Undefined structure "S10240".
+Error type 7 at Line 121: Operand type mismatch.
+Error type 7 at Line 133: Operand type mismatch.
+Error type 7 at Line 135: Operand type mismatch.
+Error type 9 at Line 140: Arguments mismatch in function "i_func_6582".
+Error type 8 at Line 142: Return type mismatch.
+Error type 9 at Line 169: Arguments mismatch in function "i_func_6582".
+Error type 6 at Line 179: Assign a value to a right-hand-only expression.
+Error type 5 at Line 180: Type mismatched for assignment.
+Error type 17 at Line 187: Undefined structure "S10247".
+Error type 5 at Line 215: Type mismatched for assignment.
+Error type 17 at Line 217: Undefined structure "S10254".
+Error type 6 at Line 219: Assign a value to a right-hand-only expression.
+Error type 6 at Line 222: Assign a value to a right-hand-only expression.
+Error type 7 at Line 248: Operand type mismatch.
+Error type 9 at Line 266: Arguments mismatch in function "i_func_6585".
+Error type 6 at Line 268: Assign a value to a right-hand-only expression.
+Error type 8 at Line 275: Return type mismatch.
+Error type 3 at Line 280: Redefined variable "redef_L3625".
+Error type 5 at Line 319: Type mismatched for assignment.
+Error type 5 at Line 321: Type mismatched for assignment.
+Error type 5 at Line 324: Type mismatched for assignment.
+Error type 17 at Line 330: Undefined structure "S10266".
+Error type 9 at Line 385: Arguments mismatch in function "i_func_6585".
+Error type 8 at Line 402: Return type mismatch.
+Error type 17 at Line 406: Undefined structure "S10270".
+Error type 8 at Line 443: Return type mismatch.
+Error type 3 at Line 448: Redefined variable "redef_L3638".
+Error type 3 at Line 523: Redefined variable "redef_L3640".
+Error type 9 at Line 547: Arguments mismatch in function "i_func_6590".
+Error type 8 at Line 551: Return type mismatch.
+Error type 17 at Line 555: Undefined structure "S10279".
+Error type 3 at Line 557: Redefined variable "redef_L3647".
+Error type 9 at Line 610: Arguments mismatch in function "i_func_6590".
+Error type 9 at Line 620: Arguments mismatch in function "i_func_6588".
+Error type 8 at Line 635: Return type mismatch.
+Error type 17 at Line 642: Undefined structure "S10283".
+Error type 3 at Line 644: Redefined variable "redef_L3650".
+
+
+./tests/Dt/D-7.4.cmm
+Error type 15 at Line 39: Initialized field "S10291_m0_a1_S10287".
+Error type 15 at Line 40: Initialized field "S10291_m1_i".
+Error type 15 at Line 41: Redefined field "S10291_m0_a1_S10287".
+Error type 15 at Line 42: Initialized field "S10291_m3_a2_i".
+Error type 15 at Line 43: Initialized field "S10291_m4_i".
+Error type 15 at Line 44: Redefined field "S10291_m1_i".
+Error type 15 at Line 45: Initialized field "S10291_m6_a1_a1_a1_a2_f".
+Error type 17 at Line 49: Undefined structure "S10292".
+Error type 7 at Line 66: Operand type mismatch.
+Error type 10 at Line 74: Illegal use of of "[]" operator.
+Error type 14 at Line 76: Non-existent field "S10288_i22".
+Error type 13 at Line 77: Illegal use of operator ".".
+Error type 10 at Line 79: Illegal use of of "[]" operator.
+Error type 3 at Line 84: Redefined variable "redef_L3663".
+Error type 14 at Line 85: Non-existent field "S10289_i43".
+Error type 11 at Line 86: Illegal use of operator "()".
+Error type 5 at Line 94: Type mismatched for assignment.
+Error type 6 at Line 98: Assign a value to a right-hand-only expression.
+Error type 4 at Line 109: Redefined function "i_func_6591".
+Error type 5 at Line 127: Type mismatched for assignment.
+Error type 7 at Line 128: Operand type mismatch.
+Error type 6 at Line 131: Assign a value to a right-hand-only expression.
+Error type 6 at Line 132: Assign a value to a right-hand-only expression.
+Error type 6 at Line 133: Assign a value to a right-hand-only expression.
+Error type 6 at Line 135: Assign a value to a right-hand-only expression.
+Error type 5 at Line 140: Type mismatched for assignment.
+Error type 5 at Line 141: Type mismatched for assignment.
+Error type 6 at Line 145: Assign a value to a right-hand-only expression.
+Error type 6 at Line 147: Assign a value to a right-hand-only expression.
+Error type 8 at Line 155: Return type mismatch.
+Error type 17 at Line 157: Undefined structure "S10393".
+Error type 7 at Line 164: Operand type mismatch.
+Error type 5 at Line 169: Type mismatched for assignment.
+Error type 17 at Line 174: Undefined structure "S10396".
+Error type 5 at Line 185: Type mismatched for assignment.
+Error type 7 at Line 186: Operand type mismatch.
+Error type 7 at Line 193: Operand type mismatch.
+Error type 3 at Line 207: Redefined variable "redef_L3690".
+Error type 17 at Line 208: Undefined structure "S10411".
+Error type 4 at Line 285: Redefined function "i_func_6672".
+Error type 17 at Line 286: Undefined structure "S10412".
+Error type 8 at Line 299: Return type mismatch.
+Error type 16 at Line 302: Duplicated name "dup139".
+Error type 9 at Line 402: Arguments mismatch in function "i_func_6673".
+Error type 8 at Line 403: Return type mismatch.
+Error type 3 at Line 408: Redefined variable "redef_L3704".
+Error type 8 at Line 426: Return type mismatch.
+Error type 3 at Line 563: Redefined variable "redef_L3714".
+Error type 17 at Line 585: Undefined structure "S10437".
+Error type 9 at Line 599: Arguments mismatch in function "i_func_6674".
+Error type 8 at Line 615: Return type mismatch.
+Error type 3 at Line 620: Redefined variable "redef_L3720".
+Error type 3 at Line 622: Redefined variable "redef_L3721".
+Error type 3 at Line 624: Redefined variable "redef_L3723".
+Error type 9 at Line 685: Arguments mismatch in function "i_func_6677".
+Error type 9 at Line 723: Arguments mismatch in function "i_func_6673".
+Error type 17 at Line 728: Undefined structure "S10449".
+Error type 8 at Line 866: Return type mismatch.
+Error type 8 at Line 934: Return type mismatch.
+Error type 9 at Line 986: Arguments mismatch in function "i_func_6675".
+
+
+./tests/Dt/D-8.0.cmm
+Error type 15 at Line 35: Initialized field "S10457_m0_a1_S10454".
+Error type 15 at Line 36: Initialized field "S10457_m1_a1_a1_S10452".
+Error type 15 at Line 37: Initialized field "S10457_m2_i".
+Error type 15 at Line 38: Redefined field "S10457_m0_a1_S10454".
+Error type 15 at Line 39: Redefined field "S10457_m1_a1_a1_S10452".
+Error type 15 at Line 40: Redefined field "S10457_m2_i".
+Error type 17 at Line 44: Undefined structure "S10461".
+Error type 2 at Line 50: Undefined function "i_func_6682".
+Error type 4 at Line 62: Redefined function "i_func_6680".
+Error type 17 at Line 63: Undefined structure "S10484".
+Error type 6 at Line 77: Assign a value to a right-hand-only expression.
+Error type 14 at Line 84: Non-existent field "S10456_i31".
+Error type 6 at Line 118: Assign a value to a right-hand-only expression.
+Error type 6 at Line 121: Assign a value to a right-hand-only expression.
+Error type 5 at Line 123: Type mismatched for assignment.
+Error type 6 at Line 125: Assign a value to a right-hand-only expression.
+Error type 8 at Line 126: Return type mismatch.
+Error type 4 at Line 128: Redefined function "i_func_6761".
+Error type 3 at Line 130: Redefined variable "redef_L3745".
+Error type 7 at Line 134: Operand type mismatch.
+Error type 5 at Line 142: Type mismatched for assignment.
+Error type 16 at Line 145: Duplicated name "dup140".
+Error type 16 at Line 149: Duplicated name "dup141".
+Error type 16 at Line 153: Duplicated name "dup142".
+Error type 16 at Line 157: Duplicated name "dup143".
+Error type 16 at Line 161: Duplicated name "dup144".
+Error type 17 at Line 166: Undefined structure "S10555".
+Error type 9 at Line 179: Arguments mismatch in function "i_func_6762".
+Error type 9 at Line 180: Arguments mismatch in function "i_func_6762".
+Error type 6 at Line 182: Assign a value to a right-hand-only expression.
+Error type 3 at Line 193: Redefined variable "redef_L3752".
+Error type 3 at Line 195: Redefined variable "redef_L3753".
+Error type 6 at Line 244: Assign a value to a right-hand-only expression.
+Error type 6 at Line 246: Assign a value to a right-hand-only expression.
+Error type 8 at Line 250: Return type mismatch.
+Error type 5 at Line 317: Type mismatched for assignment.
+Error type 5 at Line 318: Type mismatched for assignment.
+Error type 5 at Line 319: Type mismatched for assignment.
+Error type 3 at Line 323: Redefined variable "redef_L3762".
+Error type 17 at Line 352: Undefined structure "S10573".
+Error type 5 at Line 385: Type mismatched for assignment.
+Error type 7 at Line 392: Operand type mismatch.
+Error type 7 at Line 393: Operand type mismatch.
+Error type 8 at Line 404: Return type mismatch.
+Error type 6 at Line 481: Assign a value to a right-hand-only expression.
+Error type 17 at Line 482: Undefined structure "S10580".
+Error type 9 at Line 553: Arguments mismatch in function "i_func_6764".
+Error type 5 at Line 559: Type mismatched for assignment.
+Error type 5 at Line 561: Type mismatched for assignment.
+Error type 3 at Line 571: Redefined variable "redef_L3782".
+Error type 17 at Line 572: Undefined structure "S10589".
+Error type 3 at Line 600: Redefined variable "redef_L3791".
+Error type 17 at Line 612: Undefined structure "S10601".
+Error type 3 at Line 626: Redefined variable "redef_L3796".
+Error type 17 at Line 627: Undefined structure "S10603".
+Error type 9 at Line 628: Arguments mismatch in function "i_func_6762".
+Error type 3 at Line 644: Redefined variable "redef_L3804".
+Error type 9 at Line 678: Arguments mismatch in function "i_func_6764".
+Error type 9 at Line 681: Arguments mismatch in function "i_func_6765".
+Error type 9 at Line 719: Arguments mismatch in function "i_func_6765".
+Error type 8 at Line 851: Return type mismatch.
+Error type 8 at Line 852: Return type mismatch.
+Error type 8 at Line 900: Return type mismatch.
+Error type 8 at Line 982: Return type mismatch.
+Error type 8 at Line 1270: Return type mismatch.
+
+
+./tests/Dt/D-8.1.cmm
+Error type 15 at Line 87: Initialized field "S10628_m0_i".
+Error type 15 at Line 88: Initialized field "S10628_m1_i".
+Error type 15 at Line 89: Redefined field "S10628_m1_i".
+Error type 15 at Line 90: Initialized field "S10628_m3_a1_S10622".
+Error type 15 at Line 91: Initialized field "S10628_m4_i".
+Error type 13 at Line 101: Illegal use of operator ".".
+Error type 11 at Line 102: Illegal use of operator "()".
+Error type 5 at Line 104: Type mismatched for assignment.
+Error type 13 at Line 105: Illegal use of operator ".".
+Error type 14 at Line 106: Non-existent field "S10623_i37".
+Error type 13 at Line 108: Illegal use of operator ".".
+Error type 6 at Line 116: Assign a value to a right-hand-only expression.
+Error type 6 at Line 117: Assign a value to a right-hand-only expression.
+Error type 10 at Line 121: Illegal use of of "[]" operator.
+Error type 10 at Line 122: Illegal use of of "[]" operator.
+Error type 7 at Line 124: Operand type mismatch.
+Error type 1 at Line 127: Undefined variable "l5331".
+Error type 13 at Line 128: Illegal use of operator ".".
+Error type 4 at Line 130: Redefined function "i_func_6771".
+Error type 3 at Line 132: Redefined variable "redef_L3818".
+Error type 5 at Line 140: Type mismatched for assignment.
+Error type 7 at Line 141: Operand type mismatch.
+Error type 5 at Line 142: Type mismatched for assignment.
+Error type 5 at Line 144: Type mismatched for assignment.
+Error type 6 at Line 153: Assign a value to a right-hand-only expression.
+Error type 6 at Line 155: Assign a value to a right-hand-only expression.
+Error type 7 at Line 156: Operand type mismatch.
+Error type 6 at Line 158: Assign a value to a right-hand-only expression.
+Error type 6 at Line 161: Assign a value to a right-hand-only expression.
+Error type 5 at Line 163: Type mismatched for assignment.
+Error type 6 at Line 174: Assign a value to a right-hand-only expression.
+Error type 5 at Line 177: Type mismatched for assignment.
+Error type 8 at Line 179: Return type mismatch.
+Error type 4 at Line 181: Redefined function "i_func_6852".
+Error type 5 at Line 188: Type mismatched for assignment.
+Error type 5 at Line 246: Type mismatched for assignment.
+Error type 4 at Line 251: Redefined function "i_func_6853".
+Error type 3 at Line 253: Redefined variable "redef_L3834".
+Error type 3 at Line 255: Redefined variable "redef_L3835".
+Error type 17 at Line 263: Undefined structure "S10734".
+Error type 3 at Line 265: Redefined variable "redef_L3838".
+Error type 8 at Line 268: Return type mismatch.
+Error type 17 at Line 271: Undefined structure "S10737".
+Error type 4 at Line 283: Redefined function "i_func_6854".
+Error type 17 at Line 284: Undefined structure "S10742".
+Error type 3 at Line 286: Redefined variable "redef_L3846".
+Error type 17 at Line 316: Undefined structure "S10745".
+Error type 8 at Line 359: Return type mismatch.
+Error type 4 at Line 361: Redefined function "i_func_6855".
+Error type 17 at Line 413: Undefined structure "S10753".
+Error type 3 at Line 415: Redefined variable "redef_L3857".
+Error type 3 at Line 417: Redefined variable "redef_L3859".
+Error type 17 at Line 419: Undefined structure "S10759".
+Error type 16 at Line 449: Duplicated name "dup145".
+Error type 3 at Line 455: Redefined variable "redef_L3868".
+Error type 9 at Line 481: Arguments mismatch in function "i_func_6856".
+Error type 17 at Line 501: Undefined structure "S10776".
+Error type 9 at Line 517: Arguments mismatch in function "i_func_6856".
+Error type 17 at Line 535: Undefined structure "S10788".
+Error type 8 at Line 547: Return type mismatch.
+Error type 9 at Line 589: Arguments mismatch in function "i_func_6857".
+Error type 8 at Line 594: Return type mismatch.
+Error type 8 at Line 661: Return type mismatch.
+Error type 8 at Line 696: Return type mismatch.
+Error type 9 at Line 762: Arguments mismatch in function "i_func_6857".
+Error type 9 at Line 771: Arguments mismatch in function "i_func_6859".
+Error type 9 at Line 774: Arguments mismatch in function "i_func_6856".
+Error type 9 at Line 782: Arguments mismatch in function "i_func_6858".
+Error type 9 at Line 787: Arguments mismatch in function "i_func_6859".
+Error type 8 at Line 795: Return type mismatch.
+Error type 7 at Line 814: Operand type mismatch.
+
+
+./tests/Dt/D-8.2.cmm
+Error type 15 at Line 65: Initialized field "S10796_m0_a1_a1_S10792".
+Error type 15 at Line 66: Redefined field "S10796_m0_a1_a1_S10792".
+Error type 7 at Line 77: Operand type mismatch.
+Error type 11 at Line 80: Illegal use of operator "()".
+Error type 10 at Line 82: Illegal use of of "[]" operator.
+Error type 11 at Line 84: Illegal use of operator "()".
+Error type 1 at Line 85: Undefined variable "l5404".
+Error type 1 at Line 86: Undefined variable "l5410".
+Error type 11 at Line 91: Illegal use of operator "()".
+Error type 14 at Line 92: Non-existent field "S10795_i75".
+Error type 6 at Line 103: Assign a value to a right-hand-only expression.
+Error type 6 at Line 104: Assign a value to a right-hand-only expression.
+Error type 5 at Line 109: Type mismatched for assignment.
+Error type 6 at Line 111: Assign a value to a right-hand-only expression.
+Error type 5 at Line 113: Type mismatched for assignment.
+Error type 6 at Line 116: Assign a value to a right-hand-only expression.
+Error type 5 at Line 119: Type mismatched for assignment.
+Error type 6 at Line 123: Assign a value to a right-hand-only expression.
+Error type 5 at Line 124: Type mismatched for assignment.
+Error type 5 at Line 130: Type mismatched for assignment.
+Error type 5 at Line 131: Type mismatched for assignment.
+Error type 6 at Line 138: Assign a value to a right-hand-only expression.
+Error type 7 at Line 142: Operand type mismatch.
+Error type 7 at Line 143: Operand type mismatch.
+Error type 4 at Line 145: Redefined function "i_func_6860".
+Error type 3 at Line 147: Redefined variable "redef_L3897".
+Error type 6 at Line 313: Assign a value to a right-hand-only expression.
+Error type 6 at Line 340: Assign a value to a right-hand-only expression.
+Error type 5 at Line 347: Type mismatched for assignment.
+Error type 17 at Line 442: Undefined structure "S10890".
+Error type 17 at Line 443: Undefined structure "S10892".
+Error type 17 at Line 564: Undefined structure "S10898".
+Error type 17 at Line 565: Undefined structure "S10900".
+Error type 3 at Line 574: Redefined variable "redef_L3917".
+Error type 3 at Line 576: Redefined variable "redef_L3918".
+Error type 4 at Line 598: Redefined function "i_func_6941".
+Error type 3 at Line 600: Redefined variable "redef_L3924".
+Error type 8 at Line 745: Return type mismatch.
+Error type 4 at Line 754: Redefined function "i_func_6942".
+Error type 4 at Line 858: Redefined function "i_func_6943".
+Error type 17 at Line 903: Undefined structure "S10935".
+Error type 4 at Line 969: Redefined function "i_func_6944".
+Error type 3 at Line 971: Redefined variable "redef_L3953".
+Error type 3 at Line 973: Redefined variable "redef_L3955".
+Error type 4 at Line 1110: Redefined function "i_func_6945".
+Error type 3 at Line 1112: Redefined variable "redef_L3960".
+Error type 17 at Line 1113: Undefined structure "S10946".
+Error type 8 at Line 1162: Return type mismatch.
+Error type 17 at Line 1165: Undefined structure "S10949".
+Error type 17 at Line 1166: Undefined structure "S10950".
+Error type 4 at Line 1195: Redefined function "i_func_6946".
+Error type 3 at Line 1197: Redefined variable "redef_L3970".
+Error type 8 at Line 1429: Return type mismatch.
+Error type 4 at Line 1463: Redefined function "i_func_6947".
+Error type 8 at Line 1588: Return type mismatch.
+Error type 8 at Line 1622: Return type mismatch.
+Error type 16 at Line 1625: Duplicated name "dup146".
+Error type 16 at Line 1629: Duplicated name "dup147".
+Error type 16 at Line 1633: Duplicated name "dup148".
+Error type 9 at Line 1687: Arguments mismatch in function "i_func_6948".
+Error type 8 at Line 1979: Return type mismatch.
+Error type 9 at Line 2247: Arguments mismatch in function "i_func_6950".
+Error type 8 at Line 2516: Return type mismatch.
+Error type 9 at Line 2589: Arguments mismatch in function "i_func_6949".
+Error type 9 at Line 2678: Arguments mismatch in function "i_func_6948".
+Error type 9 at Line 2686: Arguments mismatch in function "top_caller".
+Error type 9 at Line 2705: Arguments mismatch in function "i_func_6952".
+Error type 9 at Line 2966: Arguments mismatch in function "i_func_6951".
+Error type 8 at Line 2987: Return type mismatch.
+
+
+./tests/Dt/D-8.3.cmm
+Error type 15 at Line 61: Initialized field "S10964_m0_i".
+Error type 15 at Line 62: Initialized field "S10964_m1_a1_a1_S10957".
+Error type 15 at Line 63: Redefined field "S10964_m0_i".
+Error type 11 at Line 75: Illegal use of operator "()".
+Error type 11 at Line 77: Illegal use of operator "()".
+Error type 13 at Line 78: Illegal use of operator ".".
+Error type 2 at Line 79: Undefined function "i_func_6962".
+Error type 11 at Line 80: Illegal use of operator "()".
+Error type 13 at Line 81: Illegal use of operator ".".
+Error type 13 at Line 84: Illegal use of operator ".".
+Error type 11 at Line 85: Illegal use of operator "()".
+Error type 10 at Line 86: Illegal use of of "[]" operator.
+Error type 10 at Line 87: Illegal use of of "[]" operator.
+Error type 7 at Line 88: Operand type mismatch.
+Error type 7 at Line 89: Operand type mismatch.
+Error type 1 at Line 90: Undefined variable "l5470".
+Error type 10 at Line 92: Illegal use of of "[]" operator.
+Error type 10 at Line 93: Illegal use of of "[]" operator.
+Error type 2 at Line 96: Undefined function "i_func_7011".
+Error type 2 at Line 97: Undefined function "i_func_7013".
+Error type 11 at Line 99: Illegal use of operator "()".
+Error type 1 at Line 100: Undefined variable "l5510".
+Error type 2 at Line 102: Undefined function "i_func_7032".
+Error type 7 at Line 103: Operand type mismatch.
+Error type 8 at Line 108: Return type mismatch.
+Error type 8 at Line 109: Return type mismatch.
+Error type 4 at Line 111: Redefined function "i_func_6953".
+Error type 17 at Line 112: Undefined structure "S11051".
+Error type 6 at Line 117: Assign a value to a right-hand-only expression.
+Error type 14 at Line 125: Non-existent field "S10961_i6".
+Error type 6 at Line 128: Assign a value to a right-hand-only expression.
+Error type 7 at Line 131: Operand type mismatch.
+Error type 8 at Line 134: Return type mismatch.
+Error type 6 at Line 145: Assign a value to a right-hand-only expression.
+Error type 4 at Line 149: Redefined function "i_func_7034".
+Error type 7 at Line 164: Operand type mismatch.
+Error type 6 at Line 178: Assign a value to a right-hand-only expression.
+Error type 7 at Line 179: Operand type mismatch.
+Error type 17 at Line 181: Undefined structure "S11065".
+Error type 5 at Line 185: Type mismatched for assignment.
+Error type 5 at Line 187: Type mismatched for assignment.
+Error type 6 at Line 189: Assign a value to a right-hand-only expression.
+Error type 3 at Line 192: Redefined variable "redef_L4000".
+Error type 6 at Line 195: Assign a value to a right-hand-only expression.
+Error type 5 at Line 198: Type mismatched for assignment.
+Error type 6 at Line 199: Assign a value to a right-hand-only expression.
+Error type 17 at Line 205: Undefined structure "S11078".
+Error type 5 at Line 210: Type mismatched for assignment.
+Error type 6 at Line 213: Assign a value to a right-hand-only expression.
+Error type 5 at Line 214: Type mismatched for assignment.
+Error type 16 at Line 217: Duplicated name "dup149".
+Error type 16 at Line 221: Duplicated name "dup150".
+Error type 16 at Line 225: Duplicated name "dup151".
+Error type 16 at Line 229: Duplicated name "dup152".
+Error type 17 at Line 234: Undefined structure "S11081".
+Error type 9 at Line 247: Arguments mismatch in function "i_func_7035".
+Error type 5 at Line 261: Type mismatched for assignment.
+Error type 5 at Line 263: Type mismatched for assignment.
+Error type 9 at Line 286: Arguments mismatch in function "i_func_7035".
+Error type 17 at Line 328: Undefined structure "S11089".
+Error type 9 at Line 352: Arguments mismatch in function "i_func_7035".
+Error type 9 at Line 353: Arguments mismatch in function "i_func_7036".
+Error type 9 at Line 378: Arguments mismatch in function "i_func_7036".
+Error type 8 at Line 413: Return type mismatch.
+Error type 17 at Line 473: Undefined structure "S11097".
+Error type 3 at Line 475: Redefined variable "redef_L4026".
+Error type 17 at Line 524: Undefined structure "S11102".
+Error type 3 at Line 526: Redefined variable "redef_L4031".
+Error type 9 at Line 577: Arguments mismatch in function "i_func_7037".
+Error type 8 at Line 588: Return type mismatch.
+Error type 3 at Line 593: Redefined variable "redef_L4032".
+Error type 3 at Line 595: Redefined variable "redef_L4035".
+Error type 9 at Line 693: Arguments mismatch in function "i_func_7037".
+Error type 17 at Line 729: Undefined structure "S11111".
+Error type 9 at Line 832: Arguments mismatch in function "i_func_7037".
+Error type 3 at Line 851: Redefined variable "redef_L4042".
+Error type 3 at Line 989: Redefined variable "redef_L4048".
+Error type 3 at Line 991: Redefined variable "redef_L4051".
+Error type 8 at Line 1406: Return type mismatch.
+Error type 8 at Line 1557: Return type mismatch.
+Error type 8 at Line 1905: Return type mismatch.
+Error type 7 at Line 2057: Operand type mismatch.
+
+
+./tests/Dt/D-8.4.cmm
+Error type 15 at Line 30: Initialized field "S11128_m0_a1_a2_i".
+Error type 15 at Line 31: Redefined field "S11128_m0_a1_a2_i".
+Error type 15 at Line 32: Initialized field "S11128_m2_a1_a1_f".
+Error type 15 at Line 33: Initialized field "S11128_m3_i".
+Error type 11 at Line 46: Illegal use of operator "()".
+Error type 11 at Line 47: Illegal use of operator "()".
+Error type 11 at Line 48: Illegal use of operator "()".
+Error type 13 at Line 51: Illegal use of operator ".".
+Error type 1 at Line 55: Undefined variable "l5535".
+Error type 6 at Line 56: Assign a value to a right-hand-only expression.
+Error type 6 at Line 57: Assign a value to a right-hand-only expression.
+Error type 5 at Line 59: Type mismatched for assignment.
+Error type 5 at Line 62: Type mismatched for assignment.
+Error type 17 at Line 63: Undefined structure "S11175".
+Error type 3 at Line 65: Redefined variable "redef_L4058".
+Error type 5 at Line 67: Type mismatched for assignment.
+Error type 3 at Line 70: Redefined variable "redef_L4061".
+Error type 1 at Line 73: Undefined variable "l5578".
+Error type 14 at Line 76: Non-existent field "S11127_i63".
+Error type 14 at Line 77: Non-existent field "S11127_i68".
+Error type 14 at Line 79: Non-existent field "S11127_i69".
+Error type 14 at Line 81: Non-existent field "S11127_i79".
+Error type 6 at Line 82: Assign a value to a right-hand-only expression.
+Error type 6 at Line 83: Assign a value to a right-hand-only expression.
+Error type 17 at Line 87: Undefined structure "S11221".
+Error type 6 at Line 88: Assign a value to a right-hand-only expression.
+Error type 4 at Line 98: Redefined function "i_func_7044".
+Error type 5 at Line 112: Type mismatched for assignment.
+Error type 5 at Line 118: Type mismatched for assignment.
+Error type 17 at Line 122: Undefined structure "S11231".
+Error type 3 at Line 124: Redefined variable "redef_L4075".
+Error type 6 at Line 143: Assign a value to a right-hand-only expression.
+Error type 4 at Line 151: Redefined function "i_func_7125".
+Error type 3 at Line 153: Redefined variable "redef_L4076".
+Error type 3 at Line 155: Redefined variable "redef_L4077".
+Error type 8 at Line 169: Return type mismatch.
+Error type 5 at Line 204: Type mismatched for assignment.
+Error type 4 at Line 208: Redefined function "i_func_7126".
+Error type 3 at Line 210: Redefined variable "redef_L4089".
+Error type 17 at Line 211: Undefined structure "S11248".
+Error type 7 at Line 216: Operand type mismatch.
+Error type 7 at Line 225: Operand type mismatch.
+Error type 5 at Line 227: Type mismatched for assignment.
+Error type 5 at Line 229: Type mismatched for assignment.
+Error type 6 at Line 232: Assign a value to a right-hand-only expression.
+Error type 8 at Line 233: Return type mismatch.
+Error type 6 at Line 242: Assign a value to a right-hand-only expression.
+Error type 4 at Line 244: Redefined function "i_func_7127".
+Error type 8 at Line 250: Return type mismatch.
+Error type 3 at Line 254: Redefined variable "redef_L4102".
+Error type 4 at Line 287: Redefined function "i_func_7128".
+Error type 17 at Line 288: Undefined structure "S11261".
+Error type 17 at Line 289: Undefined structure "S11262".
+Error type 3 at Line 316: Redefined variable "redef_L4113".
+Error type 8 at Line 329: Return type mismatch.
+Error type 17 at Line 331: Undefined structure "S11273".
+Error type 8 at Line 339: Return type mismatch.
+Error type 4 at Line 360: Redefined function "i_func_7129".
+Error type 17 at Line 361: Undefined structure "S11288".
+Error type 16 at Line 384: Duplicated name "dup153".
+Error type 16 at Line 388: Duplicated name "dup154".
+Error type 16 at Line 392: Duplicated name "dup155".
+Error type 16 at Line 396: Duplicated name "dup156".
+Error type 16 at Line 400: Duplicated name "dup157".
+Error type 8 at Line 449: Return type mismatch.
+Error type 9 at Line 526: Arguments mismatch in function "i_func_7132".
+Error type 8 at Line 629: Return type mismatch.
+Error type 9 at Line 701: Arguments mismatch in function "i_func_7135".
+Error type 9 at Line 765: Arguments mismatch in function "i_func_7132".
+Error type 9 at Line 767: Arguments mismatch in function "i_func_7137".
+Error type 8 at Line 826: Return type mismatch.
+Error type 9 at Line 848: Arguments mismatch in function "i_func_7138".
+Error type 7 at Line 856: Operand type mismatch.
+
+
+./tests/Dt/D-9.0.cmm
+Error type 15 at Line 52: Initialized field "S11295_m0_i".
+Error type 15 at Line 53: Initialized field "S11295_m1_i".
+Error type 15 at Line 54: Initialized field "S11295_m2_a2_S11291".
+Error type 15 at Line 55: Initialized field "S11295_m3_i".
+Error type 15 at Line 56: Redefined field "S11295_m1_i".
+Error type 15 at Line 57: Redefined field "S11295_m2_a2_S11291".
+Error type 15 at Line 58: Redefined field "S11295_m0_i".
+Error type 10 at Line 77: Illegal use of of "[]" operator.
+Error type 11 at Line 80: Illegal use of operator "()".
+Error type 4 at Line 82: Redefined function "i_func_7139".
+Error type 3 at Line 84: Redefined variable "redef_L4137".
+Error type 1 at Line 93: Undefined variable "l5627".
+Error type 5 at Line 105: Type mismatched for assignment.
+Error type 6 at Line 107: Assign a value to a right-hand-only expression.
+Error type 6 at Line 108: Assign a value to a right-hand-only expression.
+Error type 5 at Line 110: Type mismatched for assignment.
+Error type 1 at Line 112: Undefined variable "l5636".
+Error type 17 at Line 114: Undefined structure "S11352".
+Error type 3 at Line 116: Redefined variable "redef_L4142".
+Error type 10 at Line 119: Illegal use of of "[]" operator.
+Error type 1 at Line 120: Undefined variable "l5667".
+Error type 13 at Line 121: Illegal use of operator ".".
+Error type 2 at Line 122: Undefined function "i_func_7216".
+Error type 14 at Line 124: Non-existent field "S11294_i53".
+Error type 6 at Line 127: Assign a value to a right-hand-only expression.
+Error type 7 at Line 132: Operand type mismatch.
+Error type 8 at Line 134: Return type mismatch.
+Error type 17 at Line 137: Undefined structure "S11390".
+Error type 5 at Line 145: Type mismatched for assignment.
+Error type 6 at Line 146: Assign a value to a right-hand-only expression.
+Error type 6 at Line 149: Assign a value to a right-hand-only expression.
+Error type 7 at Line 151: Operand type mismatch.
+Error type 6 at Line 152: Assign a value to a right-hand-only expression.
+Error type 6 at Line 153: Assign a value to a right-hand-only expression.
+Error type 4 at Line 157: Redefined function "i_func_7220".
+Error type 3 at Line 159: Redefined variable "redef_L4151".
+Error type 5 at Line 188: Type mismatched for assignment.
+Error type 5 at Line 195: Type mismatched for assignment.
+Error type 6 at Line 196: Assign a value to a right-hand-only expression.
+Error type 5 at Line 198: Type mismatched for assignment.
+Error type 3 at Line 201: Redefined variable "redef_L4157".
+Error type 17 at Line 202: Undefined structure "S11402".
+Error type 5 at Line 204: Type mismatched for assignment.
+Error type 6 at Line 212: Assign a value to a right-hand-only expression.
+Error type 5 at Line 217: Type mismatched for assignment.
+Error type 5 at Line 218: Type mismatched for assignment.
+Error type 8 at Line 223: Return type mismatch.
+Error type 17 at Line 226: Undefined structure "S11408".
+Error type 3 at Line 228: Redefined variable "redef_L4166".
+Error type 17 at Line 229: Undefined structure "S11411".
+Error type 8 at Line 246: Return type mismatch.
+Error type 4 at Line 248: Redefined function "i_func_7221".
+Error type 17 at Line 249: Undefined structure "S11413".
+Error type 3 at Line 274: Redefined variable "redef_L4174".
+Error type 8 at Line 298: Return type mismatch.
+Error type 3 at Line 307: Redefined variable "redef_L4180".
+Error type 4 at Line 320: Redefined function "i_func_7222".
+Error type 17 at Line 358: Undefined structure "S11436".
+Error type 17 at Line 359: Undefined structure "S11439".
+Error type 3 at Line 366: Redefined variable "redef_L4196".
+Error type 17 at Line 367: Undefined structure "S11441".
+Error type 3 at Line 369: Redefined variable "redef_L4198".
+Error type 8 at Line 387: Return type mismatch.
+Error type 4 at Line 389: Redefined function "i_func_7223".
+Error type 8 at Line 406: Return type mismatch.
+Error type 4 at Line 427: Redefined function "i_func_7224".
+Error type 4 at Line 459: Redefined function "i_func_7225".
+Error type 8 at Line 492: Return type mismatch.
+Error type 16 at Line 495: Duplicated name "dup158".
+Error type 9 at Line 508: Arguments mismatch in function "i_func_7226".
+Error type 8 at Line 521: Return type mismatch.
+Error type 9 at Line 538: Arguments mismatch in function "i_func_7226".
+Error type 9 at Line 544: Arguments mismatch in function "i_func_7227".
+Error type 9 at Line 546: Arguments mismatch in function "i_func_7227".
+Error type 8 at Line 552: Return type mismatch.
+Error type 9 at Line 605: Arguments mismatch in function "i_func_7226".
+Error type 9 at Line 647: Arguments mismatch in function "i_func_7228".
+Error type 9 at Line 666: Arguments mismatch in function "top_caller".
+Error type 9 at Line 698: Arguments mismatch in function "i_func_7227".
+Error type 9 at Line 699: Arguments mismatch in function "i_func_7228".
+
+
+./tests/Dt/D-9.1.cmm
+Error type 15 at Line 36: Initialized field "S11460_m0_a1_S11456".
+Error type 15 at Line 37: Redefined field "S11460_m0_a1_S11456".
+Error type 15 at Line 38: Initialized field "S11460_m2_a1_S11457".
+Error type 15 at Line 39: Redefined field "S11460_m0_a1_S11456".
+Error type 15 at Line 40: Initialized field "S11460_m4_a1_a1_a1_a2_f".
+Error type 15 at Line 41: Initialized field "S11460_m5_a1_i".
+Error type 17 at Line 45: Undefined structure "S11461".
+Error type 1 at Line 77: Undefined variable "l5685".
+Error type 11 at Line 80: Illegal use of operator "()".
+Error type 11 at Line 83: Illegal use of operator "()".
+Error type 4 at Line 85: Redefined function "i_func_7229".
+Error type 2 at Line 115: Undefined function "i_func_7295".
+Error type 2 at Line 116: Undefined function "i_func_7301".
+Error type 6 at Line 118: Assign a value to a right-hand-only expression.
+Error type 5 at Line 123: Type mismatched for assignment.
+Error type 1 at Line 125: Undefined variable "l5734".
+Error type 5 at Line 159: Type mismatched for assignment.
+Error type 17 at Line 162: Undefined structure "S11553".
+Error type 3 at Line 164: Redefined variable "redef_L4227".
+Error type 5 at Line 167: Type mismatched for assignment.
+Error type 5 at Line 168: Type mismatched for assignment.
+Error type 6 at Line 171: Assign a value to a right-hand-only expression.
+Error type 8 at Line 172: Return type mismatch.
+Error type 4 at Line 174: Redefined function "i_func_7310".
+Error type 3 at Line 176: Redefined variable "redef_L4229".
+Error type 6 at Line 187: Assign a value to a right-hand-only expression.
+Error type 6 at Line 188: Assign a value to a right-hand-only expression.
+Error type 6 at Line 190: Assign a value to a right-hand-only expression.
+Error type 6 at Line 192: Assign a value to a right-hand-only expression.
+Error type 7 at Line 195: Operand type mismatch.
+Error type 5 at Line 199: Type mismatched for assignment.
+Error type 5 at Line 203: Type mismatched for assignment.
+Error type 6 at Line 206: Assign a value to a right-hand-only expression.
+Error type 17 at Line 208: Undefined structure "S11561".
+Error type 17 at Line 209: Undefined structure "S11562".
+Error type 3 at Line 211: Redefined variable "redef_L4235".
+Error type 7 at Line 214: Operand type mismatch.
+Error type 17 at Line 219: Undefined structure "S11567".
+Error type 6 at Line 222: Assign a value to a right-hand-only expression.
+Error type 6 at Line 224: Assign a value to a right-hand-only expression.
+Error type 5 at Line 229: Type mismatched for assignment.
+Error type 7 at Line 232: Operand type mismatch.
+Error type 5 at Line 234: Type mismatched for assignment.
+Error type 5 at Line 237: Type mismatched for assignment.
+Error type 3 at Line 251: Redefined variable "redef_L4249".
+Error type 3 at Line 262: Redefined variable "redef_L4254".
+Error type 17 at Line 267: Undefined structure "S11587".
+Error type 4 at Line 289: Redefined function "i_func_7311".
+Error type 3 at Line 291: Redefined variable "redef_L4262".
+Error type 8 at Line 305: Return type mismatch.
+Error type 3 at Line 327: Redefined variable "redef_L4269".
+Error type 4 at Line 335: Redefined function "i_func_7312".
+Error type 17 at Line 353: Undefined structure "S11605".
+Error type 3 at Line 362: Redefined variable "redef_L4282".
+Error type 3 at Line 364: Redefined variable "redef_L4283".
+Error type 17 at Line 375: Undefined structure "S11616".
+Error type 17 at Line 383: Undefined structure "S11617".
+Error type 8 at Line 423: Return type mismatch.
+Error type 8 at Line 472: Return type mismatch.
+Error type 4 at Line 474: Redefined function "i_func_7313".
+Error type 16 at Line 535: Duplicated name "dup159".
+Error type 16 at Line 539: Duplicated name "dup160".
+Error type 16 at Line 543: Duplicated name "dup161".
+Error type 16 at Line 547: Duplicated name "dup162".
+Error type 16 at Line 551: Duplicated name "dup163".
+Error type 16 at Line 555: Duplicated name "dup164".
+Error type 16 at Line 559: Duplicated name "dup165".
+Error type 16 at Line 563: Duplicated name "dup166".
+Error type 16 at Line 567: Duplicated name "dup167".
+Error type 9 at Line 626: Arguments mismatch in function "i_func_7314".
+Error type 8 at Line 632: Return type mismatch.
+Error type 8 at Line 679: Return type mismatch.
+Error type 9 at Line 757: Arguments mismatch in function "i_func_7316".
+Error type 9 at Line 766: Arguments mismatch in function "i_func_7314".
+Error type 9 at Line 769: Arguments mismatch in function "i_func_7314".
+Error type 9 at Line 822: Arguments mismatch in function "i_func_7314".
+Error type 9 at Line 831: Arguments mismatch in function "i_func_7317".
+Error type 8 at Line 861: Return type mismatch.
+Error type 9 at Line 866: Arguments mismatch in function "i_func_7315".
+Error type 9 at Line 906: Arguments mismatch in function "i_func_7316".
+Error type 8 at Line 923: Return type mismatch.
+Error type 8 at Line 1111: Return type mismatch.
+
+
+./tests/Dt/D-9.2.cmm
+Error type 15 at Line 84: Initialized field "S11630_m0_i".
+Error type 15 at Line 85: Initialized field "S11630_m1_i".
+Error type 15 at Line 86: Initialized field "S11630_m2_i".
+Error type 15 at Line 87: Initialized field "S11630_m3_a1_S11629".
+Error type 3 at Line 92: Redefined variable "redef_L4292".
+Error type 17 at Line 93: Undefined structure "S11632".
+Error type 11 at Line 119: Illegal use of operator "()".
+Error type 2 at Line 120: Undefined function "i_func_7324".
+Error type 14 at Line 122: Non-existent field "S11629_i6".
+Error type 10 at Line 123: Illegal use of of "[]" operator.
+Error type 13 at Line 124: Illegal use of operator ".".
+Error type 2 at Line 127: Undefined function "i_func_7337".
+Error type 11 at Line 128: Illegal use of operator "()".
+Error type 11 at Line 129: Illegal use of operator "()".
+Error type 13 at Line 130: Illegal use of operator ".".
+Error type 13 at Line 131: Illegal use of operator ".".
+Error type 14 at Line 140: Non-existent field "S11629_i23".
+Error type 7 at Line 142: Operand type mismatch.
+Error type 2 at Line 145: Undefined function "i_func_7365".
+Error type 6 at Line 146: Assign a value to a right-hand-only expression.
+Error type 17 at Line 147: Undefined structure "S11688".
+Error type 1 at Line 154: Undefined variable "l5828".
+Error type 1 at Line 155: Undefined variable "l5834".
+Error type 1 at Line 156: Undefined variable "l5837".
+Error type 5 at Line 157: Type mismatched for assignment.
+Error type 3 at Line 162: Redefined variable "redef_L4310".
+Error type 17 at Line 163: Undefined structure "S11730".
+Error type 7 at Line 164: Operand type mismatch.
+Error type 7 at Line 165: Operand type mismatch.
+Error type 7 at Line 169: Operand type mismatch.
+Error type 6 at Line 173: Assign a value to a right-hand-only expression.
+Error type 6 at Line 174: Assign a value to a right-hand-only expression.
+Error type 4 at Line 176: Redefined function "i_func_7321".
+Error type 3 at Line 178: Redefined variable "redef_L4315".
+Error type 6 at Line 199: Assign a value to a right-hand-only expression.
+Error type 5 at Line 202: Type mismatched for assignment.
+Error type 6 at Line 204: Assign a value to a right-hand-only expression.
+Error type 5 at Line 207: Type mismatched for assignment.
+Error type 6 at Line 208: Assign a value to a right-hand-only expression.
+Error type 5 at Line 213: Type mismatched for assignment.
+Error type 5 at Line 215: Type mismatched for assignment.
+Error type 5 at Line 220: Type mismatched for assignment.
+Error type 17 at Line 228: Undefined structure "S11738".
+Error type 5 at Line 236: Type mismatched for assignment.
+Error type 5 at Line 238: Type mismatched for assignment.
+Error type 3 at Line 248: Redefined variable "redef_L4322".
+Error type 3 at Line 250: Redefined variable "redef_L4323".
+Error type 6 at Line 251: Assign a value to a right-hand-only expression.
+Error type 17 at Line 254: Undefined structure "S11746".
+Error type 5 at Line 255: Type mismatched for assignment.
+Error type 6 at Line 260: Assign a value to a right-hand-only expression.
+Error type 8 at Line 261: Return type mismatch.
+Error type 4 at Line 263: Redefined function "i_func_7402".
+Error type 17 at Line 264: Undefined structure "S11748".
+Error type 3 at Line 275: Redefined variable "redef_L4338".
+Error type 3 at Line 293: Redefined variable "redef_L4341".
+Error type 17 at Line 301: Undefined structure "S11766".
+Error type 8 at Line 303: Return type mismatch.
+Error type 17 at Line 313: Undefined structure "S11770".
+Error type 17 at Line 337: Undefined structure "S11777".
+Error type 3 at Line 339: Redefined variable "redef_L4359".
+Error type 3 at Line 344: Redefined variable "redef_L4361".
+Error type 8 at Line 448: Return type mismatch.
+Error type 4 at Line 450: Redefined function "i_func_7403".
+Error type 8 at Line 466: Return type mismatch.
+Error type 8 at Line 501: Return type mismatch.
+Error type 4 at Line 503: Redefined function "i_func_7404".
+Error type 8 at Line 560: Return type mismatch.
+Error type 4 at Line 574: Redefined function "i_func_7405".
+Error type 8 at Line 697: Return type mismatch.
+Error type 4 at Line 711: Redefined function "i_func_7406".
+Error type 4 at Line 794: Redefined function "i_func_7407".
+Error type 16 at Line 817: Duplicated name "dup168".
+Error type 16 at Line 821: Duplicated name "dup169".
+Error type 16 at Line 825: Duplicated name "dup170".
+Error type 16 at Line 829: Duplicated name "dup171".
+Error type 16 at Line 833: Duplicated name "dup172".
+Error type 16 at Line 837: Duplicated name "dup173".
+Error type 9 at Line 915: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 930: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 991: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 1039: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 1049: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 1068: Arguments mismatch in function "i_func_7408".
+Error type 9 at Line 1072: Arguments mismatch in function "i_func_7408".
+Error type 8 at Line 1076: Return type mismatch.
+Error type 9 at Line 1280: Arguments mismatch in function "i_func_7410".
+Error type 9 at Line 1654: Arguments mismatch in function "i_func_7408".
+Error type 8 at Line 1829: Return type mismatch.
+
+
+./tests/Dt/D-9.3.cmm
+Error type 15 at Line 28: Initialized field "S11793_m0_i".
+Error type 15 at Line 29: Initialized field "S11793_m1_a1_i".
+Error type 15 at Line 30: Redefined field "S11793_m0_i".
+Error type 15 at Line 31: Redefined field "S11793_m0_i".
+Error type 15 at Line 32: Initialized field "S11793_m4_a2_a1_a1_f".
+Error type 15 at Line 33: Redefined field "S11793_m4_a2_a1_a1_f".
+Error type 15 at Line 34: Initialized field "S11793_m6_i".
+Error type 15 at Line 35: Initialized field "S11793_m7_a1_a2_i".
+Error type 3 at Line 40: Redefined variable "redef_L4372".
+Error type 7 at Line 45: Operand type mismatch.
+Error type 6 at Line 48: Assign a value to a right-hand-only expression.
+Error type 14 at Line 49: Non-existent field "S11791_i12".
+Error type 11 at Line 51: Illegal use of operator "()".
+Error type 11 at Line 52: Illegal use of operator "()".
+Error type 17 at Line 55: Undefined structure "S11835".
+Error type 3 at Line 65: Redefined variable "redef_L4387".
+Error type 5 at Line 72: Type mismatched for assignment.
+Error type 5 at Line 79: Type mismatched for assignment.
+Error type 6 at Line 84: Assign a value to a right-hand-only expression.
+Error type 8 at Line 85: Return type mismatch.
+Error type 4 at Line 87: Redefined function "i_func_7413".
+Error type 17 at Line 88: Undefined structure "S11896".
+Error type 3 at Line 90: Redefined variable "redef_L4395".
+Error type 6 at Line 96: Assign a value to a right-hand-only expression.
+Error type 5 at Line 98: Type mismatched for assignment.
+Error type 8 at Line 99: Return type mismatch.
+Error type 6 at Line 135: Assign a value to a right-hand-only expression.
+Error type 6 at Line 136: Assign a value to a right-hand-only expression.
+Error type 4 at Line 138: Redefined function "i_func_7494".
+Error type 6 at Line 141: Assign a value to a right-hand-only expression.
+Error type 5 at Line 143: Type mismatched for assignment.
+Error type 5 at Line 144: Type mismatched for assignment.
+Error type 5 at Line 145: Type mismatched for assignment.
+Error type 7 at Line 148: Operand type mismatch.
+Error type 8 at Line 151: Return type mismatch.
+Error type 17 at Line 154: Undefined structure "S11906".
+Error type 3 at Line 156: Redefined variable "redef_L4405".
+Error type 7 at Line 179: Operand type mismatch.
+Error type 7 at Line 180: Operand type mismatch.
+Error type 5 at Line 183: Type mismatched for assignment.
+Error type 6 at Line 190: Assign a value to a right-hand-only expression.
+Error type 7 at Line 206: Operand type mismatch.
+Error type 6 at Line 207: Assign a value to a right-hand-only expression.
+Error type 7 at Line 208: Operand type mismatch.
+Error type 5 at Line 210: Type mismatched for assignment.
+Error type 5 at Line 215: Type mismatched for assignment.
+Error type 4 at Line 217: Redefined function "i_func_7495".
+Error type 17 at Line 218: Undefined structure "S11911".
+Error type 8 at Line 259: Return type mismatch.
+Error type 16 at Line 262: Duplicated name "dup174".
+Error type 3 at Line 268: Redefined variable "redef_L4412".
+Error type 9 at Line 294: Arguments mismatch in function "i_func_7496".
+Error type 9 at Line 302: Arguments mismatch in function "i_func_7496".
+Error type 9 at Line 313: Arguments mismatch in function "i_func_7496".
+Error type 3 at Line 316: Redefined variable "redef_L4420".
+Error type 3 at Line 318: Redefined variable "redef_L4421".
+Error type 17 at Line 319: Undefined structure "S11924".
+Error type 3 at Line 321: Redefined variable "redef_L4423".
+Error type 9 at Line 330: Arguments mismatch in function "i_func_7496".
+Error type 17 at Line 338: Undefined structure "S11926".
+Error type 17 at Line 341: Undefined structure "S11932".
+Error type 3 at Line 343: Redefined variable "redef_L4431".
+Error type 17 at Line 350: Undefined structure "S11936".
+Error type 9 at Line 352: Arguments mismatch in function "i_func_7496".
+Error type 8 at Line 358: Return type mismatch.
+Error type 9 at Line 362: Arguments mismatch in function "i_func_7496".
+Error type 8 at Line 369: Return type mismatch.
+Error type 9 at Line 421: Arguments mismatch in function "i_func_7496".
+Error type 17 at Line 425: Undefined structure "S11945".
+Error type 9 at Line 464: Arguments mismatch in function "i_func_7496".
+Error type 9 at Line 474: Arguments mismatch in function "i_func_7496".
+Error type 8 at Line 478: Return type mismatch.
+
+
+./tests/Dt/D-9.4.cmm
+Error type 15 at Line 58: Initialized field "S11951_m0_a1_a2_a1_f".
+Error type 15 at Line 59: Redefined field "S11951_m0_a1_a2_a1_f".
+Error type 15 at Line 60: Initialized field "S11951_m2_a1_S11948".
+Error type 15 at Line 61: Initialized field "S11951_m3_a2_a1_f".
+Error type 15 at Line 62: Initialized field "S11951_m4_a1_a2_a1_f".
+Error type 15 at Line 63: Redefined field "S11951_m4_a1_a2_a1_f".
+Error type 15 at Line 64: Initialized field "S11951_m6_i".
+Error type 15 at Line 65: Redefined field "S11951_m6_i".
+Error type 15 at Line 66: Initialized field "S11951_m8_i".
+Error type 15 at Line 67: Initialized field "S11951_m9_a1_a2_a1_f".
+Error type 1 at Line 91: Undefined variable "l5924".
+Error type 10 at Line 92: Illegal use of of "[]" operator.
+Error type 11 at Line 93: Illegal use of operator "()".
+Error type 1 at Line 94: Undefined variable "l5931".
+Error type 10 at Line 95: Illegal use of of "[]" operator.
+Error type 10 at Line 96: Illegal use of of "[]" operator.
+Error type 13 at Line 97: Illegal use of operator ".".
+Error type 11 at Line 99: Illegal use of operator "()".
+Error type 2 at Line 100: Undefined function "i_func_7520".
+Error type 13 at Line 102: Illegal use of operator ".".
+Error type 5 at Line 103: Type mismatched for assignment.
+Error type 6 at Line 106: Assign a value to a right-hand-only expression.
+Error type 10 at Line 112: Illegal use of of "[]" operator.
+Error type 5 at Line 113: Type mismatched for assignment.
+Error type 4 at Line 115: Redefined function "i_func_7498".
+Error type 3 at Line 117: Redefined variable "redef_L4448".
+Error type 5 at Line 136: Type mismatched for assignment.
+Error type 16 at Line 141: Duplicated name "dup175".
+Error type 16 at Line 145: Duplicated name "dup176".
+Error type 16 at Line 149: Duplicated name "dup177".
+Error type 16 at Line 153: Duplicated name "dup178".
+Error type 16 at Line 157: Duplicated name "dup179".
+Error type 17 at Line 162: Undefined structure "S12041".
+Error type 5 at Line 179: Type mismatched for assignment.
+Error type 9 at Line 181: Arguments mismatch in function "i_func_7579".
+Error type 9 at Line 182: Arguments mismatch in function "i_func_7579".
+Error type 6 at Line 189: Assign a value to a right-hand-only expression.
+Error type 3 at Line 195: Redefined variable "redef_L4459".
+Error type 7 at Line 216: Operand type mismatch.
+Error type 8 at Line 217: Return type mismatch.
+Error type 17 at Line 221: Undefined structure "S12048".
+Error type 3 at Line 223: Redefined variable "redef_L4461".
+Error type 17 at Line 224: Undefined structure "S12050".
+Error type 6 at Line 248: Assign a value to a right-hand-only expression.
+Error type 7 at Line 250: Operand type mismatch.
+Error type 7 at Line 251: Operand type mismatch.
+Error type 9 at Line 252: Arguments mismatch in function "i_func_7581".
+Error type 9 at Line 253: Arguments mismatch in function "i_func_7579".
+Error type 7 at Line 257: Operand type mismatch.
+Error type 5 at Line 260: Type mismatched for assignment.
+Error type 7 at Line 284: Operand type mismatch.
+Error type 6 at Line 291: Assign a value to a right-hand-only expression.
+Error type 6 at Line 292: Assign a value to a right-hand-only expression.
+Error type 9 at Line 303: Arguments mismatch in function "i_func_7580".
+Error type 6 at Line 314: Assign a value to a right-hand-only expression.
+Error type 7 at Line 323: Operand type mismatch.
+Error type 5 at Line 324: Type mismatched for assignment.
+Error type 5 at Line 326: Type mismatched for assignment.
+Error type 6 at Line 330: Assign a value to a right-hand-only expression.
+Error type 6 at Line 333: Assign a value to a right-hand-only expression.
+Error type 8 at Line 334: Return type mismatch.
+Error type 17 at Line 338: Undefined structure "S12065".
+Error type 17 at Line 339: Undefined structure "S12067".
+Error type 8 at Line 375: Return type mismatch.
+Error type 17 at Line 379: Undefined structure "S12068".
+Error type 3 at Line 381: Redefined variable "redef_L4482".
+Error type 8 at Line 449: Return type mismatch.
+Error type 8 at Line 450: Return type mismatch.
+Error type 17 at Line 459: Undefined structure "S12075".
+Error type 8 at Line 530: Return type mismatch.
+Error type 3 at Line 535: Redefined variable "redef_L4488".
+Error type 3 at Line 537: Redefined variable "redef_L4490".
+Error type 9 at Line 602: Arguments mismatch in function "i_func_7582".
+Error type 8 at Line 623: Return type mismatch.
+Error type 3 at Line 628: Redefined variable "redef_L4494".
+Error type 8 at Line 677: Return type mismatch.
+Error type 17 at Line 681: Undefined structure "S12085".
+Error type 17 at Line 682: Undefined structure "S12086".
+Error type 8 at Line 750: Return type mismatch.
+Error type 3 at Line 755: Redefined variable "redef_L4500".
+Error type 3 at Line 757: Redefined variable "redef_L4501".
+Error type 7 at Line 796: Operand type mismatch.
+Error type 7 at Line 806: Operand type mismatch.
+
+

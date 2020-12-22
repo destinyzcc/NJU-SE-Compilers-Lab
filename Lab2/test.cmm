@@ -1,0 +1,7 @@
+struct a{
+    int b;
+    int b;
+    int b;
+    int c;
+    int d,e,f;
+}a_;

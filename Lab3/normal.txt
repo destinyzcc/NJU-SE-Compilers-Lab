@@ -1,0 +1,143 @@
+./tests/Tests/A-1.cmm
+Error type 1 at Line 18: Undefined variable "___".
+
+
+./tests/Tests/A-10.cmm
+Error type 10 at Line 24: Illegal use of of "[]" operator.
+
+
+./tests/Tests/A-11.cmm
+Error type 11 at Line 26: Illegal use of operator "()".
+
+
+./tests/Tests/A-12.cmm
+Error type 12 at Line 38: Array index is not an integer.
+
+
+./tests/Tests/A-13.cmm
+Error type 13 at Line 11: Illegal use of operator ".".
+
+
+./tests/Tests/A-14.cmm
+Error type 14 at Line 30: Non-existent field "curr".
+
+
+./tests/Tests/A-15.cmm
+Error type 15 at Line 8: Initialized field "max".
+
+
+./tests/Tests/A-16.cmm
+Error type 16 at Line 13: Duplicated name "Hammer".
+
+
+./tests/Tests/A-17.cmm
+Error type 17 at Line 11: Undefined structure "Thor".
+
+
+./tests/Tests/A-18.cmm
+Error type 9 at Line 33: Arguments mismatch in function "ivec3_is_equal".
+
+
+./tests/Tests/A-19.cmm
+Error type 15 at Line 11: Redefined field "counter".
+
+
+./tests/Tests/A-2.cmm
+Error type 2 at Line 9: Undefined function "swap".
+
+
+./tests/Tests/A-20.cmm
+Error type 3 at Line 20: Redefined variable "Hammer".
+
+
+./tests/Tests/A-3.cmm
+Error type 3 at Line 5: Redefined variable "Vector".
+
+
+./tests/Tests/A-4.cmm
+Error type 4 at Line 17: Redefined function "vec_is_equal".
+
+
+./tests/Tests/A-5.cmm
+Error type 5 at Line 37: Type mismatched for assignment.
+
+
+./tests/Tests/A-6.cmm
+Error type 6 at Line 22: Assign a value to a right-hand-only expression.
+
+
+./tests/Tests/A-7.cmm
+Error type 7 at Line 22: Operand type mismatch.
+
+
+./tests/Tests/A-8.cmm
+Error type 8 at Line 9: Return type mismatch.
+
+
+./tests/Tests/A-9.cmm
+Error type 9 at Line 39: Arguments mismatch in function "ivec_is_equal".
+
+
+./tests/Tests/B-1.cmm
+Error type 14 at Line 15: Non-existent field "rw".
+Error type 11 at Line 25: Illegal use of operator "()".
+Error type 4 at Line 32: Redefined function "calArea".
+Error type 9 at Line 53: Arguments mismatch in function "makeCirc".
+
+
+./tests/Tests/B-2.cmm
+Error type 1 at Line 17: Undefined variable "ZERO".
+Error type 8 at Line 19: Return type mismatch.
+Error type 2 at Line 23: Undefined function "max".
+Error type 12 at Line 30: Array index is not an integer.
+Error type 6 at Line 50: Assign a value to a right-hand-only expression.
+Error type 9 at Line 83: Arguments mismatch in function "flaGet".
+Error type 10 at Line 84: Illegal use of of "[]" operator.
+
+
+./tests/Tests/C-1.cmm
+
+
+./tests/Tests/C-2.cmm
+
+
+./tests/Tests/D-1.cmm
+Error type B at Line 1: syntax error.
+Error type B at Line 10: syntax error.
+
+
+./tests/Tests/D-2.cmm
+Error type 3 at Line 4: Redefined variable "res".
+Error type 3 at Line 16: Redefined variable "a".
+Error type 3 at Line 18: Redefined variable "i".
+Error type 3 at Line 23: Redefined variable "t".
+
+
+./tests/Tests/D-3.cmm
+
+
+./tests/Tests/E2_1.cmm
+Error type B at Line 1: syntax error.
+Error type B at Line 3: syntax error.
+Error type B at Line 4: syntax error.
+
+
+./tests/Tests/E2_2.cmm
+Error type 3 at Line 14: Redefined variable "a".
+Error type 3 at Line 14: Redefined variable "b".
+Error type 3 at Line 22: Redefined variable "a0".
+Error type 3 at Line 22: Redefined variable "a1".
+Error type 1 at Line 38: Undefined variable "ci".
+Error type 1 at Line 39: Undefined variable "ci".
+Error type 1 at Line 40: Undefined variable "ci".
+Error type 3 at Line 47: Redefined variable "fla".
+Error type 3 at Line 55: Redefined variable "fla".
+Error type 3 at Line 69: Redefined variable "er".
+Error type 3 at Line 86: Redefined variable "fla".
+
+
+./tests/Tests/E2_3.cmm
+Error type 9 at Line 39: Arguments mismatch in function "vec_is_equal".
+Error type 5 at Line 40: Type mismatched for assignment.
+
+

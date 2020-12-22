@@ -1,0 +1,77 @@
+./tests/At/A-10.0.cmm
+Error type 5 at Line 86: Type mismatched for assignment.
+
+
+./tests/At/A-11.0.cmm
+Error type 6 at Line 150: Assign a value to a right-hand-only expression.
+
+
+./tests/At/A-12.0.cmm
+Error type 7 at Line 174: Operand type mismatch.
+
+
+./tests/At/A-13.0.cmm
+Error type 8 at Line 102: Return type mismatch.
+
+
+./tests/At/A-14.0.cmm
+Error type 9 at Line 196: Arguments mismatch in function "i_func_1207".
+
+
+./tests/At/A-15.0.cmm
+Error type 10 at Line 70: Illegal use of of "[]" operator.
+
+
+./tests/At/A-16.0.cmm
+Error type 11 at Line 110: Illegal use of operator "()".
+
+
+./tests/At/A-17.0.cmm
+Error type 12 at Line 195: Array index is not an integer.
+
+
+./tests/At/A-18.0.cmm
+Error type 13 at Line 70: Illegal use of operator ".".
+
+
+./tests/At/A-19.0.cmm
+Error type 14 at Line 145: Non-existent field "S1490_i3".
+
+
+./tests/At/A-20.0.cmm
+
+
+./tests/At/A-21.0.cmm
+Error type 15 at Line 46: Initialized field "S1608_m0_a1_a1_a1_S1605".
+
+
+./tests/At/A-22.0.cmm
+Error type 16 at Line 70: Duplicated name "dup0".
+
+
+./tests/At/A-23.0.cmm
+Error type 17 at Line 240: Undefined structure "S1740".
+
+
+./tests/At/A-24.0.cmm
+
+
+./tests/At/A-25.0.cmm
+
+
+./tests/At/A-6.0.cmm
+Error type 1 at Line 74: Undefined variable "l27".
+
+
+./tests/At/A-7.0.cmm
+Error type 2 at Line 164: Undefined function "i_func_112".
+
+
+./tests/At/A-8.0.cmm
+Error type 3 at Line 22: Redefined variable "redef_L7".
+
+
+./tests/At/A-9.0.cmm
+Error type 4 at Line 102: Redefined function "i_func_896".
+
+

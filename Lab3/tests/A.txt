@@ -1,0 +1,77 @@
+./tests/At/A-10.0.cmm
+Error Type 5 at Line 86: mismatched assignment
+
+
+./tests/At/A-11.0.cmm
+Error Type 6 at Line 150: assign to rvalue
+
+
+./tests/At/A-12.0.cmm
+Error Type 7 at Line 174: mismatched operands
+
+
+./tests/At/A-13.0.cmm
+Error Type 8 at Line 102: mismatched return
+
+
+./tests/At/A-14.0.cmm
+Error Type 9 at Line 196: invocation arguments mismatched
+
+
+./tests/At/A-15.0.cmm
+Error Type 10 at Line 70: subscripted value is not an array
+
+
+./tests/At/A-16.0.cmm
+Error Type 11 at Line 110: called object isn't function
+
+
+./tests/At/A-17.0.cmm
+Error Type 12 at Line 195: subscript is not integer
+
+
+./tests/At/A-18.0.cmm
+Error Type 13 at Line 70: request member from something not an struct
+
+
+./tests/At/A-19.0.cmm
+Error Type 14 at Line 145: request nonexistent member
+
+
+./tests/At/A-20.0.cmm
+
+
+./tests/At/A-21.0.cmm
+Error Type 15 at Line 46: try to init struct member when define it
+
+
+./tests/At/A-22.0.cmm
+Error Type 16 at Line 70: struct id duplicated with normal id :(
+
+
+./tests/At/A-23.0.cmm
+Error Type 17 at Line 240: use undefined struct
+
+
+./tests/At/A-24.0.cmm
+
+
+./tests/At/A-25.0.cmm
+
+
+./tests/At/A-6.0.cmm
+Error Type 1 at Line 74: undefined variable
+
+
+./tests/At/A-7.0.cmm
+Error Type 2 at Line 164: undefined function
+
+
+./tests/At/A-8.0.cmm
+Error Type 3 at Line 22: redefined variable
+
+
+./tests/At/A-9.0.cmm
+Error Type 4 at Line 102: redefined function
+
+

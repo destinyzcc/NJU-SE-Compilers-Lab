@@ -1,0 +1,1267 @@
+./tests/Bt/B-10-1.0.cmm
+Error type 5 at Line 229: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-2.0.cmm
+Error type 5 at Line 81: Type mismatched for assignment.
+Error type 5 at Line 173: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-3.0.cmm
+Error type 5 at Line 112: Type mismatched for assignment.
+Error type 5 at Line 120: Type mismatched for assignment.
+Error type 5 at Line 317: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-4.0.cmm
+Error type 5 at Line 119: Type mismatched for assignment.
+Error type 5 at Line 191: Type mismatched for assignment.
+Error type 5 at Line 258: Type mismatched for assignment.
+Error type 5 at Line 274: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-5.0.cmm
+Error type 5 at Line 211: Type mismatched for assignment.
+Error type 5 at Line 223: Type mismatched for assignment.
+Error type 5 at Line 243: Type mismatched for assignment.
+Error type 5 at Line 246: Type mismatched for assignment.
+Error type 5 at Line 423: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-6.0.cmm
+Error type 5 at Line 70: Type mismatched for assignment.
+Error type 5 at Line 88: Type mismatched for assignment.
+Error type 5 at Line 90: Type mismatched for assignment.
+Error type 5 at Line 100: Type mismatched for assignment.
+Error type 5 at Line 101: Type mismatched for assignment.
+Error type 5 at Line 155: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-7.0.cmm
+Error type 5 at Line 91: Type mismatched for assignment.
+Error type 5 at Line 123: Type mismatched for assignment.
+Error type 5 at Line 133: Type mismatched for assignment.
+Error type 5 at Line 205: Type mismatched for assignment.
+Error type 5 at Line 262: Type mismatched for assignment.
+Error type 5 at Line 269: Type mismatched for assignment.
+Error type 5 at Line 273: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-8.0.cmm
+Error type 5 at Line 107: Type mismatched for assignment.
+Error type 5 at Line 112: Type mismatched for assignment.
+Error type 5 at Line 113: Type mismatched for assignment.
+Error type 5 at Line 136: Type mismatched for assignment.
+Error type 5 at Line 196: Type mismatched for assignment.
+Error type 5 at Line 215: Type mismatched for assignment.
+Error type 5 at Line 225: Type mismatched for assignment.
+Error type 5 at Line 227: Type mismatched for assignment.
+
+
+./tests/Bt/B-10-9.0.cmm
+Error type 5 at Line 49: Type mismatched for assignment.
+Error type 5 at Line 52: Type mismatched for assignment.
+Error type 5 at Line 57: Type mismatched for assignment.
+Error type 5 at Line 73: Type mismatched for assignment.
+Error type 5 at Line 87: Type mismatched for assignment.
+Error type 5 at Line 88: Type mismatched for assignment.
+Error type 5 at Line 95: Type mismatched for assignment.
+Error type 5 at Line 141: Type mismatched for assignment.
+Error type 5 at Line 142: Type mismatched for assignment.
+
+
+./tests/Bt/B-11-1.0.cmm
+Error type 6 at Line 39: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-2.0.cmm
+Error type 6 at Line 75: Assign a value to a right-hand-only expression.
+Error type 6 at Line 197: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-3.0.cmm
+Error type 6 at Line 213: Assign a value to a right-hand-only expression.
+Error type 6 at Line 275: Assign a value to a right-hand-only expression.
+Error type 6 at Line 281: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-4.0.cmm
+Error type 6 at Line 126: Assign a value to a right-hand-only expression.
+Error type 6 at Line 180: Assign a value to a right-hand-only expression.
+Error type 6 at Line 231: Assign a value to a right-hand-only expression.
+Error type 6 at Line 241: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-5.0.cmm
+Error type 6 at Line 48: Assign a value to a right-hand-only expression.
+Error type 6 at Line 52: Assign a value to a right-hand-only expression.
+Error type 6 at Line 172: Assign a value to a right-hand-only expression.
+Error type 6 at Line 250: Assign a value to a right-hand-only expression.
+Error type 6 at Line 286: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-6.0.cmm
+Error type 6 at Line 129: Assign a value to a right-hand-only expression.
+Error type 6 at Line 352: Assign a value to a right-hand-only expression.
+Error type 6 at Line 356: Assign a value to a right-hand-only expression.
+Error type 6 at Line 369: Assign a value to a right-hand-only expression.
+Error type 6 at Line 553: Assign a value to a right-hand-only expression.
+Error type 6 at Line 660: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-7.0.cmm
+Error type 6 at Line 132: Assign a value to a right-hand-only expression.
+Error type 6 at Line 142: Assign a value to a right-hand-only expression.
+Error type 6 at Line 152: Assign a value to a right-hand-only expression.
+Error type 6 at Line 157: Assign a value to a right-hand-only expression.
+Error type 6 at Line 167: Assign a value to a right-hand-only expression.
+Error type 6 at Line 302: Assign a value to a right-hand-only expression.
+Error type 6 at Line 306: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-8.0.cmm
+Error type 6 at Line 92: Assign a value to a right-hand-only expression.
+Error type 6 at Line 93: Assign a value to a right-hand-only expression.
+Error type 6 at Line 110: Assign a value to a right-hand-only expression.
+Error type 6 at Line 120: Assign a value to a right-hand-only expression.
+Error type 6 at Line 122: Assign a value to a right-hand-only expression.
+Error type 6 at Line 137: Assign a value to a right-hand-only expression.
+Error type 6 at Line 139: Assign a value to a right-hand-only expression.
+Error type 6 at Line 184: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-11-9.0.cmm
+Error type 6 at Line 205: Assign a value to a right-hand-only expression.
+Error type 6 at Line 304: Assign a value to a right-hand-only expression.
+Error type 6 at Line 306: Assign a value to a right-hand-only expression.
+Error type 6 at Line 315: Assign a value to a right-hand-only expression.
+Error type 6 at Line 316: Assign a value to a right-hand-only expression.
+Error type 6 at Line 319: Assign a value to a right-hand-only expression.
+Error type 6 at Line 487: Assign a value to a right-hand-only expression.
+Error type 6 at Line 489: Assign a value to a right-hand-only expression.
+Error type 6 at Line 592: Assign a value to a right-hand-only expression.
+
+
+./tests/Bt/B-12-1.0.cmm
+Error type 7 at Line 258: Operand type mismatch.
+
+
+./tests/Bt/B-12-2.0.cmm
+Error type 7 at Line 280: Operand type mismatch.
+Error type 7 at Line 313: Operand type mismatch.
+
+
+./tests/Bt/B-12-3.0.cmm
+Error type 7 at Line 45: Operand type mismatch.
+Error type 7 at Line 59: Operand type mismatch.
+Error type 7 at Line 93: Operand type mismatch.
+
+
+./tests/Bt/B-12-4.0.cmm
+Error type 7 at Line 134: Operand type mismatch.
+Error type 7 at Line 157: Operand type mismatch.
+Error type 7 at Line 349: Operand type mismatch.
+Error type 7 at Line 398: Operand type mismatch.
+
+
+./tests/Bt/B-12-5.0.cmm
+Error type 7 at Line 122: Operand type mismatch.
+Error type 7 at Line 126: Operand type mismatch.
+Error type 7 at Line 254: Operand type mismatch.
+Error type 7 at Line 257: Operand type mismatch.
+Error type 7 at Line 309: Operand type mismatch.
+
+
+./tests/Bt/B-12-6.0.cmm
+Error type 7 at Line 58: Operand type mismatch.
+Error type 7 at Line 70: Operand type mismatch.
+Error type 7 at Line 119: Operand type mismatch.
+Error type 7 at Line 344: Operand type mismatch.
+Error type 7 at Line 515: Operand type mismatch.
+Error type 7 at Line 619: Operand type mismatch.
+
+
+./tests/Bt/B-12-7.0.cmm
+Error type 7 at Line 96: Operand type mismatch.
+Error type 7 at Line 169: Operand type mismatch.
+Error type 7 at Line 215: Operand type mismatch.
+Error type 7 at Line 269: Operand type mismatch.
+Error type 7 at Line 324: Operand type mismatch.
+Error type 7 at Line 519: Operand type mismatch.
+Error type 7 at Line 638: Operand type mismatch.
+
+
+./tests/Bt/B-12-8.0.cmm
+Error type 7 at Line 60: Operand type mismatch.
+Error type 7 at Line 64: Operand type mismatch.
+Error type 7 at Line 66: Operand type mismatch.
+Error type 7 at Line 135: Operand type mismatch.
+Error type 7 at Line 168: Operand type mismatch.
+Error type 7 at Line 171: Operand type mismatch.
+Error type 7 at Line 172: Operand type mismatch.
+Error type 7 at Line 174: Operand type mismatch.
+
+
+./tests/Bt/B-12-9.0.cmm
+Error type 7 at Line 226: Operand type mismatch.
+Error type 7 at Line 239: Operand type mismatch.
+Error type 7 at Line 559: Operand type mismatch.
+Error type 7 at Line 569: Operand type mismatch.
+Error type 7 at Line 597: Operand type mismatch.
+Error type 7 at Line 602: Operand type mismatch.
+Error type 7 at Line 640: Operand type mismatch.
+Error type 7 at Line 646: Operand type mismatch.
+Error type 7 at Line 3169: Operand type mismatch.
+
+
+./tests/Bt/B-13-1.0.cmm
+Error type 8 at Line 179: Return type mismatch.
+
+
+./tests/Bt/B-13-2.0.cmm
+Error type 8 at Line 88: Return type mismatch.
+Error type 8 at Line 136: Return type mismatch.
+
+
+./tests/Bt/B-13-3.0.cmm
+Error type 8 at Line 91: Return type mismatch.
+Error type 8 at Line 138: Return type mismatch.
+Error type 8 at Line 214: Return type mismatch.
+
+
+./tests/Bt/B-13-4.0.cmm
+Error type 8 at Line 128: Return type mismatch.
+Error type 8 at Line 252: Return type mismatch.
+Error type 8 at Line 360: Return type mismatch.
+Error type 8 at Line 396: Return type mismatch.
+
+
+./tests/Bt/B-13-5.0.cmm
+Error type 8 at Line 150: Return type mismatch.
+Error type 8 at Line 288: Return type mismatch.
+Error type 8 at Line 290: Return type mismatch.
+Error type 8 at Line 333: Return type mismatch.
+Error type 8 at Line 476: Return type mismatch.
+
+
+./tests/Bt/B-13-6.0.cmm
+Error type 8 at Line 34: Return type mismatch.
+Error type 8 at Line 74: Return type mismatch.
+Error type 8 at Line 159: Return type mismatch.
+Error type 8 at Line 186: Return type mismatch.
+Error type 8 at Line 224: Return type mismatch.
+Error type 8 at Line 227: Return type mismatch.
+
+
+./tests/Bt/B-13-7.0.cmm
+Error type 8 at Line 121: Return type mismatch.
+Error type 8 at Line 199: Return type mismatch.
+Error type 8 at Line 221: Return type mismatch.
+Error type 8 at Line 273: Return type mismatch.
+Error type 8 at Line 355: Return type mismatch.
+Error type 8 at Line 407: Return type mismatch.
+Error type 8 at Line 457: Return type mismatch.
+
+
+./tests/Bt/B-13-8.0.cmm
+Error type 8 at Line 95: Return type mismatch.
+Error type 8 at Line 129: Return type mismatch.
+Error type 8 at Line 166: Return type mismatch.
+Error type 8 at Line 178: Return type mismatch.
+Error type 8 at Line 243: Return type mismatch.
+Error type 8 at Line 328: Return type mismatch.
+Error type 8 at Line 385: Return type mismatch.
+Error type 8 at Line 471: Return type mismatch.
+
+
+./tests/Bt/B-13-9.0.cmm
+Error type 8 at Line 110: Return type mismatch.
+Error type 8 at Line 175: Return type mismatch.
+Error type 8 at Line 358: Return type mismatch.
+Error type 8 at Line 403: Return type mismatch.
+Error type 8 at Line 496: Return type mismatch.
+Error type 8 at Line 626: Return type mismatch.
+Error type 8 at Line 721: Return type mismatch.
+Error type 8 at Line 791: Return type mismatch.
+Error type 8 at Line 906: Return type mismatch.
+
+
+./tests/Bt/B-14-1.0.cmm
+
+
+./tests/Bt/B-14-2.0.cmm
+Error type 9 at Line 214: Arguments mismatch in function "i_func_1217".
+Error type 9 at Line 358: Arguments mismatch in function "i_func_1217".
+
+
+./tests/Bt/B-14-3.0.cmm
+Error type 9 at Line 52: Arguments mismatch in function "i_func_1224".
+Error type 9 at Line 106: Arguments mismatch in function "i_func_1226".
+Error type 9 at Line 250: Arguments mismatch in function "i_func_1229".
+
+
+./tests/Bt/B-14-4.0.cmm
+Error type 9 at Line 66: Arguments mismatch in function "i_func_1234".
+Error type 9 at Line 133: Arguments mismatch in function "i_func_1234".
+Error type 9 at Line 151: Arguments mismatch in function "i_func_1234".
+
+
+./tests/Bt/B-14-5.0.cmm
+Error type 9 at Line 1075: Arguments mismatch in function "i_func_1237".
+Error type 9 at Line 1260: Arguments mismatch in function "i_func_1239".
+Error type 9 at Line 1997: Arguments mismatch in function "i_func_1239".
+Error type 9 at Line 2012: Arguments mismatch in function "i_func_1240".
+
+
+./tests/Bt/B-14-6.0.cmm
+Error type 9 at Line 161: Arguments mismatch in function "i_func_1245".
+Error type 9 at Line 166: Arguments mismatch in function "i_func_1244".
+Error type 9 at Line 168: Arguments mismatch in function "i_func_1245".
+Error type 9 at Line 213: Arguments mismatch in function "i_func_1245".
+Error type 9 at Line 358: Arguments mismatch in function "i_func_1244".
+Error type 9 at Line 442: Arguments mismatch in function "i_func_1247".
+
+
+./tests/Bt/B-14-7.0.cmm
+Error type 9 at Line 110: Arguments mismatch in function "i_func_1249".
+Error type 9 at Line 113: Arguments mismatch in function "i_func_1249".
+Error type 9 at Line 208: Arguments mismatch in function "i_func_1251".
+Error type 9 at Line 295: Arguments mismatch in function "i_func_1251".
+Error type 9 at Line 311: Arguments mismatch in function "i_func_1252".
+Error type 9 at Line 312: Arguments mismatch in function "i_func_1249".
+Error type 9 at Line 434: Arguments mismatch in function "i_func_1249".
+
+
+./tests/Bt/B-14-8.0.cmm
+Error type 9 at Line 120: Arguments mismatch in function "i_func_1254".
+Error type 9 at Line 141: Arguments mismatch in function "i_func_1254".
+Error type 9 at Line 145: Arguments mismatch in function "i_func_1254".
+Error type 9 at Line 363: Arguments mismatch in function "i_func_1255".
+Error type 9 at Line 384: Arguments mismatch in function "i_func_1254".
+Error type 9 at Line 506: Arguments mismatch in function "i_func_1255".
+
+
+./tests/Bt/B-14-9.0.cmm
+Error type 9 at Line 49: Arguments mismatch in function "i_func_1261".
+Error type 9 at Line 52: Arguments mismatch in function "i_func_1261".
+Error type 9 at Line 87: Arguments mismatch in function "i_func_1262".
+Error type 9 at Line 111: Arguments mismatch in function "i_func_1263".
+Error type 9 at Line 118: Arguments mismatch in function "i_func_1262".
+Error type 9 at Line 126: Arguments mismatch in function "i_func_1261".
+Error type 9 at Line 127: Arguments mismatch in function "i_func_1263".
+Error type 9 at Line 128: Arguments mismatch in function "i_func_1261".
+Error type 9 at Line 156: Arguments mismatch in function "top_caller".
+
+
+./tests/Bt/B-15-1.0.cmm
+Error type 10 at Line 113: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-2.0.cmm
+Error type 10 at Line 119: Illegal use of of "[]" operator.
+Error type 10 at Line 138: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-3.0.cmm
+Error type 10 at Line 71: Illegal use of of "[]" operator.
+Error type 10 at Line 84: Illegal use of of "[]" operator.
+Error type 10 at Line 151: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-4.0.cmm
+Error type 10 at Line 51: Illegal use of of "[]" operator.
+Error type 10 at Line 69: Illegal use of of "[]" operator.
+Error type 10 at Line 107: Illegal use of of "[]" operator.
+Error type 10 at Line 153: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-5.0.cmm
+Error type 10 at Line 99: Illegal use of of "[]" operator.
+Error type 10 at Line 134: Illegal use of of "[]" operator.
+Error type 10 at Line 165: Illegal use of of "[]" operator.
+Error type 10 at Line 170: Illegal use of of "[]" operator.
+Error type 10 at Line 189: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-6.0.cmm
+Error type 10 at Line 67: Illegal use of of "[]" operator.
+Error type 10 at Line 98: Illegal use of of "[]" operator.
+Error type 10 at Line 106: Illegal use of of "[]" operator.
+Error type 10 at Line 108: Illegal use of of "[]" operator.
+Error type 10 at Line 114: Illegal use of of "[]" operator.
+Error type 10 at Line 138: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-7.0.cmm
+Error type 10 at Line 120: Illegal use of of "[]" operator.
+Error type 10 at Line 123: Illegal use of of "[]" operator.
+Error type 10 at Line 139: Illegal use of of "[]" operator.
+Error type 10 at Line 140: Illegal use of of "[]" operator.
+Error type 10 at Line 141: Illegal use of of "[]" operator.
+Error type 10 at Line 159: Illegal use of of "[]" operator.
+Error type 10 at Line 265: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-8.0.cmm
+Error type 10 at Line 59: Illegal use of of "[]" operator.
+Error type 10 at Line 64: Illegal use of of "[]" operator.
+Error type 10 at Line 73: Illegal use of of "[]" operator.
+Error type 10 at Line 103: Illegal use of of "[]" operator.
+Error type 10 at Line 104: Illegal use of of "[]" operator.
+Error type 10 at Line 113: Illegal use of of "[]" operator.
+Error type 10 at Line 116: Illegal use of of "[]" operator.
+Error type 10 at Line 120: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-15-9.0.cmm
+Error type 10 at Line 50: Illegal use of of "[]" operator.
+Error type 10 at Line 54: Illegal use of of "[]" operator.
+Error type 10 at Line 57: Illegal use of of "[]" operator.
+Error type 10 at Line 125: Illegal use of of "[]" operator.
+Error type 10 at Line 128: Illegal use of of "[]" operator.
+Error type 10 at Line 130: Illegal use of of "[]" operator.
+Error type 10 at Line 131: Illegal use of of "[]" operator.
+Error type 10 at Line 136: Illegal use of of "[]" operator.
+Error type 10 at Line 142: Illegal use of of "[]" operator.
+
+
+./tests/Bt/B-16-1.0.cmm
+Error type 11 at Line 54: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-2.0.cmm
+Error type 11 at Line 98: Illegal use of operator "()".
+Error type 11 at Line 124: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-3.0.cmm
+Error type 11 at Line 75: Illegal use of operator "()".
+Error type 11 at Line 84: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-4.0.cmm
+Error type 11 at Line 152: Illegal use of operator "()".
+Error type 11 at Line 157: Illegal use of operator "()".
+Error type 11 at Line 174: Illegal use of operator "()".
+Error type 11 at Line 186: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-5.0.cmm
+Error type 11 at Line 76: Illegal use of operator "()".
+Error type 11 at Line 124: Illegal use of operator "()".
+Error type 11 at Line 143: Illegal use of operator "()".
+Error type 11 at Line 151: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-6.0.cmm
+Error type 11 at Line 120: Illegal use of operator "()".
+Error type 11 at Line 130: Illegal use of operator "()".
+Error type 11 at Line 150: Illegal use of operator "()".
+Error type 11 at Line 153: Illegal use of operator "()".
+Error type 11 at Line 155: Illegal use of operator "()".
+Error type 11 at Line 174: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-7.0.cmm
+Error type 11 at Line 28: Illegal use of operator "()".
+Error type 11 at Line 40: Illegal use of operator "()".
+Error type 11 at Line 63: Illegal use of operator "()".
+Error type 11 at Line 66: Illegal use of operator "()".
+Error type 11 at Line 77: Illegal use of operator "()".
+Error type 11 at Line 84: Illegal use of operator "()".
+Error type 11 at Line 88: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-8.0.cmm
+Error type 11 at Line 20: Illegal use of operator "()".
+Error type 11 at Line 33: Illegal use of operator "()".
+Error type 11 at Line 41: Illegal use of operator "()".
+Error type 11 at Line 59: Illegal use of operator "()".
+Error type 11 at Line 62: Illegal use of operator "()".
+Error type 11 at Line 65: Illegal use of operator "()".
+Error type 11 at Line 70: Illegal use of operator "()".
+Error type 11 at Line 81: Illegal use of operator "()".
+
+
+./tests/Bt/B-16-9.0.cmm
+Error type 11 at Line 72: Illegal use of operator "()".
+Error type 11 at Line 78: Illegal use of operator "()".
+Error type 11 at Line 101: Illegal use of operator "()".
+Error type 11 at Line 103: Illegal use of operator "()".
+Error type 11 at Line 114: Illegal use of operator "()".
+Error type 11 at Line 137: Illegal use of operator "()".
+Error type 11 at Line 138: Illegal use of operator "()".
+Error type 11 at Line 149: Illegal use of operator "()".
+Error type 11 at Line 190: Illegal use of operator "()".
+
+
+./tests/Bt/B-17-1.0.cmm
+Error type 12 at Line 467: Array index is not an integer.
+
+
+./tests/Bt/B-17-2.0.cmm
+Error type 12 at Line 233: Array index is not an integer.
+Error type 12 at Line 285: Array index is not an integer.
+
+
+./tests/Bt/B-17-3.0.cmm
+Error type 12 at Line 133: Array index is not an integer.
+Error type 12 at Line 203: Array index is not an integer.
+Error type 12 at Line 418: Array index is not an integer.
+
+
+./tests/Bt/B-17-4.0.cmm
+Error type 12 at Line 58: Array index is not an integer.
+Error type 12 at Line 59: Array index is not an integer.
+Error type 12 at Line 166: Array index is not an integer.
+Error type 12 at Line 168: Array index is not an integer.
+
+
+./tests/Bt/B-17-5.0.cmm
+Error type 12 at Line 39: Array index is not an integer.
+Error type 12 at Line 52: Array index is not an integer.
+Error type 12 at Line 140: Array index is not an integer.
+Error type 12 at Line 239: Array index is not an integer.
+Error type 12 at Line 241: Array index is not an integer.
+
+
+./tests/Bt/B-17-6.0.cmm
+Error type 12 at Line 75: Array index is not an integer.
+Error type 12 at Line 79: Array index is not an integer.
+Error type 12 at Line 217: Array index is not an integer.
+Error type 12 at Line 240: Array index is not an integer.
+Error type 12 at Line 298: Array index is not an integer.
+Error type 12 at Line 326: Array index is not an integer.
+
+
+./tests/Bt/B-17-7.0.cmm
+Error type 12 at Line 42: Array index is not an integer.
+Error type 12 at Line 118: Array index is not an integer.
+Error type 12 at Line 124: Array index is not an integer.
+Error type 12 at Line 133: Array index is not an integer.
+Error type 12 at Line 141: Array index is not an integer.
+Error type 12 at Line 163: Array index is not an integer.
+Error type 12 at Line 164: Array index is not an integer.
+
+
+./tests/Bt/B-17-8.0.cmm
+Error type 12 at Line 92: Array index is not an integer.
+Error type 12 at Line 102: Array index is not an integer.
+Error type 12 at Line 132: Array index is not an integer.
+Error type 12 at Line 133: Array index is not an integer.
+Error type 12 at Line 134: Array index is not an integer.
+Error type 12 at Line 140: Array index is not an integer.
+Error type 12 at Line 145: Array index is not an integer.
+Error type 12 at Line 237: Array index is not an integer.
+
+
+./tests/Bt/B-17-9.0.cmm
+Error type 12 at Line 77: Array index is not an integer.
+Error type 12 at Line 104: Array index is not an integer.
+Error type 12 at Line 122: Array index is not an integer.
+Error type 12 at Line 140: Array index is not an integer.
+Error type 12 at Line 159: Array index is not an integer.
+Error type 12 at Line 168: Array index is not an integer.
+Error type 12 at Line 189: Array index is not an integer.
+Error type 12 at Line 210: Array index is not an integer.
+Error type 12 at Line 223: Array index is not an integer.
+
+
+./tests/Bt/B-18-1.0.cmm
+Error type 13 at Line 118: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-2.0.cmm
+Error type 13 at Line 45: Illegal use of operator ".".
+Error type 13 at Line 75: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-3.0.cmm
+Error type 13 at Line 103: Illegal use of operator ".".
+Error type 13 at Line 135: Illegal use of operator ".".
+Error type 13 at Line 196: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-4.0.cmm
+Error type 13 at Line 23: Illegal use of operator ".".
+Error type 13 at Line 34: Illegal use of operator ".".
+Error type 13 at Line 103: Illegal use of operator ".".
+Error type 13 at Line 140: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-5.0.cmm
+Error type 13 at Line 48: Illegal use of operator ".".
+Error type 13 at Line 51: Illegal use of operator ".".
+Error type 13 at Line 60: Illegal use of operator ".".
+Error type 13 at Line 82: Illegal use of operator ".".
+Error type 13 at Line 109: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-6.0.cmm
+Error type 13 at Line 95: Illegal use of operator ".".
+Error type 13 at Line 122: Illegal use of operator ".".
+Error type 13 at Line 129: Illegal use of operator ".".
+Error type 13 at Line 131: Illegal use of operator ".".
+Error type 13 at Line 132: Illegal use of operator ".".
+Error type 13 at Line 158: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-7.0.cmm
+Error type 13 at Line 48: Illegal use of operator ".".
+Error type 13 at Line 52: Illegal use of operator ".".
+Error type 13 at Line 54: Illegal use of operator ".".
+Error type 13 at Line 59: Illegal use of operator ".".
+Error type 13 at Line 68: Illegal use of operator ".".
+Error type 13 at Line 69: Illegal use of operator ".".
+Error type 13 at Line 76: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-8.0.cmm
+Error type 13 at Line 113: Illegal use of operator ".".
+Error type 13 at Line 116: Illegal use of operator ".".
+Error type 13 at Line 130: Illegal use of operator ".".
+Error type 13 at Line 132: Illegal use of operator ".".
+Error type 13 at Line 158: Illegal use of operator ".".
+Error type 13 at Line 193: Illegal use of operator ".".
+Error type 13 at Line 202: Illegal use of operator ".".
+Error type 13 at Line 213: Illegal use of operator ".".
+
+
+./tests/Bt/B-18-9.0.cmm
+Error type 13 at Line 18: Illegal use of operator ".".
+Error type 13 at Line 53: Illegal use of operator ".".
+Error type 13 at Line 54: Illegal use of operator ".".
+Error type 13 at Line 57: Illegal use of operator ".".
+Error type 13 at Line 65: Illegal use of operator ".".
+Error type 13 at Line 83: Illegal use of operator ".".
+Error type 13 at Line 93: Illegal use of operator ".".
+
+
+./tests/Bt/B-19-1.0.cmm
+Error type 14 at Line 134: Non-existent field "S1496_i68".
+
+
+./tests/Bt/B-19-2.0.cmm
+Error type 14 at Line 87: Non-existent field "S1500_i1".
+Error type 14 at Line 179: Non-existent field "S1502_i21".
+
+
+./tests/Bt/B-19-3.0.cmm
+Error type 14 at Line 101: Non-existent field "S1508_i25".
+Error type 14 at Line 107: Non-existent field "S1508_i34".
+Error type 14 at Line 146: Non-existent field "S1508_i56".
+
+
+./tests/Bt/B-19-4.0.cmm
+Error type 14 at Line 61: Non-existent field "S1515_i29".
+Error type 14 at Line 111: Non-existent field "S1516_i31".
+Error type 14 at Line 119: Non-existent field "S1516_i13".
+Error type 14 at Line 121: Non-existent field "S1516_i14".
+
+
+./tests/Bt/B-19-5.0.cmm
+Error type 14 at Line 41: Non-existent field "S1518_i6".
+Error type 14 at Line 104: Non-existent field "S1518_i24".
+Error type 14 at Line 140: Non-existent field "S1518_i40".
+Error type 14 at Line 186: Non-existent field "S1518_i67".
+Error type 14 at Line 193: Non-existent field "S1518_i77".
+
+
+./tests/Bt/B-19-6.0.cmm
+Error type 14 at Line 25: Non-existent field "S1519_i6".
+Error type 14 at Line 42: Non-existent field "S1519_i19".
+Error type 14 at Line 50: Non-existent field "S1519_i30".
+Error type 14 at Line 69: Non-existent field "S1519_i37".
+Error type 14 at Line 73: Non-existent field "S1519_i42".
+Error type 14 at Line 100: Non-existent field "S1519_i65".
+
+
+./tests/Bt/B-19-7.0.cmm
+Error type 14 at Line 18: Non-existent field "S1520_i8".
+Error type 14 at Line 29: Non-existent field "S1520_i23".
+Error type 14 at Line 39: Non-existent field "S1520_i37".
+Error type 14 at Line 63: Non-existent field "S1520_i54".
+Error type 14 at Line 64: Non-existent field "S1520_i57".
+Error type 14 at Line 70: Non-existent field "S1520_i61".
+Error type 14 at Line 100: Non-existent field "S1520_i79".
+
+
+./tests/Bt/B-19-8.0.cmm
+Error type 14 at Line 266: Non-existent field "S1525_i2".
+Error type 14 at Line 283: Non-existent field "S1525_i25".
+Error type 14 at Line 285: Non-existent field "S1525_i27".
+Error type 14 at Line 306: Non-existent field "S1525_i47".
+Error type 14 at Line 322: Non-existent field "S1525_i10".
+Error type 14 at Line 323: Non-existent field "S1525_i11".
+Error type 14 at Line 330: Non-existent field "S1525_i63".
+Error type 14 at Line 337: Non-existent field "S1525_i67".
+
+
+./tests/Bt/B-19-9.0.cmm
+Error type 14 at Line 70: Non-existent field "S1531_i7".
+Error type 14 at Line 73: Non-existent field "S1531_i12".
+Error type 14 at Line 111: Non-existent field "S1529_i9".
+Error type 14 at Line 115: Non-existent field "S1529_i13".
+Error type 14 at Line 119: Non-existent field "S1529_i19".
+Error type 14 at Line 122: Non-existent field "S1529_i24".
+Error type 14 at Line 130: Non-existent field "S1529_i33".
+Error type 14 at Line 133: Non-existent field "S1532_i1".
+Error type 14 at Line 143: Non-existent field "S1529_i40".
+
+
+./tests/Bt/B-20-1.0.cmm
+Error type 15 at Line 82: Redefined field "S1543_m0_i".
+
+
+./tests/Bt/B-20-2.0.cmm
+Error type 15 at Line 60: Redefined field "S1551_m0_a1_a1_i".
+Error type 15 at Line 61: Redefined field "S1551_m0_a1_a1_i".
+
+
+./tests/Bt/B-20-3.0.cmm
+Error type 15 at Line 36: Redefined field "S1556_m0_i".
+Error type 15 at Line 37: Redefined field "S1556_m0_i".
+
+
+./tests/Bt/B-20-4.0.cmm
+Error type 15 at Line 56: Redefined field "S1562_m0_a1_S1561".
+Error type 15 at Line 57: Redefined field "S1562_m0_a1_S1561".
+
+
+./tests/Bt/B-20-5.0.cmm
+Error type 15 at Line 69: Redefined field "S1571_m1_a2_a1_f".
+
+
+./tests/Bt/B-20-6.0.cmm
+
+
+./tests/Bt/B-20-7.0.cmm
+Error type 15 at Line 81: Redefined field "S1586_m1_a1_S1582".
+Error type 15 at Line 83: Redefined field "S1586_m3_a2_f".
+Error type 15 at Line 85: Redefined field "S1586_m5_a1_a1_S1578".
+Error type 15 at Line 86: Redefined field "S1586_m3_a2_f".
+Error type 15 at Line 87: Redefined field "S1586_m1_a1_S1582".
+
+
+./tests/Bt/B-20-8.0.cmm
+Error type 15 at Line 49: Redefined field "S1592_m0_a2_a1_a1_S1587".
+Error type 15 at Line 50: Redefined field "S1592_m0_a2_a1_a1_S1587".
+Error type 15 at Line 51: Redefined field "S1592_m0_a2_a1_a1_S1587".
+Error type 15 at Line 53: Redefined field "S1592_m4_i".
+Error type 15 at Line 54: Redefined field "S1592_m4_i".
+
+
+./tests/Bt/B-20-9.0.cmm
+Error type 15 at Line 83: Redefined field "S1603_m0_i".
+Error type 15 at Line 84: Redefined field "S1603_m1_a1_f".
+Error type 15 at Line 85: Redefined field "S1603_m0_i".
+
+
+./tests/Bt/B-21-1.0.cmm
+Error type 15 at Line 27: Initialized field "S1612_m0_a2_f".
+
+
+./tests/Bt/B-21-2.0.cmm
+Error type 15 at Line 17: Initialized field "S1614_m8_a1_a1_a2_i".
+Error type 15 at Line 18: Initialized field "S1614_m9_i".
+
+
+./tests/Bt/B-21-3.0.cmm
+Error type 15 at Line 53: Initialized field "S1621_m0_i".
+Error type 15 at Line 54: Initialized field "S1621_m1_a1_i".
+Error type 15 at Line 56: Initialized field "S1621_m3_i".
+
+
+./tests/Bt/B-21-4.0.cmm
+Error type 15 at Line 33: Initialized field "S1627_m0_i".
+Error type 15 at Line 34: Initialized field "S1627_m1_i".
+Error type 15 at Line 36: Initialized field "S1627_m3_a1_a1_i".
+Error type 15 at Line 37: Initialized field "S1627_m4_i".
+
+
+./tests/Bt/B-21-5.0.cmm
+Error type 15 at Line 37: Initialized field "S1631_m0_a1_a1_a1_f".
+Error type 15 at Line 39: Initialized field "S1631_m2_a1_a2_f".
+Error type 15 at Line 40: Initialized field "S1631_m3_a1_a1_a1_a2_f".
+Error type 15 at Line 42: Initialized field "S1631_m5_i".
+Error type 15 at Line 46: Initialized field "S1631_m9_a1_a1_i".
+
+
+./tests/Bt/B-21-6.0.cmm
+Error type 15 at Line 75: Initialized field "S1640_m1_a1_a1_a1_i".
+Error type 15 at Line 78: Initialized field "S1640_m4_i".
+Error type 15 at Line 79: Initialized field "S1640_m5_a1_S1637".
+Error type 15 at Line 80: Initialized field "S1640_m6_a1_S1637".
+Error type 15 at Line 81: Initialized field "S1640_m7_a2_S1634".
+Error type 15 at Line 82: Initialized field "S1640_m8_a1_a1_S1632".
+
+
+./tests/Bt/B-21-7.0.cmm
+Error type 15 at Line 119: Initialized field "S1651_m0_i".
+Error type 15 at Line 120: Initialized field "S1651_m1_i".
+Error type 15 at Line 121: Initialized field "S1651_m2_i".
+Error type 15 at Line 122: Initialized field "S1651_m3_i".
+
+
+./tests/Bt/B-21-8.0.cmm
+Error type 15 at Line 78: Initialized field "S1660_m0_i".
+
+
+./tests/Bt/B-21-9.0.cmm
+Error type 15 at Line 37: Initialized field "S1664_m0_a1_S1662".
+Error type 15 at Line 38: Initialized field "S1664_m1_a1_S1662".
+Error type 15 at Line 39: Initialized field "S1664_m2_i".
+Error type 15 at Line 40: Initialized field "S1664_m3_i".
+Error type 15 at Line 41: Initialized field "S1664_m4_i".
+Error type 15 at Line 42: Initialized field "S1664_m5_a1_S1661".
+Error type 15 at Line 43: Initialized field "S1664_m6_a1_S1661".
+Error type 15 at Line 44: Initialized field "S1664_m7_i".
+
+
+./tests/Bt/B-22-1.0.cmm
+Error type 16 at Line 9: Duplicated name "dup1".
+
+
+./tests/Bt/B-22-2.0.cmm
+Error type 16 at Line 10: Duplicated name "dup2".
+Error type 16 at Line 14: Duplicated name "dup3".
+
+
+./tests/Bt/B-22-3.0.cmm
+Error type 16 at Line 34: Duplicated name "dup4".
+
+
+./tests/Bt/B-22-4.0.cmm
+Error type 16 at Line 83: Duplicated name "dup5".
+Error type 16 at Line 87: Duplicated name "dup6".
+
+
+./tests/Bt/B-22-5.0.cmm
+Error type 16 at Line 37: Duplicated name "dup7".
+Error type 16 at Line 41: Duplicated name "dup8".
+
+
+./tests/Bt/B-22-6.0.cmm
+Error type 16 at Line 100: Duplicated name "dup9".
+
+
+./tests/Bt/B-22-7.0.cmm
+Error type 16 at Line 75: Duplicated name "dup10".
+Error type 16 at Line 79: Duplicated name "dup11".
+
+
+./tests/Bt/B-22-8.0.cmm
+Error type 16 at Line 41: Duplicated name "dup12".
+Error type 16 at Line 45: Duplicated name "dup13".
+Error type 16 at Line 49: Duplicated name "dup14".
+Error type 16 at Line 53: Duplicated name "dup15".
+Error type 16 at Line 57: Duplicated name "dup16".
+
+
+./tests/Bt/B-22-9.0.cmm
+Error type 16 at Line 73: Duplicated name "dup17".
+Error type 16 at Line 77: Duplicated name "dup18".
+
+
+./tests/Bt/B-23-1.0.cmm
+Error type 17 at Line 760: Undefined structure "S1816".
+
+
+./tests/Bt/B-23-2.0.cmm
+Error type 17 at Line 75: Undefined structure "S1842".
+Error type 17 at Line 402: Undefined structure "S1877".
+
+
+./tests/Bt/B-23-3.0.cmm
+Error type 17 at Line 139: Undefined structure "S1898".
+Error type 17 at Line 174: Undefined structure "S1911".
+Error type 17 at Line 295: Undefined structure "S1933".
+
+
+./tests/Bt/B-23-4.0.cmm
+Error type 17 at Line 51: Undefined structure "S1971".
+Error type 17 at Line 52: Undefined structure "S1973".
+Error type 17 at Line 105: Undefined structure "S1988".
+Error type 17 at Line 106: Undefined structure "S1989".
+
+
+./tests/Bt/B-23-5.0.cmm
+Error type 17 at Line 33: Undefined structure "S1994".
+Error type 17 at Line 34: Undefined structure "S1996".
+Error type 17 at Line 35: Undefined structure "S1997".
+Error type 17 at Line 46: Undefined structure "S2000".
+Error type 17 at Line 55: Undefined structure "S2004".
+
+
+./tests/Bt/B-23-6.0.cmm
+Error type 17 at Line 110: Undefined structure "S2024".
+Error type 17 at Line 500: Undefined structure "S2042".
+Error type 17 at Line 556: Undefined structure "S2053".
+Error type 17 at Line 703: Undefined structure "S2056".
+Error type 17 at Line 704: Undefined structure "S2057".
+Error type 17 at Line 717: Undefined structure "S2058".
+
+
+./tests/Bt/B-23-7.0.cmm
+Error type 17 at Line 95: Undefined structure "S2073".
+Error type 17 at Line 151: Undefined structure "S2081".
+Error type 17 at Line 253: Undefined structure "S2085".
+Error type 17 at Line 285: Undefined structure "S2088".
+Error type 17 at Line 376: Undefined structure "S2096".
+Error type 17 at Line 377: Undefined structure "S2097".
+Error type 17 at Line 378: Undefined structure "S2099".
+
+
+./tests/Bt/B-23-8.0.cmm
+Error type 17 at Line 23: Undefined structure "S2104".
+Error type 17 at Line 57: Undefined structure "S2111".
+Error type 17 at Line 58: Undefined structure "S2112".
+Error type 17 at Line 59: Undefined structure "S2113".
+Error type 17 at Line 131: Undefined structure "S2124".
+Error type 17 at Line 218: Undefined structure "S2139".
+Error type 17 at Line 242: Undefined structure "S2143".
+Error type 17 at Line 243: Undefined structure "S2144".
+
+
+./tests/Bt/B-23-9.0.cmm
+Error type 17 at Line 83: Undefined structure "S2157".
+Error type 17 at Line 84: Undefined structure "S2159".
+Error type 17 at Line 410: Undefined structure "S2176".
+Error type 17 at Line 680: Undefined structure "S2202".
+Error type 17 at Line 757: Undefined structure "S2223".
+Error type 17 at Line 825: Undefined structure "S2224".
+Error type 17 at Line 826: Undefined structure "S2225".
+Error type 17 at Line 945: Undefined structure "S2229".
+Error type 17 at Line 946: Undefined structure "S2231".
+
+
+./tests/Bt/B-24-1.0.cmm
+
+
+./tests/Bt/B-24-2.0.cmm
+
+
+./tests/Bt/B-24-3.0.cmm
+
+
+./tests/Bt/B-24-4.0.cmm
+
+
+./tests/Bt/B-24-5.0.cmm
+
+
+./tests/Bt/B-24-6.0.cmm
+
+
+./tests/Bt/B-24-7.0.cmm
+
+
+./tests/Bt/B-24-8.0.cmm
+
+
+./tests/Bt/B-24-9.0.cmm
+
+
+./tests/Bt/B-25-1.0.cmm
+
+
+./tests/Bt/B-25-2.0.cmm
+
+
+./tests/Bt/B-25-3.0.cmm
+
+
+./tests/Bt/B-25-4.0.cmm
+
+
+./tests/Bt/B-25-5.0.cmm
+
+
+./tests/Bt/B-25-6.0.cmm
+
+
+./tests/Bt/B-25-7.0.cmm
+
+
+./tests/Bt/B-25-8.0.cmm
+
+
+./tests/Bt/B-25-9.0.cmm
+
+
+./tests/Bt/B-6-1.0.cmm
+Error type 1 at Line 35: Undefined variable "l94".
+
+
+./tests/Bt/B-6-2.0.cmm
+Error type 1 at Line 152: Undefined variable "l214".
+Error type 1 at Line 164: Undefined variable "l229".
+
+
+./tests/Bt/B-6-3.0.cmm
+Error type 1 at Line 118: Undefined variable "l246".
+Error type 1 at Line 137: Undefined variable "l252".
+Error type 1 at Line 456: Undefined variable "l271".
+
+
+./tests/Bt/B-6-4.0.cmm
+Error type 1 at Line 49: Undefined variable "l322".
+Error type 1 at Line 74: Undefined variable "l352".
+Error type 1 at Line 96: Undefined variable "l356".
+Error type 1 at Line 115: Undefined variable "l390".
+
+
+./tests/Bt/B-6-5.0.cmm
+Error type 1 at Line 93: Undefined variable "l420".
+Error type 1 at Line 122: Undefined variable "l447".
+Error type 1 at Line 124: Undefined variable "l448".
+Error type 1 at Line 128: Undefined variable "l451".
+Error type 1 at Line 189: Undefined variable "l469".
+
+
+./tests/Bt/B-6-6.0.cmm
+Error type 1 at Line 76: Undefined variable "l492".
+Error type 1 at Line 101: Undefined variable "l513".
+Error type 1 at Line 104: Undefined variable "l516".
+Error type 1 at Line 124: Undefined variable "l532".
+Error type 1 at Line 136: Undefined variable "l548".
+Error type 1 at Line 140: Undefined variable "l551".
+
+
+./tests/Bt/B-6-7.0.cmm
+Error type 1 at Line 81: Undefined variable "l603".
+Error type 1 at Line 82: Undefined variable "l604".
+Error type 1 at Line 84: Undefined variable "l608".
+Error type 1 at Line 97: Undefined variable "l617".
+Error type 1 at Line 101: Undefined variable "l620".
+Error type 1 at Line 113: Undefined variable "l614".
+Error type 1 at Line 214: Undefined variable "l635".
+
+
+./tests/Bt/B-6-8.0.cmm
+Error type 1 at Line 29: Undefined variable "l649".
+Error type 1 at Line 31: Undefined variable "l652".
+Error type 1 at Line 38: Undefined variable "l659".
+Error type 1 at Line 40: Undefined variable "l665".
+Error type 1 at Line 70: Undefined variable "l692".
+Error type 1 at Line 71: Undefined variable "l695".
+Error type 1 at Line 73: Undefined variable "l704".
+Error type 1 at Line 80: Undefined variable "l713".
+
+
+./tests/Bt/B-6-9.0.cmm
+Error type 1 at Line 87: Undefined variable "l726".
+Error type 1 at Line 92: Undefined variable "l730".
+Error type 1 at Line 131: Undefined variable "l765".
+Error type 1 at Line 134: Undefined variable "l767".
+Error type 1 at Line 142: Undefined variable "l773".
+Error type 1 at Line 152: Undefined variable "l783".
+Error type 1 at Line 153: Undefined variable "l786".
+Error type 1 at Line 154: Undefined variable "l790".
+Error type 1 at Line 155: Undefined variable "l793".
+
+
+./tests/Bt/B-7-1.0.cmm
+Error type 2 at Line 83: Undefined function "i_func_231".
+
+
+./tests/Bt/B-7-2.0.cmm
+Error type 2 at Line 180: Undefined function "i_func_310".
+Error type 2 at Line 226: Undefined function "i_func_290".
+
+
+./tests/Bt/B-7-3.0.cmm
+Error type 2 at Line 31: Undefined function "i_func_340".
+Error type 2 at Line 49: Undefined function "i_func_366".
+Error type 2 at Line 64: Undefined function "i_func_377".
+
+
+./tests/Bt/B-7-4.0.cmm
+Error type 2 at Line 115: Undefined function "i_func_421".
+Error type 2 at Line 163: Undefined function "i_func_450".
+Error type 2 at Line 190: Undefined function "i_func_489".
+Error type 2 at Line 192: Undefined function "i_func_493".
+
+
+./tests/Bt/B-7-5.0.cmm
+Error type 2 at Line 32: Undefined function "i_func_509".
+Error type 2 at Line 42: Undefined function "i_func_518".
+Error type 2 at Line 78: Undefined function "i_func_548".
+Error type 2 at Line 91: Undefined function "i_func_566".
+Error type 2 at Line 93: Undefined function "i_func_573".
+
+
+./tests/Bt/B-7-6.0.cmm
+Error type 2 at Line 40: Undefined function "i_func_596".
+Error type 2 at Line 41: Undefined function "i_func_599".
+Error type 2 at Line 42: Undefined function "i_func_589".
+Error type 2 at Line 43: Undefined function "i_func_593".
+Error type 2 at Line 53: Undefined function "i_func_603".
+Error type 2 at Line 54: Undefined function "i_func_606".
+
+
+./tests/Bt/B-7-7.0.cmm
+Error type 2 at Line 87: Undefined function "i_func_635".
+Error type 2 at Line 88: Undefined function "i_func_637".
+Error type 2 at Line 91: Undefined function "i_func_641".
+Error type 2 at Line 108: Undefined function "i_func_652".
+Error type 2 at Line 147: Undefined function "i_func_686".
+Error type 2 at Line 162: Undefined function "i_func_669".
+
+
+./tests/Bt/B-7-8.0.cmm
+Error type 2 at Line 59: Undefined function "i_func_706".
+Error type 2 at Line 61: Undefined function "i_func_710".
+Error type 2 at Line 62: Undefined function "i_func_712".
+Error type 2 at Line 68: Undefined function "i_func_723".
+Error type 2 at Line 74: Undefined function "i_func_738".
+Error type 2 at Line 76: Undefined function "i_func_716".
+Error type 2 at Line 80: Undefined function "i_func_743".
+Error type 2 at Line 86: Undefined function "i_func_756".
+
+
+./tests/Bt/B-7-9.0.cmm
+Error type 2 at Line 105: Undefined function "i_func_772".
+Error type 2 at Line 110: Undefined function "i_func_776".
+Error type 2 at Line 123: Undefined function "i_func_794".
+Error type 2 at Line 125: Undefined function "i_func_798".
+Error type 2 at Line 131: Undefined function "i_func_807".
+Error type 2 at Line 148: Undefined function "i_func_846".
+Error type 2 at Line 199: Undefined function "i_func_822".
+Error type 2 at Line 203: Undefined function "i_func_829".
+Error type 2 at Line 204: Undefined function "i_func_832".
+
+
+./tests/Bt/B-8-1.0.cmm
+Error type 3 at Line 390: Redefined variable "redef_L55".
+
+
+./tests/Bt/B-8-2.0.cmm
+Error type 3 at Line 44: Redefined variable "redef_L97".
+Error type 3 at Line 62: Redefined variable "redef_L102".
+
+
+./tests/Bt/B-8-3.0.cmm
+Error type 3 at Line 57: Redefined variable "redef_L105".
+Error type 3 at Line 194: Redefined variable "redef_L113".
+Error type 3 at Line 286: Redefined variable "redef_L118".
+
+
+./tests/Bt/B-8-4.0.cmm
+Error type 3 at Line 104: Redefined variable "redef_L145".
+Error type 3 at Line 162: Redefined variable "redef_L149".
+Error type 3 at Line 396: Redefined variable "redef_L155".
+Error type 3 at Line 1195: Redefined variable "redef_L177".
+
+
+./tests/Bt/B-8-5.0.cmm
+Error type 3 at Line 102: Redefined variable "redef_L196".
+Error type 3 at Line 123: Redefined variable "redef_L201".
+Error type 3 at Line 136: Redefined variable "redef_L204".
+Error type 3 at Line 262: Redefined variable "redef_L225".
+Error type 3 at Line 264: Redefined variable "redef_L227".
+
+
+./tests/Bt/B-8-6.0.cmm
+Error type 3 at Line 20: Redefined variable "redef_L230".
+Error type 3 at Line 22: Redefined variable "redef_L231".
+Error type 3 at Line 48: Redefined variable "redef_L233".
+Error type 3 at Line 79: Redefined variable "redef_L237".
+Error type 3 at Line 87: Redefined variable "redef_L242".
+Error type 3 at Line 103: Redefined variable "redef_L246".
+
+
+./tests/Bt/B-8-7.0.cmm
+Error type 3 at Line 129: Redefined variable "redef_L254".
+Error type 3 at Line 137: Redefined variable "redef_L258".
+Error type 3 at Line 657: Redefined variable "redef_L284".
+Error type 3 at Line 659: Redefined variable "redef_L287".
+Error type 3 at Line 665: Redefined variable "redef_L291".
+Error type 3 at Line 813: Redefined variable "redef_L301".
+Error type 3 at Line 929: Redefined variable "redef_L310".
+
+
+./tests/Bt/B-8-8.0.cmm
+Error type 3 at Line 155: Redefined variable "redef_L330".
+Error type 3 at Line 168: Redefined variable "redef_L332".
+Error type 3 at Line 170: Redefined variable "redef_L334".
+Error type 3 at Line 180: Redefined variable "redef_L336".
+Error type 3 at Line 217: Redefined variable "redef_L344".
+Error type 3 at Line 219: Redefined variable "redef_L345".
+Error type 3 at Line 221: Redefined variable "redef_L346".
+Error type 3 at Line 223: Redefined variable "redef_L347".
+
+
+./tests/Bt/B-8-9.0.cmm
+Error type 3 at Line 68: Redefined variable "redef_L348".
+Error type 3 at Line 70: Redefined variable "redef_L350".
+Error type 3 at Line 72: Redefined variable "redef_L351".
+Error type 3 at Line 169: Redefined variable "redef_L354".
+Error type 3 at Line 171: Redefined variable "redef_L355".
+Error type 3 at Line 236: Redefined variable "redef_L356".
+Error type 3 at Line 455: Redefined variable "redef_L366".
+Error type 3 at Line 457: Redefined variable "redef_L367".
+Error type 3 at Line 481: Redefined variable "redef_L371".
+
+
+./tests/Bt/B-9-1.0.cmm
+Error type 4 at Line 77: Redefined function "i_func_900".
+
+
+./tests/Bt/B-9-2.0.cmm
+Error type 4 at Line 134: Redefined function "i_func_911".
+
+
+./tests/Bt/B-9-3.0.cmm
+Error type 4 at Line 30: Redefined function "i_func_922".
+Error type 4 at Line 92: Redefined function "i_func_923".
+Error type 4 at Line 118: Redefined function "i_func_924".
+
+
+./tests/Bt/B-9-4.0.cmm
+Error type 4 at Line 49: Redefined function "i_func_929".
+
+
+./tests/Bt/B-9-5.0.cmm
+Error type 4 at Line 99: Redefined function "i_func_938".
+Error type 4 at Line 175: Redefined function "i_func_939".
+Error type 4 at Line 312: Redefined function "i_func_940".
+
+
+./tests/Bt/B-9-6.0.cmm
+Error type 4 at Line 96: Redefined function "i_func_951".
+Error type 4 at Line 236: Redefined function "i_func_952".
+Error type 4 at Line 337: Redefined function "i_func_953".
+Error type 4 at Line 519: Redefined function "i_func_954".
+Error type 4 at Line 586: Redefined function "i_func_955".
+Error type 4 at Line 657: Redefined function "i_func_956".
+
+
+./tests/Bt/B-9-7.0.cmm
+Error type 4 at Line 130: Redefined function "i_func_963".
+Error type 4 at Line 193: Redefined function "i_func_964".
+Error type 4 at Line 303: Redefined function "i_func_965".
+Error type 4 at Line 424: Redefined function "i_func_966".
+
+
+./tests/Bt/B-9-8.0.cmm
+Error type 4 at Line 38: Redefined function "i_func_973".
+Error type 4 at Line 67: Redefined function "i_func_974".
+Error type 4 at Line 112: Redefined function "i_func_975".
+Error type 4 at Line 176: Redefined function "i_func_976".
+Error type 4 at Line 257: Redefined function "i_func_977".
+Error type 4 at Line 324: Redefined function "i_func_978".
+Error type 4 at Line 377: Redefined function "i_func_979".
+Error type 4 at Line 445: Redefined function "i_func_980".
+
+
+./tests/Bt/B-9-9.0.cmm
+Error type 4 at Line 134: Redefined function "i_func_988".
+Error type 4 at Line 169: Redefined function "i_func_989".
+Error type 4 at Line 275: Redefined function "i_func_990".
+Error type 4 at Line 332: Redefined function "i_func_991".
+Error type 4 at Line 375: Redefined function "i_func_992".
+Error type 4 at Line 444: Redefined function "i_func_993".
+Error type 4 at Line 473: Redefined function "i_func_994".
+
+

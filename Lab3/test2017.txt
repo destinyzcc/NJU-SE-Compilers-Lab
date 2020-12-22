@@ -1,0 +1,227 @@
+./Test/1.cmm
+Error type 1 at Line 4: Undefined variable "j".
+
+
+./Test/10.cmm
+Error type 10 at Line 4: Illegal use of of "[]" operator.
+
+
+./Test/11.cmm
+Error type 11 at Line 4: Illegal use of operator "()".
+
+
+./Test/12.cmm
+Error type 12 at Line 4: Array index is not an integer.
+
+
+./Test/13.cmm
+Error type 13 at Line 9: Illegal use of operator ".".
+
+
+./Test/14.cmm
+Error type 14 at Line 9: Non-existent field "n".
+
+
+./Test/15.cmm
+Error type 15 at Line 4: Redefined field "x".
+
+
+./Test/16.cmm
+Error type 16 at Line 6: Duplicated name "Position".
+
+
+./Test/17.cmm
+Error type 17 at Line 3: Undefined structure "Position".
+
+
+./Test/18.cmm
+Error type B at Line 1: syntax error.
+
+
+./Test/19.cmm
+Error type B at Line 6: syntax error.
+Error type B at Line 8: syntax error.
+
+
+./Test/2.cmm
+Error type 2 at Line 4: Undefined function "inc".
+
+
+./Test/20.cmm
+Error type 3 at Line 9: Redefined variable "i".
+
+
+./Test/21.cmm
+Error type 3 at Line 9: Redefined variable "i".
+Error type 3 at Line 10: Redefined variable "i".
+
+
+./Test/22.cmm
+
+
+./Test/23.cmm
+Error type 5 at Line 16: Type mismatched for assignment.
+
+
+./Test/3.cmm
+Error type 3 at Line 4: Redefined variable "i".
+
+
+./Test/4.cmm
+Error type 4 at Line 6: Redefined function "func".
+
+
+./Test/5.cmm
+Error type 5 at Line 4: Type mismatched for assignment.
+
+
+./Test/6.cmm
+Error type 6 at Line 4: Assign a value to a right-hand-only expression.
+
+
+./Test/7.cmm
+Error type 7 at Line 4: Operand type mismatch.
+
+
+./Test/8.cmm
+Error type 8 at Line 4: Return type mismatch.
+
+
+./Test/9.cmm
+Error type 9 at Line 8: Arguments mismatch in function "func".
+
+
+./Test/A1.cmm
+Error type 1 at Line 10: Undefined variable "z1".
+
+
+./Test/A10.cmm
+Error type 10 at Line 10: Illegal use of of "[]" operator.
+
+
+./Test/A11.cmm
+Error type 11 at Line 22: Illegal use of operator "()".
+
+
+./Test/A12.cmm
+Error type 12 at Line 13: Array index is not an integer.
+
+
+./Test/A13.cmm
+Error type 13 at Line 14: Illegal use of operator ".".
+
+
+./Test/A14.cmm
+Error type 14 at Line 15: Non-existent field "b".
+
+
+./Test/A15.cmm
+Error type 15 at Line 11: Initialized field "weight1".
+
+
+./Test/A16.cmm
+Error type 16 at Line 9: Duplicated name "Price".
+
+
+./Test/A17.cmm
+Error type 17 at Line 15: Undefined structure "Food2".
+
+
+./Test/A18.cmm
+Error type 15 at Line 6: Redefined field "price".
+
+
+./Test/A19.cmm
+Error type 9 at Line 17: Arguments mismatch in function "set_Item".
+
+
+./Test/A2.cmm
+Error type 2 at Line 7: Undefined function "compareP".
+
+
+./Test/A20.cmm
+Error type 7 at Line 14: Operand type mismatch.
+
+
+./Test/A3.cmm
+Error type 3 at Line 8: Redefined variable "Product".
+Error type 5 at Line 12: Type mismatched for assignment.
+
+
+./Test/A4.cmm
+Error type 4 at Line 5: Redefined function "math_calculator".
+
+
+./Test/A5.cmm
+Error type 5 at Line 15: Type mismatched for assignment.
+
+
+./Test/A6.cmm
+Error type 6 at Line 11: Assign a value to a right-hand-only expression.
+
+
+./Test/A7.cmm
+Error type 7 at Line 9: Operand type mismatch.
+
+
+./Test/A8.cmm
+Error type 8 at Line 14: Return type mismatch.
+
+
+./Test/A9.cmm
+Error type B at Line 16: syntax error.
+
+
+./Test/B1.cmm
+Error type 14 at Line 18: Non-existent field "date_frm".
+Error type 17 at Line 23: Undefined structure "saleList".
+Error type 8 at Line 31: Return type mismatch.
+Error type 9 at Line 49: Arguments mismatch in function "set_ProductSingle".
+Error type 9 at Line 50: Arguments mismatch in function "calculateAll".
+
+
+./Test/B2.cmm
+Error type 15 at Line 7: Initialized field "price_sum".
+Error type 17 at Line 11: Undefined structure "Summ".
+Error type 10 at Line 19: Illegal use of of "[]" operator.
+Error type 1 at Line 26: Undefined variable "sum_result1".
+Error type 8 at Line 27: Return type mismatch.
+
+
+./Test/C1.cmm
+
+
+./Test/C2.cmm
+
+
+./Test/D1.cmm
+Error type B at Line 16: syntax error.
+Error type B at Line 21: syntax error.
+
+
+./Test/D2.cmm
+Error type 3 at Line 22: Redefined variable "result".
+Error type 3 at Line 28: Redefined variable "result".
+Error type 3 at Line 37: Redefined variable "i".
+
+
+./Test/D3.cmm
+
+
+./Test/E1.cmm
+Error type B at Line 16: syntax error.
+Error type B at Line 21: syntax error.
+Error type B at Line 22: syntax error.
+Error type B at Line 29: syntax error.
+
+
+./Test/E2.cmm
+Error type 3 at Line 36: Redefined variable "i".
+Error type 3 at Line 36: Redefined variable "a".
+
+
+./Test/E3.cmm
+Error type 5 at Line 41: Type mismatched for assignment.
+Error type 5 at Line 43: Type mismatched for assignment.
+
+
